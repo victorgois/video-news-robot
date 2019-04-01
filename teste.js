@@ -8,9 +8,8 @@ newsapi.v2.topHeadlines({
   language: 'pt',
   country: 'br'
 }).then(response => {
-  let data = JSON.stringify(response);
-  fs.writeFileSync('output.json', data);
-    
+  var newJson = JSON.stringify(response, null, '\t');
+  fs.writeFileSync('output.json', newJson);
   //console.log(response);
   /*
     {
@@ -19,4 +18,3 @@ newsapi.v2.topHeadlines({
     }
   */
 });
-
