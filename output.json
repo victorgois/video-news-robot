@@ -1,266 +1,266 @@
 {
 	"status": "ok",
-	"totalResults": 38,
+	"totalResults": 34,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Buzzfeednews.com"
+				"name": "Uol.com.br"
 			},
-			"author": "Michael Blackmon",
-			"title": "Shangela Performed A Beyoncé Medley — In Front Of Beyoncé — And Got A Standing Ovation - BuzzFeed News",
-			"description": "Beyoncé and Jay-Z were honored at the GLAAD Media Awards, where they were treated to a special performance from one of America's favorite drag queens.",
-			"url": "https://www.buzzfeednews.com/article/michaelblackmon/shangela-beyonce-medley-performance-drag-glaad",
-			"urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2019-03/29/9/campaign_images/buzzfeed-prod-web-05/shangela-performed-a-beyonce-medley-in-front-of-b-2-31455-1553865982-0_dblbig.jpg",
-			"publishedAt": "2019-03-29T13:59:57Z",
-			"content": "Former Drag Race star Shangela Laquifa Wadley, known to her many fans as simply Shangela, performed for Beyoncé and Jay-Z at this years GLAAD Media Awards on Thursday night, adding to her already banner year. The drag queen, who was the first runner-up on RuP… [+1541 chars]"
+			"author": "Contigo!",
+			"title": "Descontente com cardápio, ele foi embora da festa e debochou nas redes sociais - Contigo!",
+			"description": "Saulo Pôncio surpreende, deixa a festa de Anitta cedo e manda recado na web",
+			"url": "https://contigo.uol.com.br/noticias/ultimas/saulo-poncio-deixa-a-festa-de-anitta-cedo-e-manda-recado-na-web.phtml",
+			"urlToImage": "https://contigo.uol.com.br/orinoco/media/images/large/2019/03/29/anitta-e-saulo-poncio-1136775.jpg",
+			"publishedAt": "2019-03-29T13:49:46Z",
+			"content": "Veja mais Por Gustavo Assumpção Por Gustavo Assumpção Por Gustavo Assumpção Por Marcos Santos O cantor Saulo Pôncio teve uma atitude inesperada ao deixar cedo o aniversário da cantora Anitta. Em uma publicação nas redes sociais, ele mostrou que deixou o festã… [+1123 chars]"
 		},
 		{
 			"source": {
-				"id": null,
-				"name": "Cheatsheet.com"
-			},
-			"author": "wendy-michaels",
-			"title": "Meghan Markle and Prince Harry's House Renovations: All the Details, Including How Much It Costs - The Cheat Sheet",
-			"description": "Prince Harry and Meghan Markle's new home at Frogmore Cottage: the extensive renovations and cost of the pricey project.",
-			"url": "https://www.cheatsheet.com/entertainment/meghan-markle-prince-harry-house-renovations-details-how-much-costs-frogmore-cottage.html/",
-			"urlToImage": "https://www.cheatsheet.com/wp-content/uploads/2019/03/meghan-markle-prince-harry-frogmore-cottage-1024x683.jpg",
-			"publishedAt": "2019-03-29T13:48:24Z",
-			"content": "As Prince Harry and Meghan Markle prepare for the arrival of Baby Sussex, the couple are having their Frogmore Cottage home renovated. Will the renovations be finished by the time the baby is born, however? The project has hit some delays and with the babys a… [+3407 chars]"
-		},
-		{
-			"source": {
-				"id": "fox-news",
-				"name": "Fox News"
-			},
-			"author": "PCmag",
-			"title": "NASA is paying 24 people $19G to stay in bed - Fox News",
-			"description": "NASA has created the perfect job for anyone who really enjoys staying in bed all day, as long as they don't mind continuing to do just that for 60 days without a break.",
-			"url": "https://www.foxnews.com/tech/nasa-is-paying-24-people-19k-to-stay-in-bed",
-			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/nasa-people-in-bed.jpg",
-			"publishedAt": "2019-03-29T13:47:40Z",
-			"content": "NASA has created the perfect job for anyone who really enjoys staying in bed all day, as long as they don't mind continuing to do just that for 60 days without a break. As UPI reports, NASA and the European Space Agency (ESA), in conjunction with the German A… [+1758 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Hammerandrails.com"
-			},
-			"author": "Travis Miller",
-			"title": "2019 NCAA Tournament Round 4: Purdue vs. Virginia Preview - Hammer and Rails",
-			"description": "Virginia is possibly the best team in America and a tall order for Purdue.",
-			"url": "https://www.hammerandrails.com/2019/3/29/18286609/2019-ncaa-tournament-purdue-virginia-preview-odds",
-			"urlToImage": "https://cdn.vox-cdn.com/thumbor/8lAg75o-qRIhUjcmrLDxJvf4lOI=/0x149:2518x1467/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15994435/usa_today_12434319.jpg",
-			"publishedAt": "2019-03-29T13:00:00Z",
-			"content": "Purdue is a game away from the Final Four. The last time this happened was my sophomore year in West Lafayette. We beat Dayton, Oklahoma, and Gonzaga in a classic broken bracket to be the higher seed in the regional final in Albuquerque. We faced off against … [+4908 chars]"
-		},
-		{
-			"source": {
-				"id": "cnn",
-				"name": "CNN"
-			},
-			"author": "Paul R. La Monica, CNN Business",
-			"title": "Here's who will get rich from the Lyft IPO - CNN",
-			"description": "As Lyft makes its debut as a publicly traded company, co-founders Logan Green and John Zimmer will be rich. But they won't be billionaires just yet.",
-			"url": "https://www.cnn.com/2019/03/29/tech/lyft-investors-ipo/index.html",
-			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190301124539-logan-green-and-john-zimmer-lyft-founders-file-super-tease.jpg",
-			"publishedAt": "2019-03-29T12:57:21Z",
-			"content": null
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Yahoo.com"
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Stocks rise, Lyft shares start trading - Yahoo Finance",
-			"description": "Stock futures pointed higher and the S&P 500 headed toward its best three-month start to the year in more than two decades.",
-			"url": "https://finance.yahoo.com/news/stock-market-news-march-29-2019-124211144.html",
-			"urlToImage": "https://s.yimg.com/uu/api/res/1.2/xFEIcQ7607saOhO.TAKPnA--~B/aD0zODQwO3c9NTc2MDtzbT0xO2FwcGlkPXl0YWNoeW9u/https://img.huffingtonpost.com/asset/5c9e1159240000f7054f57dc.jpeg",
-			"publishedAt": "2019-03-29T12:42:00Z",
-			"content": "Stocks rose and the S&amp;P 500 headed toward its best three-month start to the year in more than two decades on Friday. The S&amp;P 500 ( ^GSPC ) rose 0.53%, or 15.5 points, as of 9:30 a.m. ET. The Dow ( ^DJI ) rose 0.43%, or 146.56 points, while the Nasdaq … [+5346 chars]"
+			"title": "Caixa tem lucro líquido de R$ 10,355 bilhões em 2018 - G1",
+			"description": "Resultado ficou 17,1% abaixo do resultado positivo contábil de R$ 12,5 bilhões registrado no ano anterior.",
+			"url": "https://g1.globo.com/economia/noticia/2019/03/29/caixa-tem-lucro-liquido-de-r-10355-bilhoes-em-2018.ghtml",
+			"urlToImage": "https://s2.glbimg.com/ecz7IvDgUwOjj55vJ38f7wxNguo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/2/R/qKHOc2TQ6jBI2iZuyaxA/caixa-vl.jpg",
+			"publishedAt": "2019-03-29T12:49:00Z",
+			"content": "A Caixa Econômica Federal divulgou nesta sexta-feira (29) um lucro líquido contábil de R$ 10,355 bilhões em 2018, uma queda de 17,1% frente ao ano anterior. Em 2017, o lucro da Caixa foi de R$ 12,5 bilhões, 202,6% superior ao registrado em 2016. Segundo o ban… [+3104 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Macrumors.com"
+				"name": "Folhavitoria.com.br"
 			},
-			"author": "Joe Rossignol",
-			"title": "AirPods 2 Teardown: H1 Chip With Bluetooth 5.0, Same Batteries, and Water-Repellent Coating on Charging Case... - Mac Rumors",
-			"description": "iFixit today shared a teardown of the second-generation AirPods, providing a closer look at the H1 chip with Bluetooth 5.0 and the same 93 milliwatt...",
-			"url": "https://www.macrumors.com/2019/03/29/airpods-2-teardown/",
-			"urlToImage": "https://cdn.macrumors.com/article-new/2019/03/airpods-2-teardown.jpg?retina",
-			"publishedAt": "2019-03-29T12:35:00Z",
-			"content": "At least they could give you a discount when you bring them to the AS to buy a new pair. Yeah... something! Out of warranty replacement if you swap left, right, and the case is MORE than a retail pair since each part is $69 i believe. I get it, they want to r… [+987 chars]"
-		},
-		{
-			"source": {
-				"id": "cnn",
-				"name": "CNN"
-			},
-			"author": "Analysis by Zachary B. Wolf, CNN",
-			"title": "The Mueller report is more than 300 pages long. We've seen 101 words - CNN",
-			"description": "When people can't see things, conspiracy theories fester. That goes double for President Donald Trump's tax returns, which he's made clear he'll be keeping from public view, making many people wonder what he could be hiding.",
-			"url": "https://www.cnn.com/2019/03/29/politics/mueller-report-secrecy/index.html",
-			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/190324130054-05-russia-investigation-0324-super-tease.jpg",
-			"publishedAt": "2019-03-29T12:19:00Z",
-			"content": "(CNN) When people can't see things, conspiracy theories fester. That goes double for President Donald Trump's tax returns, which he's made clear he'll be keeping from public view, making many people wonder what he could be hiding. The Justice Department is su… [+5856 chars]"
+			"author": "Folha Vitória",
+			"title": "Após polêmica com preço de ingressos, turnê de Sandy e Júnior vira caso de Justiça - Folha Vitória",
+			"description": "A ação foi movida por duas consumidoras, que sustentaram a existência de fortes indícios de que as vendas realizadas para o show foram fictícias",
+			"url": "https://folhavitoria.com.br/entretenimento/noticia/03/2019/apos-polemica-com-preco-de-ingressos-turne-de-sandy-e-junior-vira-caso-de-justica",
+			"urlToImage": "https://assets.folhavitoria.com.br/images/1c42c880-344e-0137-42dc-6231c35b6685--minified.jpg",
+			"publishedAt": "2019-03-29T12:43:32Z",
+			"content": "Foto: Reprodução / Instagram O Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), deferiu o pedido de tutela de urgência feito por uma fã que denunciou supostas irregularidades na venda de ingressos para a turnê dos irmãos Sandy e Júnior. Na decis… [+1235 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Cbssports.com"
+				"name": "Uol.com.br"
 			},
-			"author": "",
-			"title": "2019 NFL Mock Draft: Steelers move up, Chargers trade out for Josh Rosen, Bucs nab Round 1 pick in Gerald McCoy deal - CBS Sports",
-			"description": "Josh Rosen is on the move, as are a couple of NFC East teams, in this first-round projection",
-			"url": "https://www.cbssports.com/nfl/draft/news/2019-nfl-mock-draft-steelers-move-up-chargers-trade-out-for-josh-rosen-bucs-nab-round-1-pick-in-gerald-mccoy-deal/",
-			"urlToImage": "https://sportshub.cbsistatic.com/i/r/2018/11/10/5c76e58e-de08-44d3-a307-d47325c441e5/thumbnail/770x433/bfe048fa33f90e1397065a6730800469/dwayne-haskins-ohio-state-football-psu.jpg",
-			"publishedAt": "2019-03-29T12:12:00Z",
-			"content": "The 2019 NFL Draft is less than a month away, and we're not much closer to figuring out whether the Arizona Cardinals, holders of the prized No. 1 pick, truly covet Heisman Trophy winner Kyler Murray more than their current quarterback Josh Rosen. But in the … [+433 chars]"
+			"author": "UOL",
+			"title": "Desemprego no país sobe para 12,4% e atinge 13,1 milhões de pessoas - UOL",
+			"description": "O desemprego no país foi de 12,4%, em média, no trimestre encerrado em fevereiro, de acordo com dados do IBGE (Instituto Brasileiro de Geografia e Estatística). O índice subiu em relação ao trimestre anterior (11,6%) pela segunda vez seguida. Na comparaçã",
+			"url": "https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2019/03/29/desemprego-trimestre-fevereiro-ibge.htm",
+			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/1a/2018/11/29/demissao-desemprego-desempregados-emprego-carteira-de-trabalho-clt----demitidos-aguardam-homologacao-no-sindicato-dos-comerciarios-em-sao-paulo-sp-sao-paulo-sp-17062003-15h-foto-1543498376333_v2_615x300.jpg",
+			"publishedAt": "2019-03-29T12:02:43Z",
+			"content": "O desemprego no país foi de 12,4%, em média, no trimestre encerrado em fevereiro, de acordo com dados do IBGE (Instituto Brasileiro de Geografia e Estatística). O índice subiu em relação ao trimestre anterior (11,6%) pela segunda vez seguida. Na comparação co… [+3528 chars]"
 		},
 		{
 			"source": {
-				"id": null,
-				"name": "Cnet.com"
-			},
-			"author": "Joan E. Solsman",
-			"title": "Apple's TV Plus put on a hell of a show. It just wasn't for us - CNET",
-			"description": "Commentary: The star-studded theatrics were mostly for the stars themselves.",
-			"url": "https://www.cnet.com/news/apples-tv-plus-put-on-a-hell-of-a-show-it-just-wasnt-for-us/",
-			"urlToImage": "https://cnet3.cbsistatic.com/img/RJAv3oIJR7G59niBcse9eXcV4aQ=/724x407/2019/03/28/97c17101-d8b4-4b95-bfc1-277d5b677dd7/silver-02-group2-0110-colour-ei-v8.jpg",
-			"publishedAt": "2019-03-29T12:00:00Z",
-			"content": "Apple gathered talent from Apple TV Plus for a group photo at the Steve Jobs Theater. Art Streiber/Apple Walking up the blustery path to Apple 's big event Monday, I had a lot of questions about the gadget giant's big-league streaming TV ambitions. But I left… [+5048 chars]"
-		},
-		{
-			"source": {
-				"id": "cnbc",
-				"name": "CNBC"
-			},
-			"author": "The Associated Press",
-			"title": "Trump's small-business health insurance plan is struck down - CNBC",
-			"description": "A federal judge has struck down a small-business health insurance plan widely touted by President Donald Trump.",
-			"url": "https://www.cnbc.com/2019/03/29/trumps-small-business-health-insurance-plan-is-struck-down.html",
-			"urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2019/03/27/105817571-1553705098952rts2f629.1910x1000.jpg",
-			"publishedAt": "2019-03-29T11:36:26Z",
-			"content": "A federal judge has struck down a small-business health insurance plan widely touted by President Donald Trump, marking the second setback in a week for the administration's health care initiatives. U.S. District Judge John D. Bates wrote in his opinion late … [+1906 chars]"
-		},
-		{
-			"source": {
-				"id": "nbc-news",
-				"name": "NBC News"
-			},
-			"author": "Reuters",
-			"title": "Boeing 737 MAX crash: Anti-stall system reportedly activated in Ethiopian Airlines tragedy - NBC News",
-			"description": "Investigators looking into a Boeing 737 MAX crash in Ethiopia that killed 157 people have reached a preliminary conclusion that an anti-stall system was activated before the plane hit the ground.",
-			"url": "https://www.nbcnews.com/news/world/boeing-737-max-crash-anti-stall-system-reportedly-activated-ethiopian-n988751",
-			"urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_13/2800361/190327-boeing-faa-mc-1018_c7a9a60450daf76f14a4b482bc462a01.nbcnews-fp-1200-630.JPG",
-			"publishedAt": "2019-03-29T11:25:00Z",
-			"content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE March 29, 2019, 11:25 AM GMT WASHINGTON Investigators looking into a Boeing 737 MAX crash in Ethiopia that killed 157 pe… [+2057 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Space.com"
-			},
-			"author": "https://www.facebook.com/spacecom",
-			"title": "'Make Another Suit,' Clinton Tells NASA After Scrapped All-Female Spacewalk - Space.com",
-			"description": "From pantsuits to spacesuits, Hillary Clinton is making a statement.",
-			"url": "https://www.space.com/hillary-clinton-twets-about-nasa-spacesuits.html",
-			"urlToImage": "https://cdn.mos.cms.futurecdn.net/cQzzzastnu3SZz3nggyAiH-1200-80.jpg",
-			"publishedAt": "2019-03-29T11:10:00Z",
-			"content": "Hillary Clinton, the former secretary of state and presidential candidate, whose pantsuits became a political fashion statement, is now making a statement about NASA's spacesuits. After NASA canceled the first all-female spacewalk in history due to a lack of … [+4398 chars]"
-		},
-		{
-			"source": {
-				"id": "fox-news",
-				"name": "Fox News"
-			},
-			"author": "Bradford Betz",
-			"title": "March Madness roundup: Virginia beats Oregon in Sweet 16, advance to Elite Eight - Fox News",
-			"description": "No. 1 seed Virginia, reaching its second regional final in four years, beat No. 12 Oregon 53-49 on Thursday night in the NCAA men's basketball tournament.",
-			"url": "https://www.foxnews.com/sports/march-madness-virginia-wins-second-regional-final-in-four-years",
-			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/a139ab6f-1024-preview-1.jpg",
-			"publishedAt": "2019-03-29T11:07:34Z",
-			"content": "No. 1 seed Virginia, reaching its second regional final in four years, beat No. 12 Oregon 53-49 on Thursday night in the NCAA men's basketball tournament. Oregon was on a roll and leading, but the Cavaliers kept them from reaching the regional final. Virginia… [+2243 chars]"
-		},
-		{
-			"source": {
-				"id": "fox-news",
-				"name": "Fox News"
-			},
-			"author": "Associated Press",
-			"title": "Iran to 'resist' Trump decision on Israel's hold over Golan - Fox News",
-			"description": "Iran's president says his country will resist the Trump administration's acceptance of Israel's control over the Golan Heights.",
-			"url": "https://www.foxnews.com/world/iran-to-resist-trump-decision-on-israels-hold-over-golan",
-			"urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/03/ContentBroker_contentid-74d98f6b8afc4be2bb00ced6bdc24c46.png",
-			"publishedAt": "2019-03-29T11:07:25Z",
-			"content": "TEHRAN, Iran Iran's president says his country will resist the Trump administration's acceptance of Israel's control over the Golan Heights. Hassan Rouhani said on Friday that President Donald Trump's decision this week is \"trampling on international regulati… [+583 chars]"
-		},
-		{
-			"source": {
-				"id": "cbs-news",
-				"name": "CBS News"
-			},
-			"author": "cbs/AFP",
-			"title": "North Korea long-range rocket test site Sohae \"almost\" completely rebuilt month after Donald Trump-Kim Jong Un summit, South says - CBS News",
-			"description": "Trump admin. has said it doesn't necessarily agree with analysts on implications of activity at site Kim vowed to dismantle, but it has drawn a red line",
-			"url": "https://www.cbsnews.com/news/north-korea-rocket-test-site-sohae-almost-complete-donald-trump-kim-jong-un/",
-			"urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2016/04/11/e0bbe20f-ce26-4673-bf11-3555faba0136/thumbnail/1200x630/cfcc06bcfd48e34876260eccb2316639/2016-04-09t104843z1782879616gf10000376550rtrmadp3northkorea-nuclear.jpg",
-			"publishedAt": "2019-03-29T11:01:00Z",
-			"content": "Seoul -- North Korea has almost completed rebuilding a long-range rocket site it had promised to close, South Korean lawmakers told reporters on Friday after a closed-door meeting with intelligence officials in Seoul. The claim comes a month after a second su… [+3850 chars]"
-		},
-		{
-			"source": {
-				"id": "nbc-news",
-				"name": "NBC News"
-			},
-			"author": "Associated Press",
-			"title": "Florida pet zebra fatally shot by owner after escaping its home - NBCNews.com",
-			"description": "News outlets report the Nassau County Sheriff's Office says the zebra, named Shadow, injured itself somehow while escaping Wednesday in the town of Callahan.",
-			"url": "https://www.nbcnews.com/news/us-news/florida-pet-zebra-fatally-shot-owner-after-escaping-its-home-n988746",
-			"urlToImage": "https://media3.s-nbcnews.com/j/newscms/2019_13/2802971/190329-zebra-florida-mc-1045_5fe21b545785cb2b7c898019da436153.nbcnews-fp-1200-630.jpg",
-			"publishedAt": "2019-03-29T10:57:00Z",
-			"content": "Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE March 29, 2019, 10:57 AM GMT CALLAHAN, Fla. A pet zebra escaped from a Florida home and was shot and killed by its owner, who wasn't licensed… [+605 chars]"
-		},
-		{
-			"source": {
-				"id": "nbc-news",
-				"name": "NBC News"
-			},
-			"author": "Alexander Smith",
-			"title": "Britain's Brexit was meant to happen today. Instead everyone's confused. - NBC News",
-			"description": "For exactly two years, March 29 has been seared into British minds as the moment their country would finally leave the European Union.",
-			"url": "https://www.nbcnews.com/storyline/brexit-referendum/britain-s-brexit-was-meant-happen-today-instead-everyone-s-n988731",
-			"urlToImage": "https://media2.s-nbcnews.com/j/newscms/2019_12/2790236/190318-brexit-theresa-may-deal-kh-main_1bddbd0efcfe561440a011118459649b.nbcnews-fp-1200-630.jpg",
-			"publishedAt": "2019-03-29T10:50:00Z",
-			"content": "Breaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. SUBSCRIBE March 29, 2019, 10:50 AM GMT / Updated March 29, 2019, 12:01 PM GMT LONDON Friday was meant to be the day when Britain's… [+6644 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Wmur.com"
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Teen dies of tapeworm egg infestation in brain, study says - WMUR Manchester",
-			"description": "An 18-year-old who complained of seizures in an emergency room turned out to have parasites in his brain, according to a case study.",
-			"url": "https://www.wmur.com/article/teen-dies-of-tapeworm-egg-infestation-in-brain-study-says/26981053",
-			"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/s107250786-jpg-1553838470.jpg?crop=1.00xw:0.972xh;0,0&resize=1200:*",
-			"publishedAt": "2019-03-29T10:02:00Z",
-			"content": "An 18-year-old who complained of seizures in the emergency room of an Indian hospital turned out to have parasites in his brain, according to a case study published Thursday in the New England Journal of Medicine. Dr. Nishanth Dev and Dr. S. Zafar Abbas of th… [+2778 chars]"
+			"title": "Desemprego sobe para 12,4% em fevereiro, diz IBGE - G1",
+			"description": "População subutilizada é a maior da série do instituto, iniciada em 2012. Dados trazem série de recordes negativos.",
+			"url": "https://g1.globo.com/economia/noticia/2019/03/29/desemprego-sobe-para-124percent-em-fevereiro-diz-ibge.ghtml",
+			"urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png",
+			"publishedAt": "2019-03-29T12:01:00Z",
+			"content": "A taxa de desemprego no Brasil subiu para 12,4% no trimestre encerrado em fevereiro, atingindo 13,1 milhões de pessoas, segundo dados divulgados nesta sexta-feira (29) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Segundo o instituto, a alta re… [+3961 chars]"
 		},
 		{
 			"source": {
-				"id": "metro",
-				"name": "Metro"
+				"id": null,
+				"name": "Folhavitoria.com.br"
 			},
-			"author": "Jeff Parsons",
-			"title": "'Ninja rat' drop-kicking a striking rattlesnake is all you need today - Metro.co.uk",
-			"description": "There is no other news",
-			"url": "https://metro.co.uk/2019/03/29/epic-footage-ninja-rat-drop-kicking-striking-rattlesnake-need-see-today-9057814/",
-			"urlToImage": "https://i2.wp.com/metro.co.uk/wp-content/uploads/2019/03/SEC_58911888_1553854718.jpg?quality=90&strip=all&w=1200&h=630&crop=1&zoom=1&ssl=1",
-			"publishedAt": "2019-03-29T10:00:00Z",
-			"content": "This is the moment a rat fought off a lunging rattlesnake with the kind of mid-air kick usually reserved for martial arts movies. The epic footage shows the lightning-fast reactions of a kangaroo rat escaping the snakes potentially poisonous bite. To execute … [+2532 chars]"
+			"author": "Folha Vitória",
+			"title": "Sobe para 14 o número de pessoas contaminadas por surto de diarreia em Vila Velha - Jornal Folha Vitória",
+			"description": "Um inquérito epidemiológico foi instaurado pela Prefeitura de Vila Velha para apurar a causa do surto",
+			"url": "https://www.folhavitoria.com.br/geral/noticia/03/2019/sobe-para-14-o-numero-de-pessoas-contaminadas-por-surto-de-diarreia-em-vila-velha",
+			"urlToImage": "https://assets.folhavitoria.com.br/images/b46379e0-32d4-0137-073a-6231c35b6685--minified.jpg",
+			"publishedAt": "2019-03-29T11:42:18Z",
+			"content": "Foto: TV Vitória Subiu para 14 o número de pessoas com os mesmos sintomas de infecção intestinal, motivada por um possível surto de contaminação entre alunos de uma creche privada, localizada na Praia da Costa, em Vila Velha. Agora, além das crianças, quatro … [+1526 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Ibahia.com"
+			},
+			"author": "Redação iBahia",
+			"title": "Jovem de 18 anos morre após descobrir parasitas no cérebro - iBahia",
+			"description": "Problema só foi identificado depois que os médicos realizaram uma ressonância magnética e viram os danos causados ​​pelos cistos no córtex e no tronco cerebral",
+			"url": "https://www.ibahia.com/mundo/detalhe/noticia/jovem-de-18-anos-morre-apos-descobrir-parasitas-no-cerebro/",
+			"urlToImage": "https://www.ibahia.com/fileadmin/user_upload/ibahia/2019/marco/29/cabeca_tenia.jpg",
+			"publishedAt": "2019-03-29T11:38:00Z",
+			"content": ""
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": "Jovem Pan",
+			"title": "Ministério da Educação nomeia novo ‘número 2’ da pasta - Jovem Pan",
+			"description": "Ricardo Machado Vieira foi nomeado para a secretaria Secretaria-Executiva do Ministério da Educação — cargo mais importante do órgão, abaixo apenas do próprio ministro, que estava vazio há quinze dias. A nomeação foi publicada no Diário Oficial da União (DOU)…",
+			"url": "https://jovempan.uol.com.br/noticias/brasil/ministerio-da-educacao-nomeia-novo-numero-2-da-pasta.html",
+			"urlToImage": "https://img.jovempan.uol.com.br/uploads/2019/03/Ricardo-Machado-Vieira-1024x539.jpg",
+			"publishedAt": "2019-03-29T11:32:39Z",
+			"content": "Ricardo Machado Vieira foi nomeado para a secretaria Secretaria-Executiva do Ministério da Educação cargo mais importante do órgão, abaixo apenas do próprio ministro, que estava vazio há quinze dias. A nomeação foi publicada no Diário Oficial da União (DOU) d… [+906 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": "OAM",
+			"title": "Nasa paga R$ 73 mil a voluntários para passarem dois meses deitados - Gazetaweb.com",
+			"description": "Estudo quer verificar formas de mitigar os efeitos da gravidade no corpo humano",
+			"url": "https://gazetaweb.globo.com/portal/noticia/2019/03/_73501.php",
+			"urlToImage": "https://gazetaweb.globo.com/fotosPortal/portal_gazetaweb_com/noticias/foto_pequena/2018/12/201812032207_72c519bd05.jpg",
+			"publishedAt": "2019-03-29T11:24:00Z",
+			"content": "Nasa paga R$ 73 mil a voluntrios durante experincia FOTO: Reproduo A Nasa est recrutando voluntrios para um experimento sobre como a gravidade artificial pode afetar o corpo humano. Os escolhidos ficaro deitados em uma cama por dois meses e recebero 14 mil li… [+2234 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Agnès Varda, cineasta francesa, morre aos 90 anos - G1",
+			"description": "Diretora sofria de câncer, segundo a família. Uma das vozes da nouvelle vague, ela dirigiu filmes como 'Os renegados' e foi indicada ao Oscar em 2018.",
+			"url": "https://g1.globo.com/pop-arte/cinema/noticia/2019/03/29/agnes-varda-cineasta-francesa-morre-aos-90-anos.ghtml",
+			"urlToImage": "https://s2.glbimg.com/UqJvPbW03ItVpkUJWWktmmdgaU0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Y/J/sWF0g9Qh6tmJ2LNg4j2g/000-1f75cn.jpg",
+			"publishedAt": "2019-03-29T11:21:00Z",
+			"content": "Agnès Varda, cineasta belga radicada na França, morreu na madrugada desta sexta-feira (29), aos 90 anos, disseram membros de sua família e equipe à agência France Presse. Segundo um comunicado, ela morreu em casa, cercada pela família e amigos. A causa foi um… [+1254 chars]"
+		},
+		{
+			"source": {
+				"id": "info-money",
+				"name": "InfoMoney"
+			},
+			"author": "Lara Rizério &bull; Mariana d'Ávila",
+			"title": "Os 5 assuntos que vão agitar os mercados nesta sexta-feira - InfoMoney",
+			"description": "Confira no que ficar de olho na sessão desta sexta",
+			"url": "https://www.infomoney.com.br/mercados/acoes-e-indices/noticia/8068715/os-5-assuntos-que-vao-agitar-os-mercados-nesta-sexta-feira",
+			"urlToImage": "https://images.immedia.com.br//33/33407_2_L.jpg",
+			"publishedAt": "2019-03-29T11:11:00Z",
+			"content": "SÃO PAULO - A escolha do relator da PEC na CCJ no final do último pregão somada à trégua em Brasília com o fim da troca de farpas entre Jair Bolsonaro e Rodrigo Maia, que resultou em um alívio na tensão política, podem estender o ânimo do mercado para esta se… [+6198 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Correiodopovo.com.br"
+			},
+			"author": null,
+			"title": "Renato critica \"falta de bom senso\" com horário da semifinal do Grêmio - Jornal Correio do Povo (Assinatura)",
+			"description": "Técnico avaliou que jogo poderia ocorrer no lugar do confronto entre Inter e Caxias",
+			"url": "https://www.correiodopovo.com.br/esportes/gr%C3%AAmio/renato-critica-falta-de-bom-senso-com-hor%C3%A1rio-da-semifinal-do-gr%C3%AAmio-1.329619",
+			"urlToImage": "https://www.correiodopovo.com.br/image/policy:1.329620:1553828217/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e",
+			"publishedAt": "2019-03-29T10:44:52Z",
+			"content": "O horário da semifinal do Gauchão, definido pela Federação Gaúcha de Futebol (FGF) deixou o técnico do Grêmio, Renato Portaluppi, extremamente insatisfeito. Na coletiva após o empate contra o Juventude, ele disse que não ia comentar o tema de maneira aprofund… [+836 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Novo secretário-executivo do MEC é militar - G1",
+			"description": "Tenente-brigadeiro é o quarto nome anunciado em três meses. Antecessora, Iolene Lima foi dispensada oficialmente na última quinta-feira (28).",
+			"url": "https://g1.globo.com/educacao/noticia/2019/03/29/novo-secretario-executivo-do-mec-e-nomeado.ghtml",
+			"urlToImage": "https://s2.glbimg.com/eVZK2RRQY_NuQDXStjpHv3wPIgA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/s/LEWV5VT7G3ijBBeUAOhw/3cdadd4a-9108-4452-995b-07c5fa702492.jpg",
+			"publishedAt": "2019-03-29T10:39:00Z",
+			"content": "Desocupado nos últimos dias, o cargo de secretário-executivo do Ministério da Educação (MEC) foi preenchido por Ricardo Machado Vieira. A nomeação foi publicada na edição desta sexta-feira (29) do Diário Oficial da União (DOU). Ricardo era assessor especial d… [+3965 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Roda de ônibus do BRT se solta e para do outro lado na rua durante trajeto na Zona Norte do Rio - G1",
+			"description": "Passageiros dizem que roda se soltou em Madureira e foi parar do outro lado da rua, na porta de um estacionamento.",
+			"url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/03/29/roda-de-onibus-brt-se-solta-e-para-do-outro-lado-na-rua-durante-trajeto-na-zona-norte-do-rio.ghtml",
+			"urlToImage": "https://s2.glbimg.com/btSIgUanHmPueMFGbu9lCFmTRJg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/R/A/YL6PP6SDup1C3TLflB7A/roda2.jpg",
+			"publishedAt": "2019-03-29T10:19:00Z",
+			"content": "Passageiros que usam o BRT com frequência sofrem com estações quebradas, ar condicionado pingando ou sem funcionar, ônibus que andam de portas abertas e agora, até roda soltando de ônibus em movimento. Na quinta-feira (28), um ônibus parador do corredor Trans… [+1517 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": null,
+			"title": "Boeing altera software de controle de voo do 737 MAX - Airway",
+			"description": "Como abordar um problema grave no jato comercial mais vendido da história com milhares de aviões voando todos os dias no mundo inteiro? Não é ...",
+			"url": "https://airway.uol.com.br/boeing-altera-software-de-controle-de-voo-do-737-max/",
+			"urlToImage": "https://airway.uol.com.br/wp-content/uploads/2019/03/737-max-flight.jpg",
+			"publishedAt": "2019-03-29T10:15:15Z",
+			"content": "737 MAX 8: jato é um sucesso comercial da Boeing, mas silêncio da fabricante pode macular sua imagem ( Boeing ) Como abordar um problema grave no jato comercial mais vendido da história com milhares de aviões voando todos os dias no mundo inteiro? Não é uma t… [+5349 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Foxsports.com.br"
+			},
+			"author": null,
+			"title": "Castán ironiza ideia do Flamengo de usar reservas contra o Vasco - Fox Sports",
+			"description": "Zagueiro disse que o Vasco entrará para ganhar de qualquer forma e desdenhou de time alternativo rival: 'Conversa fiada'",
+			"url": "https://www.foxsports.com.br/news/401718-castan-ironiza-ideia-do-flamengo-de-usar-reservas-contra-o-vasco",
+			"urlToImage": "https://cdn.foxsports.com.br/sites/foxsports-br/files/img/notes/materia/1585865_fotoarena-1280.jpg",
+			"publishedAt": "2019-03-29T10:14:00Z",
+			"content": "Muito feliz com a classificação do Vasco para a decisão da Taça Rio, o zagueiro Leandro Castán ironizou a atitude do Flamengo que pretende poupar os titulares no clássico carioca porque vai priorizar a Libertadores, neste momento. Essa história é para bobo. V… [+1390 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Reta Final 'Espelho da Vida': Cris descobre que está presa no passado! - gshow",
+			"description": "A jovem tenta voltar ao presente, mas tem uma terrível surpresa nos capítulos finais da novela das 6",
+			"url": "https://gshow.globo.com/novelas/espelho-da-vida/vem-por-ai/noticia/reta-final-espelho-da-vida-cris-descobre-que-esta-presa-no-passado.ghtml",
+			"urlToImage": "https://s2.glbimg.com/NfNsZPlxppxA2i-CCjnD4qcm8yc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2019/w/A/IIGk9nQtmQAPQUgDX8lw/cris-faz-movimentos-no-espelho-2-tv-globo.jpg",
+			"publishedAt": "2019-03-29T09:30:00Z",
+			"content": "Enquanto estava no passado de Espelho da Vida, Cris ( Vitória Strada ) não tinha ideia alguma do que estava acontecendo no presente de Rosa Branca. Tanto, que ela foi a última a saber que o portal entre os dois tempos foi destruído! VOTE - Quem matou Julia Ca… [+1275 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Jm-madeira.pt"
+			},
+			"author": null,
+			"title": "Venezuela: Sete milhões de venezuelanos precisam de ajuda humanitária, diz ONU - jm-madeira.pt",
+			"description": "Quase um quarto (24%) da população venezuelana, cerca de sete milhões de pessoas, precisa de ajuda humanitária, denuncia hoje um relatório da ONU, destacando também que a desnutrição e as doenças estão a aumentar naquele país em crise.",
+			"url": "https://www.jm-madeira.pt/comunidades/ver/58145/Venezuela_Sete_milhoes_de_venezuelanos_precisam_de_ajuda_humanitaria_diz_ONU",
+			"urlToImage": "https://www.jm-madeira.pt/file/index/noticias/58145/5c9de55716452.jpg",
+			"publishedAt": "2019-03-29T09:27:00Z",
+			"content": "Quase um quarto (24%) da população venezuelana, cerca de sete milhões de pessoas, precisa de ajuda humanitária, denuncia hoje um relatório da ONU, destacando também que a desnutrição e as doenças estão a aumentar naquele país em crise. Este relatório foi entr… [+2118 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Brasil247.com"
+			},
+			"author": "Brasil 247",
+			"title": "Bolsonaro trouxe caos ao País, aponta a Globo - Brasil 247",
+			"description": "\"Nestes quase 90 dias de poder, se há um método de governar do presidente Jair Bolsonaro, é o do confronto, o que tem produzido na política algo próximo ao caos\", aponta editorial do jornal O Globo. \"A própria determinação do presidente para os quartéis relem…",
+			"url": "https://www.brasil247.com/pt/247/midiatech/388504/Bolsonaro-trouxe-caos-ao-Pa%C3%ADs-aponta-a-Globo.htm",
+			"urlToImage": "https://www.brasil247.com/images/cms-image-000617758.jpg",
+			"publishedAt": "2019-03-29T07:40:00Z",
+			"content": "247 O grupo Globo chegou à conclusão de que Jair Bolsonaro, consequência direta de sua perseguição ao ex-presidente Lula, trouxe o caos a Brasil. \" Nestes quase 90 dias de poder, se há um método de governar do presidente Jair Bolsonaro, é o do confronto, o qu… [+683 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Parlamento britânico tem votação decisiva sobre Brexit; UE se prepara para saída sem acordo - G1",
+			"description": "Premiê Theresa May prometeu renúncia para tentar aprovar seu acordo, mas não tem votos suficientes garantidos. Em reunião, países da UE definiram cobranças em caso de divórcio não amigável.",
+			"url": "https://g1.globo.com/mundo/noticia/2019/03/29/parlamento-britanico-tem-votacao-decisiva-sobre-brexit-eu-se-prepara-para-saida-sem-acordo.ghtml",
+			"urlToImage": "https://s2.glbimg.com/l4KGXPNBC9xBHXdXpESOXmPSVT4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/9/O/CijfnISfatASZALyMHAA/000-1f74zv.jpg",
+			"publishedAt": "2019-03-29T06:00:00Z",
+			"content": "O Parlamento britânico vota nesta sexta-feira (24) pela terceira vez o acordo de Theresa May para o Brexit. Caso o documento que já foi aceito pela União Europeia seja aprovado, o Reino Unido vai deixar o bloco em 22 de maio. Se não aprovar, a saída será ante… [+5250 chars]"
 		}
 	]
 }
