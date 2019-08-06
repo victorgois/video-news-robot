@@ -5,6 +5,240 @@
 		{
 			"source": {
 				"id": null,
+				"name": "Metrojornal.com.br"
+			},
+			"author": "Rodrigo Almeida",
+			"title": "7 motivos para se por em primeiro lugar; confira os benefícios da masturbação comprovados pela ciência - Metro Jornal",
+			"description": "7 motivos para se por em primeiro lugar; pesquisas derrubaram mitos e dogmas. Confira os benefícios da masturbação comprovados pela ciência e comece já!",
+			"url": "https://www.metrojornal.com.br/estilo-vida/2019/08/06/7-motivos-para-se-por-em-primeiro-lugar-confira-os-beneficios-da-masturbacao-comprovados-pela-ciencia.html",
+			"urlToImage": "https://media.metrolatam.com/2019/08/06/orgasmo-154c5039192b453b4794ec2c1bc18a46-1200x800.jpg",
+			"publishedAt": "2019-08-06T15:15:41Z",
+			"content": "No passado mais longínquo, a masturbação foi adorada pelos gregos e babilônios; no mais recente, condenado pela igreja. O tabu existe até hoje. Um texto como este será visto como uma afronta a valores cristãos.\r\nEm contrapartida, a ciência está aqui para derr… [+2493 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sputniknews.com"
+			},
+			"author": "Sputnik",
+			"title": "Rover da NASA encontra vestígios de rios e lagos marcianos (FOTO) - Sputnik Brasil",
+			"description": "Análise de gigantescos depósitos de argila, descobertos pelo rover Curiosity em maio, mostrou que os rios e lagos de Marte não só secaram gradualmente, como também recebiam periodicamente água, inundando os cantos circundantes da cratera de Gale.",
+			"url": "https://br.sputniknews.com/ciencia_tecnologia/2019080614351354-rover-da-nasa-encontra-vestigios-de-rios-e-lagos-marcianos-foto/",
+			"urlToImage": "https://cdnbr2.img.sputniknews.com/images/753/10/7531079.png",
+			"publishedAt": "2019-08-06T14:56:00Z",
+			"content": "Análise de gigantescos depósitos de argila, descobertos pelo rover Curiosity em maio, mostrou que os rios e lagos de Marte não só secaram gradualmente, como também recebiam periodicamente água, inundando os cantos circundantes da cratera de Gale.O site do Lab… [+3407 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Elpais.com"
+			},
+			"author": "Javier Salas",
+			"title": "O aumento do nível dos mares se acelera desde a década de 1960 - EL PAÍS Brasil",
+			"description": "Elevação global até 2100 poderia ser mais do que o dobro da anteriormente prevista",
+			"url": "https://brasil.elpais.com/brasil/2019/08/05/ciencia/1565002218_315086.html",
+			"urlToImage": "https://arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/SSKCFOYGME6DMCK7TJSN5Q7ZB4.jpg",
+			"publishedAt": "2019-08-06T14:04:00Z",
+			"content": "O estudo da Terra com o uso de satélites permite saber que o nível do mar de todo o planeta vai crescendo a cada ano. Suas medições de precisão, que começaram no princípio da década de 1990, indicam que essa elevação média vem se acelerando desde aquela época… [+4278 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sapo.pt"
+			},
+			"author": null,
+			"title": "Agência Espacial Europeia pede mais atenção ao céu depois de encontro surpresa com asteroide - Visão",
+			"description": "A Agência Espacial Europeia (ESA) alerta para a necessidade de “mais olhos no céu”, após ter sido descoberto um asteroide, do tamanho de um campo de futebol, próximo da Terra, apenas a poucos dias da sua passagem",
+			"url": "http://visao.sapo.pt/actualidade/sociedade/2019-08-06-Agencia-Espacial-Europeia-pede-mais-atencao-ao-ceu-depois-de-encontro-surpresa-com-asteroide",
+			"urlToImage": "http://images.impresa.pt/visao/2019-08-06-2019_OK-orbit.png/fb/wm",
+			"publishedAt": "2019-08-06T14:02:00Z",
+			"content": "A 25 de julho, o asteroide 2019 OK, com 100 metros de largura, passou a 65 mil quilómetros da superfície do nosso planeta, o que equivale a cerca de um quinto da distância até à Lua. O problema é que este foi detetado poucos dias antes de passar pela Terra. E… [+1674 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Canaltech.com.br"
+			},
+			"author": null,
+			"title": "Planetas congelados podem ser capazes de abrigar vida, sugere estudo - Espaço - Canaltech",
+			"description": "Um novo estudo aponta que planetas com oceanos congelados na linha do equador, conhecidos como \"planetas bolas de neve\", podem suportar a vida. As descobertas sugerem que precisamos repensar o que acreditamos ser um planeta habitável ou não",
+			"url": "https://canaltech.com.br/espaco/planetas-congelados-podem-ser-capazes-de-abrigar-vida-sugere-estudo-145917/",
+			"urlToImage": "https://timeline.canaltech.com.br/329831.700/planetas-congelados-podem-ser-capazes-de-abrigar-vida-sugere-estudo-145917.jpg",
+			"publishedAt": "2019-08-06T13:57:00Z",
+			"content": "Existem alguns planetas que são parecidos com a Terra, porém tão frios que seus oceanos na linha equatorial são congelados. São os chamados \"planetas bola de neve\". Cientistas acreditam que eles são muito hostis para abrigar formas de vida por causa da baixa … [+2631 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Expresso.pt"
+			},
+			"author": "Mafalda Ganhão",
+			"title": "Portugal ‘poupado’ ao calor no mês mais quente de sempre. A meteorologia explica - Expresso",
+			"description": "Está confirmado. Nunca o planeta registou um mês tão quente como o de julho, o que não foi válido no território nacional, onde a média da temperatura máxima ficou abaixo dos 30ºC e água do mar fez arrepiar. A meteorologia explica porquê",
+			"url": "https://expresso.pt/sociedade/2019-08-06-Portugal-poupado-ao-calor-no-mes-mais-quente-de-sempre.-A-meteorologia-explica",
+			"urlToImage": "http://images.impresa.pt/expresso/2019-08-06-seca/fb/wm",
+			"publishedAt": "2019-08-06T13:21:26Z",
+			"content": "Em Portugal não se deu por isso, mas os dados oficiais estão aí para o confirmar - julho foi o mês mais quente alguma vez registado. A conclusão surpreenderá quem esteve de férias recentemente, ainda a queixar-se de regressar menos bronzeado, farto do vento n… [+3313 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sapo.pt"
+			},
+			"author": null,
+			"title": "Queda de sonda israelita \"contaminou\" a Lua com seres vivos microscópicos - Exame Informática",
+			"description": "Chamam-se tardígrados e são seres microscópicos conhecidos por aguentarem condições extremas. Embora em estado de dormência, ficaram espalhados no solo lunar quando a sonda que os continha se despenhou",
+			"url": "http://exameinformatica.sapo.pt/noticias/ciencia/2019-08-06-Queda-de-sonda-israelita-contaminou-a-Lua-com-seres-vivos-microscopicos",
+			"urlToImage": "http://images.impresa.pt/exameinformatica/2019-08-06-GettyImages-107254454.jpg/fb/wm",
+			"publishedAt": "2019-08-06T12:40:00Z",
+			"content": "A sonda israelita Beresheet, que esteve perto de tornar-se na primeira missão lunar privada bem sucedida, carregava em si um arquivo com 30 milhões de páginas de informação sobre o planeta Terra e a espécie humana, incluindo amostras de ADN humano. A bordo se… [+2524 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Publico.pt"
+			},
+			"author": "P3",
+			"title": "Educação. MathGurl: o canal de YouTube dedicado à matemática chega ao fim - PÚBLICO",
+			"description": "Descomplicar a matemática com dilemas e paradoxos curiosos era o objectivo de Inês Guimarães, a estudante que passou o amor pela comunicação e matemática para um canal de YouTube, que agora chega ao fim.",
+			"url": "https://www.publico.pt/2019/08/06/p3/noticia/mathgurl-o-canal-de-youtube-dedicado-a-matematica-chega-ao-fim-1882512",
+			"urlToImage": "https://imagens.publico.pt/imagens.aspx/1382460?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_P3.png",
+			"publishedAt": "2019-08-06T11:17:16Z",
+			"content": "A youtuber portuguesa Inês Guimarães anunciou esta segunda-feira, 5 de Agosto, que o canal de YouTube MathGurl, dedicado a tornar a matemática mais interessante, chegou ao fim. Foi o “primeiro canal do YouTube sobre matemática em Portugal” e somou mais de 80 … [+2145 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Midiamax.com.br"
+			},
+			"author": "Bruna Vasconcelos",
+			"title": "'Cafemática': Professor de MS cria canal do Youtube para tirar dúvidas e ensinar matemática - Jornal Midiamax",
+			"description": "Todo aluno tem uma matéria que ele torce o nariz. Na maioria das vezes, as disciplinas que lidam com cálculos são as grandes vilãs e assombram os boletins escolares. Para desmistificar a ideia de que a matemática é complicada e muitas vezes \"chata\",",
+			"url": "https://www.midiamax.com.br/midiamais/2019/cafematica-professor-de-ms-cria-canal-do-youtube-para-tirar-duvidas-e-ensinar-matematica/",
+			"urlToImage": "https://cdn.midiamax.com.br/elasticbeanstalk-us-west-2-809048387867/uploads/2019/08/01-1.jpg",
+			"publishedAt": "2019-08-06T11:00:00Z",
+			"content": "Todo aluno tem uma matéria que ele torce o nariz. Na maioria das vezes, as disciplinas que lidam com cálculos são as grandes vilãs e assombram os boletins escolares. Para desmistificar a ideia de que a matemática é complicada e muitas vezes “chata”, um profes… [+2952 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sputniknews.com"
+			},
+			"author": "Sputnik",
+			"title": "NASA publica FOTO da fusão de 2 galáxias mostrando futuro da Via Láctea - Sputnik Brasil",
+			"description": "O fenômeno natural é resultado de choques entre galáxias. Daqui a 4 bilhões de anos, a Via Láctea deverá se fundir com a Andrômeda, galáxia vizinha à nossa.",
+			"url": "https://br.sputniknews.com/ciencia_tecnologia/2019080614349185-nasa-foto-da-fusao-de-2-galaxias-mostra-futuro-da-via-lactea/",
+			"urlToImage": "https://cdnbr2.img.sputniknews.com/images/1412/05/14120555.jpg",
+			"publishedAt": "2019-08-06T09:51:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Correiobraziliense.com.br"
+			},
+			"author": "Correio Braziliense, Correio Braziliense",
+			"title": "Segundo cientistas, substância do vinho pode inibir depressão - Correio Braziliense",
+			"description": "Em experimento com ratos, composto reduz a a��o de uma enzima ligada ao desencadeamento do transtorno. O resultado abre espa�o para o desenvolvimento de uma nova frente de terapia destinada a humanos",
+			"url": "https://www.correiobraziliense.com.br/app/noticia/ciencia-e-saude/2019/08/06/interna_ciencia_saude,775678/segundo-cientistas-substancia-do-vinho-pode-inibir-depressao.shtml",
+			"urlToImage": "https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/08/06/775678/20190806000938401865i.jpg",
+			"publishedAt": "2019-08-06T09:00:00Z",
+			"content": "O resveratrol, uma substncia presente na pele e na semente das uvas, j se mostrou benfica sade de diversas formas. Por isso, um dos alvos favoritos de cientistas em suas anlises. Em um estudo recente, uma equipe dos Estados Unidos identificou que a molcula, t… [+4216 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sapo.pt"
+			},
+			"author": null,
+			"title": "Micróbios criados por astronautas abrem caminho à mineração espacial - Exame Informática",
+			"description": "A Estação Espacial Internacional arrancou com o Biorock, uma iniciativa para fazer crescer bactérias especializadas que ajudam a extrair metais a partir de rochas. O objetivo é perceber como estes corpos podem ajudar depois na mineração espacial",
+			"url": "http://exameinformatica.sapo.pt/noticias/ciencia/2019-08-06-Microbios-criados-por-astronautas-abrem-caminho-a-mineracao-espacial",
+			"urlToImage": "http://images.impresa.pt/exameinformatica/2016-03-11-celulas.jpg/fb/wm",
+			"publishedAt": "2019-08-06T08:49:00Z",
+			"content": "Os astronautas a bordo da Estação Espacial Internacional pretendem perceber se os micróbios criados em condições de baixa gravidade podem servir de mineiros e ajudar a extrair recursos em bases no espaço, tal como já o fazem na Terra.\r\nEstes organismos já são… [+1382 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Aeiou.pt"
+			},
+			"author": "ZAP",
+			"title": "Conjetura da sensibilidade. Matemático resolveu problema de 30 anos - ZAP",
+			"description": "Na fronteira entre a matemática e a ciência da computação, um matemático conseguiu resolver um problema de 30 anos. O...",
+			"url": "https://zap.aeiou.pt/matematico-resolveu-problema-30-anos-271493",
+			"urlToImage": "https://zap.aeiou.pt/wp-content/uploads/2018/04/04a393def20f61f7e5b08cef9a6ccbc6.jpg",
+			"publishedAt": "2019-08-06T07:00:52Z",
+			"content": "Na fronteira entre a Matemática e a Ciência da Computação, um matemático conseguiu resolver um problema de 30 anos.\r\nHao Huang, professor assistente de Matemática na Universidade Emory, em Atlanta, nos Estados Unidos, resolveu um problema de 30 anos, cruzando… [+3943 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": "Simone Cunha",
+			"title": "Timidez em excesso pode ser um transtorno? Entenda quando buscar ajuda - UOL",
+			"description": "De repente, o rosto fica corado colocando o tímido numa situação de destaque que, aliás, é o que ele mais deseja evitar. Impossível negar vergonha ou constrangimento quando as bochechas ficam vermelhas, mas não é apenas nesse tipo de situação que a timide",
+			"url": "https://www.uol.com.br/vivabem/noticias/redacao/2019/08/06/timidez-em-excesso-pode-ser-um-transtorno-entenda-quando-buscar-ajuda.htm",
+			"urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/1b/2019/08/05/timidez-1565041296238_v2_615x300.jpg",
+			"publishedAt": "2019-08-06T07:00:00Z",
+			"content": "De repente, o rosto fica corado colocando o tímido numa situação de destaque que, aliás, é o que ele mais deseja evitar. Impossível negar vergonha ou constrangimento quando as bochechas ficam vermelhas, mas não é apenas nesse tipo de situação que a timidez dá… [+4893 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Aeiou.pt"
+			},
+			"author": "ZAP",
+			"title": "Mundo promissor. Descoberta \"super-Terra próxima\" que pode abrigar vida - ZAP",
+			"description": "Um equipa internacional de cientistas descobriu um exoplaneta terrestre (super-Terra) potencialmente habitável a 31 anos-luz da Terra....",
+			"url": "https://zap.aeiou.pt/descoberta-super-terra-proxima-pode-abrigar-vida-271615",
+			"urlToImage": "https://zap.aeiou.pt/wp-content/uploads/2019/08/e6e94144f1161992710c32eea51c82e7.jpg",
+			"publishedAt": "2019-08-06T06:00:09Z",
+			"content": "Goddard de NASA/Chris Smith\r\nUm equipa internacional de cientistas descobriu um exoplaneta terrestre (super-Terra) potencialmente habitável a 31 anos-luz da Terra, uma distância que, na Astronomia, é considerada relativamente próxima.\r\nDe acordo com a nova in… [+2647 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Publico.pt"
+			},
+			"author": "PÚBLICO",
+			"title": "Divulgação científica. Eis o primeiro documento global de literacia em astronomia - PÚBLICO",
+			"description": "Disponível <i>online</i>, este documento é uma ferramenta para professores e divulgadores de astronomia.",
+			"url": "https://www.publico.pt/2019/08/06/ciencia/noticia/eis-documento-global-literacia-astronomia-1871629",
+			"urlToImage": "https://imagens.publico.pt/imagens.aspx/1355518?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+			"publishedAt": "2019-08-06T05:58:00Z",
+			"content": "O primeiro documento global de literacia em astronomia já está disponível. Liderado pelo Instituto de Astrofísica e Ciências do Espaço (IA, em Portugal), o Observatório de Leiden e a Universidade de Leiden (Holanda), este projecto tem inúmeros colaboradores e… [+1794 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Jmonline.com.br"
+			},
+			"author": null,
+			"title": "Asteroide de 570 metros passará perto da Terra em agosto, diz Nasa - Jornal da Manhã - 47 anos - Jornal da Manhã - Uberaba",
+			"description": null,
+			"url": "https://jmonline.com.br/novo/?noticias,1,GERAL,183411",
+			"urlToImage": "//jmonline.com.br/uploads/noticia/183411_1.jpg",
+			"publishedAt": "2019-08-06T03:00:00Z",
+			"content": "Asteroide de 570 metros passará perto da Terra em agosto, diz Nasa\r\nO corpo tem cerca de 570 metros de diâmetro e viaja com a velocidade de 16.740 km/h\r\nFoto/reprodução Pixabay\r\nOasteroide 2006 QQ23 passará pertinho da Terra no dia 10 de agosto, a cerca de 0,… [+1124 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Notisul.com.br"
+			},
+			"author": null,
+			"title": "Instalação de estação meteorológica em Tubarão é iniciada - Portal Notisul",
+			"description": "",
+			"url": "https://notisul.com.br/geral/150112/instalacao-de-estacao-meteorologica-em-tubarao-e-iniciada",
+			"urlToImage": "https://notisul.com.br/img/noticias/150112/noticia_68963-P.jpg",
+			"publishedAt": "2019-08-06T02:32:00Z",
+			"content": "Publicado em 05/08/2019 23h32\r\nTubarão\r\nA equipe da Gerência de Agricultura da Secretaria de Desenvolvimento Econômico da prefeitura de Tubarão iniciou, nesta segunda-feira (5), os trabalhos em parceria com a Empresa de Pesquisa Agropecuária e Extensão Rural … [+753 chars]"
+		},
+		{
+			"source": {
+				"id": null,
 				"name": "Meiobit.com"
 			},
 			"author": "Carlos Cardoso",
@@ -18,249 +252,15 @@
 		{
 			"source": {
 				"id": null,
-				"name": "Tecmundo.com.br"
-			},
-			"author": "Julia Marinho",
-			"title": "Composto químico torna aparelhos de ar-condicionado 500% mais eficientes - Tecmundo",
-			"description": "Uso do HFE torna o sistema mais econômico, diminuindo a conta de luz e a pegada ecológica do usuário",
-			"url": "https://www.tecmundo.com.br/mercado/144593-composto-quimico-torna-aparelhos-ar-condicionado-500-eficientes.htm",
-			"urlToImage": "https://img.ibxk.com.br/2019/08/05/05171246287066.jpg",
-			"publishedAt": "2019-08-05T23:30:00Z",
-			"content": "Em tempos de ondas de calor extremas, uma modificação simples no ar-condicionado, usando-se um produto já comercializado, pode aumentar a capacidade do sistema em 500%, com um impacto significativo na conta de energia e na pegada ecológica do usuário.\r\nA desc… [+1799 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Abril.com.br"
-			},
-			"author": "Bruno Vaiano",
-			"title": "Não foi só em Chernobyl: a URSS perseguiu milhares de cientistas - Super",
-			"description": "Conheça a história de Dmitri Belayev – um de 3 mil biólogos acusados por Stálin de \"acreditar\" em genética e seleção natural.",
-			"url": "https://super.abril.com.br/ciencia/nao-foi-so-em-chernobyl-a-urss-perseguiu-milhares-de-cientistas/",
-			"urlToImage": "https://abrilsuperinteressante.files.wordpress.com/2019/08/fb_chernobyl.png",
-			"publishedAt": "2019-08-05T22:10:26Z",
-			"content": "Chernobyl, que retrata com precisão o desastre nuclear de 1986,já é uma das séries mais bem-avaliadas da história do banco de dados IMDB atualmente, com 9,5, empata comBreaking Bad e Band of Brothers. A última fala da série é um monólogo do físico Vasily Lega… [+3729 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Metrojornal.com.br"
-			},
-			"author": "Wellington Botelho",
-			"title": "NASA revela planeta de metal pesado que tem forma inusitada - Metro Jornal",
-			"description": "Wellington Botelho - 2019/08/05",
-			"url": "https://www.metrojornal.com.br/estilo-vida/2019/08/05/nasa-planeta-metal-pesado.html",
-			"urlToImage": "https://media.metrolatam.com/2019/08/05/capturadepantall-9dcad27cdc87894c7849745682682bca-1200x800.jpg",
-			"publishedAt": "2019-08-05T21:47:27Z",
-			"content": "Observações do Telescópio Espacial Hubble da NASA revelaram magnésio e gás de ferro fluindo do estranho mundo fora do nosso sistema solar conhecido como WASP-121b.\r\nOs resultados representam a primeira vez que os chamados \"metais pesados\" foram vistos escapan… [+1384 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Noticiasaominuto.com"
-			},
-			"author": "Lusa",
-			"title": "Quase 70% dos alunos do 9.º ano chumbaram a Matemática na 2.ª fase - Notícias ao Minuto",
-			"description": "Quase 70% dos alunos que fizeram a prova final de Matemática do 9.º ano na 2.ª fase reprovaram, piorando face a 2018, ainda que a nota média no exame tenha subido, segundo dados oficiais hoje divulgados.",
-			"url": "https://www.noticiasaominuto.com/pais/1300687/quase-70-dos-alunos-do-9-ano-chumbaram-a-matematica-na-2-fase",
-			"urlToImage": "https://media-manager.noticiasaominuto.com/1280/1565040929/naom_5b473bfc7234e.jpg?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjo3NTgsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MCwiY3JvcEhlaWdodCI6MCwiY3JvcFgiOjAsImNyb3BZIjowfX0=",
-			"publishedAt": "2019-08-05T21:35:18Z",
-			"content": "De acordo com as informações divulgadas pelo Ministério da Educação (ME), a prova final de Matemática do 9.º ano foi realizada por 2.264 alunos, cerca de menos 800 provas do que em 2018, e registou uma nota média de 29%, melhor do que os 21% do ano passado, m… [+1455 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Istoe.com.br"
-			},
-			"author": "AFP",
-			"title": "Planeta potencialmente habitável é descoberto em novo sistema solar - Istoe",
-			"description": "Uma equipe internacional de astrônomos descobriu um novo sistema solar com um planeta que poderia ser “habitável” – disse à AFP, nesta quinta-feira (1º), o astrofísico espanhol Rafael Luque, que liderou as buscas. Três novos planetas foram descobertos em órbi…",
-			"url": "https://istoe.com.br/planeta-potencialmente-habitavel-e-descoberto-em-novo-sistema-solar-2/",
-			"urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/08/3d04d048dc93ada51a1313bba879c6293fdb68e8-1.jpg",
-			"publishedAt": "2019-08-05T21:28:00Z",
-			"content": "Uma equipe internacional de astrônomos descobriu um novo sistema solar com um planeta que poderia ser “habitável” – disse à AFP, nesta quinta-feira (1º), o astrofísico espanhol Rafael Luque, que liderou as buscas.\r\nTrês novos planetas foram descobertos em órb… [+2517 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Terra.com.br"
-			},
-			"author": null,
-			"title": "Ricardo Galvão: exportações serão 'violentamente afetadas' se Inpe parar de medir desmatamento - Terra",
-			"description": "Ex-diretor do Inpe diz que Ministério parou de considerar alertas produzidos pelo Instituto, e que consequências poderão ser graves",
-			"url": "https://www.terra.com.br/noticias/ciencia/sustentabilidade/meio-ambiente/ricardo-galvao-exportacoes-serao-violentamente-afetadas-se-inpe-parar-de-medir-desmatamento,d6235f07dcdaf70599f4f3b337c88574el02exu8.html",
-			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/08/05/108203453373a484e-fd89-4039-9535-82fca66e44ae.png",
-			"publishedAt": "2019-08-05T21:20:00Z",
-			"content": "O físico Ricardo Magnus Osório Galvão, 71 anos, deixou na sexta-feira (02) o comando do Instituto Nacional de Pesquisas Espaciais (Inpe). O instituto é a principal ferramenta do governo brasileiro para estudos de sensoriamento remoto - que são usados, entre o… [+13503 chars]"
-		},
-		{
-			"source": {
-				"id": null,
 				"name": "Olhardigital.com.br"
 			},
 			"author": "Redação Olhar Digital",
-			"title": "Astrônomos encontram estrela quase tão antiga quanto o Universo - Olhar Digital",
-			"description": "Equipe descobriu sua idade graças a baixa quantidade de Ferro em sua composição - a menor encontrada até hoje",
-			"url": "https://olhardigital.com.br/noticia/astronomos-encontram-estrela-quase-tao-antiga-quanto-o-universo/88793",
-			"urlToImage": "https://olhardigital.com.br/uploads/acervo_imagens/2019/08/20190805062312.jpg",
-			"publishedAt": "2019-08-05T21:08:00Z",
-			"content": "Astrônomos descobriram uma estrela vermelha gigane a cerca de 35 anos-luz de distância da Terra. A SMSS J160540.18-144323.1 surpreendeu graças ao seu baixíssimo nível de Ferro – o menor analisado até hoje. Isso significa que a descoberta se trata de uma das e… [+1353 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Biólogos dos EUA descobrem o peixe de água doce mais velho do mundo - Galileu",
-			"description": "Nativo da América do norte, um peixe búfalo boca-grande (\"Ictiobus cyprinellus\") viveu até os 112 anos de idade",
-			"url": "https://revistagalileu.globo.com/Ciencia/noticia/2019/08/biologos-dos-eua-descobrem-o-peixe-de-agua-doce-mais-velho-do-mundo.html",
-			"urlToImage": "https://s2.glbimg.com/UWce5xjX9NZ4U3DB1Xg1lQOjfd0=/e.glbimg.com/og/ed/f/original/2019/08/05/bigmouth-buffalo_1024.jpg",
-			"publishedAt": "2019-08-05T21:01:21Z",
-			"content": "Pesquisadores dos Estados Unidos publicaram na Revista Nature um estudo que revelou qual é o peixe de água doce mais velho do mundo: trata-se de um búfalo boca-grande (Ictiobus cyprinellus).\r\nUm animal da espécie, que é nativa da América do Norte, viveu até o… [+1458 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Abril.com.br"
-			},
-			"author": "Salvador Nogueira",
-			"title": "O futuro da Lua - Super",
-			"description": "Não é mais uma corrida entre superpotências; vários países e empresas têm hoje interesse em explorar a Lua.",
-			"url": "https://super.abril.com.br/ciencia/o-futuro-da-lua/",
-			"urlToImage": "https://abrilsuperinteressante.files.wordpress.com/2019/07/si_luafuturo.png?w=680&h=453&crop=1",
-			"publishedAt": "2019-08-05T20:08:30Z",
-			"content": "Vamos tirar isto da frente logo de cara: sabemos que o destino de todas as previsões sobre o futuro é errar, e o erro costuma crescer quanto mais tempo tentamos abarcar. Prever que humanos voltarão a visitar a Lua num prazo de dez anos é bem razoável e há pou… [+3725 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Portaldoholanda.com.br"
-			},
-			"author": "Portal do Holanda",
-			"title": "Pesquisa da Ufam testa casca de cupuaçu como retardante de poliéster industrial - Portal do Holanda",
-			"description": "Polímeros são materiais orgânicos, macromoléculas formadas pela união de unidades estruturais menores (chamados de monômeros). Conhecido, popularmente, como plásticos, os polímeros também...",
-			"url": "https://www.portaldoholanda.com.br/noticia-hoje/pesquisa-da-ufam-testa-casca-de-cupuacu-como-retardante-de-poliester-industrial",
-			"urlToImage": "https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-925126-imagem.jpg",
-			"publishedAt": "2019-08-05T20:07:00Z",
-			"content": "Polímeros são materiais orgânicos, macromoléculas formadas pela união de unidades estruturais menores (chamados de monômeros). Conhecido, popularmente, como plásticos, os polímeros também podem ser representados pelas borrachas e outros tipos de polímeros que… [+2304 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Meionorte.com"
-			},
-			"author": null,
-			"title": "Você sabe identificar um psicopata? Saiba como - Meionorte.com",
-			"description": "Veja 6 comportamentos típicos deles",
-			"url": "https://www.meionorte.com/curiosidades/e-possivel-identificar-pessoas-psicopatas-saiba-como-368522",
-			"urlToImage": "https://static.meionorte.com/assets/imgmnlogomarca.jpg",
-			"publishedAt": "2019-08-05T19:48:00Z",
-			"content": "1 – Estudar empreendedorismo e negócios\r\nA personalidade de cada pessoa acaba influenciando o tipo de emprego que ela escolhe – indivíduos supertímidos, por exemplo, dificilmente trabalharão com vendas. Psicopatas têm uma tendência a cair no mundo dos negócio… [+2481 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Sapo.pt"
-			},
-			"author": "https://www.facebook.com/vitormmm",
-			"title": "Sentient: Militares dos EUA construíram secretamente um \"cérebro artificial\" - Pplware",
-			"description": "Segundo informações agora reveladas, os militares dos EUA criaram secretamente um 'cérebro artificial'. Ou seja, desde 2010 que as agências inteligência norte-americanas têm vindo a desenvolver um sistema secreto de inteligência artificial ao qual deram o nom…",
-			"url": "https://pplware.sapo.pt/ciencia/sentient-militares-eua-cerebro-artificial/",
-			"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2019/08/cerebro_artificial00.jpg",
-			"publishedAt": "2019-08-05T19:41:37Z",
-			"content": "Segundo informações agora reveladas, os militares dos Estados Unidos criaram secretamente um “cérebro artificial”. Ou seja, desde 2010 que as agências de inteligência norte-americanas têm vindo a desenvolver um sistema secreto de inteligência artificial ao qu… [+2197 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Atribuna.com.br"
-			},
-			"author": null,
-			"title": "Neurologista aponta como evitar a depressão - A Tribuna",
-			"description": "Segundo a OMS, ela será a doença mais incapacitante a partir de 2020. O neurologista Leandro Teles, que lança livro sobre o tema, aponta enganos comuns e atitudes essenciais",
-			"url": "https://www.atribuna.com.br/variedades/atrevista/neurologista-aponta-como-evitar-a-depress%C3%A3o-1.62207",
-			"urlToImage": "https://www.atribuna.com.br/image/contentid/policy:1.62210:1564929142/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
-			"publishedAt": "2019-08-05T19:03:13Z",
-			"content": "O título do novo livro do neurologista Leandro Teles é bem sugestivo: Depressão Não É Fraqueza. Na obra, publicada pela editora Alaúde, o médico mostra que a doença tem vários subtipos e, além de ser marcada por sintomas psicológicos como tristeza profunda e … [+9544 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Ig.com.br"
-			},
-			"author": "O Dia",
-			"title": "Psicanalistas e psicólogos traçam o perfil comportamental de Bolsonaro - O DIA",
-			"description": "Profissionais analisam postura do presidente após série de declarações polêmicas",
-			"url": "https://odia.ig.com.br/brasil/2019/08/5669562-psicanalistas-e-psicologos-tracam-o-perfil-comportamental-de-bolsonaro.html",
-			"urlToImage": "https://odia.ig.com.br/_midias/jpg/2019/08/05/jairfrases-12444558.jpg",
-			"publishedAt": "2019-08-05T18:55:00Z",
-			"content": "Brasília - Autêntico para os seus seguidores, Jair Bolsonaro se revela uma personalidade em conflito. Nos últimos dias, as declarações polêmicas se intensificaram. O homem que sempre negou a existência da ditadura e enalteceu a memória de torturadores aumento… [+1424 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "R7.com"
-			},
-			"author": "R7.com",
-			"title": "Asteroide 'potencialmente perigoso' passará perto da Terra no sábado - R7",
-			"description": "Considerado um objeto próximo à Terra pela Nasa, mede cerca de 570 metros de diâmetro e estará a 7,4 milhões de km de distância do planeta",
-			"url": "https://noticias.r7.com/tecnologia-e-ciencia/asteroide-potencialmente-perigoso-passara-perto-da-terra-no-sabado-05082019",
-			"urlToImage": "https://img.r7.com/images/asteroide-proximo-a-terra-12032019154537456?dimensions=600x315&crop_position=c",
-			"publishedAt": "2019-08-05T18:44:10Z",
-			"content": "O asteroide 2006 QQ23 passára próximo à Terra no próximo sábado, dia 10 de agosto. Segundo a Nasa, o asteróide está a aproximadamente 7,4 milhões de km de distância, o que é considerado um Near-Earth Object (Objeto Próximo da Terra).\r\nLeia também: Saiba o que… [+500 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Climatempo.com.br"
-			},
-			"author": null,
-			"title": "Ventania forte e intermitente em paranatama - Climatempo Meteorologia - Notícias sobre o clima e o tempo do Brasil",
-			"description": "Leia a notícia completa em nosso site!",
-			"url": "https://www.climatempo.com.br/participe/35455/ventania-forte-e-intermitente-em-paranatama",
-			"urlToImage": null,
-			"publishedAt": "2019-08-05T18:42:38Z",
-			"content": "Desde às 3h da madrugada, há garoa com vento forte em paranatama, de forma intermitente, ou seja, começa, para, começa, para."
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Hypescience.com"
-			},
-			"author": "Natasha Romanzoti",
-			"title": "Qual a resposta certa para a equação matemática que dividiu a internet? - HypeScience - A ciência é a grande estrela do mundo real",
-			"description": "Vira e mexe, algum problema de lógica ou equação matemática viraliza na internet, deixando milhares de usuários malucos tentando decifrá-los e brigando virtualmente pela resposta correta",
-			"url": "https://hypescience.com/qual-a-resposta-certa-para-a-equacao-matematica-que-dividiu-a-internet/",
-			"urlToImage": "https://hypescience.com/wp-content/uploads/2019/08/equacao-matematica-resposta-certa-ordem-das-operacoes.jpg",
-			"publishedAt": "2019-08-05T18:00:47Z",
-			"content": "Por Natasha Romanzoti, em 5.08.2019\r\nVira e mexe, algum problema de lógica ou equação matemática viraliza\r\nna internet, deixando milhares de usuários malucos tentando decifrá-los e\r\nbrigando virtualmente pela resposta correta.\r\n8÷2(2+2) é a mais recente dessa… [+2271 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Olhardigital.com.br"
-			},
-			"author": "Redação Olhar Digital",
-			"title": "Astrônomos poloneses mostram estudo que diz que Via Láctea não é plana - Olhar Digital",
-			"description": "Estudo da Universidade de Varsóvia mostra que as representações de nossa galáxia estavam erradas",
-			"url": "https://olhardigital.com.br/noticia/a-via-lactea-tambem-nao-e-plana/88776",
-			"urlToImage": "https://olhardigital.com.br/uploads/acervo_imagens/2019/08/20190805124045.jpg",
-			"publishedAt": "2019-08-05T17:23:00Z",
-			"content": "A Via Láctea não é plana. Foi o que descobriu um estudo recente de astrônomos da Universidade de Varsovia, na Polônia. Publicada na prestigiada revista científica Science, a pesquisa releva que a imagem publicada em livros de ciências, mostrando uma espiral a… [+1405 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Revistaplaneta.com.br"
-			},
-			"author": null,
-			"title": "Nova descoberta aumenta mistério sobre a civilização maia - Revista Planeta",
-			"description": "Estudo mostra que campanhas militares de destruição total dos adversários, antes consideradas típicas do fim do período clássico maia, ocorreram também antes dessa época",
-			"url": "https://www.revistaplaneta.com.br/nova-descoberta-aumenta-misterio-sobre-a-civilizacao-maia/",
-			"urlToImage": "https://www.revistaplaneta.com.br/wp-content/uploads/sites/3/2019/08/tikal.jpg",
-			"publishedAt": "2019-08-05T16:14:00Z",
-			"content": "(Por Robert Sanders, da UC Berkeley) Acredita-se que a civilização maia da América Central teria sido mais bondosa e gentil, especialmente se comparada à dos astecas do México. No auge da cultura maia, cerca de 1.500 anos atrás, sua guerra parecia ritualístic… [+8998 chars]"
+			"title": "Sonda indiana envia fotos da Terra - Olhar Digital",
+			"description": "A missão espacial indiana, Chandrayaan 2 decolou no último dia 22 de julho",
+			"url": "https://olhardigital.com.br/video/sonda-indiana-envia-fotos-da-terra/88807",
+			"urlToImage": "https://olhardigital.com.br/uploads/acervo_imagens/2019/08/20190805120818.jpg",
+			"publishedAt": "2019-08-06T00:00:00Z",
+			"content": "A missão espacial indiana, Chandrayaan 2 decolou no último dia 22 de julho. Hoje, a agência espacial indiana divulgou uma série de fotos enviadas pela sonda. As imagens mostram a Terra, a cerca de 5 mil quilômetros de distância. A previsão é que a sonda pouse… [+297 chars]"
 		}
 	]
 }

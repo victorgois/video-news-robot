@@ -1,6 +1,59 @@
-module.exports = {
+const NewsAPI = require('newsapi');
+const newsapiKey = new NewsAPI('2de5d157d448424db4574be570b492d4');
+var fs = require('fs');
 
-  authorsFunction: function (){
+function robot(content){
+  fetchContentFromGoogleNews(content)
+  //console.log(fetchContentFromGoogleNews())
+  sanitizeContent(content)
+  //breakContentIntoSentences(content)
+
+   function fetchContentFromGoogleNews(content){
+    newsapiKey.v2.topHeadlines({
+    language: 'pt',
+    country: 'br',
+    category: content.category,
+    q: content.query
+  }).then(response => {
+    const newJson = JSON.stringify(response, null, '\t');
+    fs.writeFileSync('output.json', newJson);
+    const contentFromJson = JSON.parse(newJson)
+    console.log(contentFromJson)
+  
+    for( var i = 0; i<contentFromJson.totalResults; i++){
+        content.sourceContentOriginal = contentFromJson.articles[i].content
+        content.sourcePublisher = contentFromJson.articles[i].source.name
+        content.souceAuthors = contentFromJson.articles[i].author
+        content.sourceTitles = contentFromJson.articles[i].title
+        content.sourceDescription = contentFromJson.articles[i].description
+        content.souceUrl = contentFromJson.articles[i].url
+        content.sourceUrlToImage = contentFromJson.articles[i].urlToImage
+        content.sourcePublishedAt = contentFromJson.articles[i].publishedAt
+
+    }
+    //console.log(content.sourcePublishedAt)
+
+  });
+  //return(content.sourceContentOriginal)
+  }
+
+  function sanitizeContent(content){
+    console.log(sourceContentOriginal)
+    const withoutBlankLines = removeBlanklines(content.sourceContentOriginal)
+
+    function removeBlanklines(text){
+      const allLines = text.split('\n')
+      console.log(allLines)
+    }
+  }
+}
+
+module.exports = robot
+
+
+/*module.exports = {  
+
+   authorsFunction: function (){
     const fs = require('fs');
     let rawdata = fs.readFileSync('../data/output.json');
     let output = JSON.parse(rawdata);
@@ -61,3 +114,4 @@ module.exports = {
     })
   }
 }
+*/
