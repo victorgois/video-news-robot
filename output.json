@@ -1,19 +1,110 @@
 {
 	"status": "ok",
-	"totalResults": 34,
+	"totalResults": 70,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Meiobit.com"
 			},
-			"author": "Contigo!",
-			"title": "Descontente com cardápio, ele foi embora da festa e debochou nas redes sociais - Contigo!",
-			"description": "Saulo Pôncio surpreende, deixa a festa de Anitta cedo e manda recado na web",
-			"url": "https://contigo.uol.com.br/noticias/ultimas/saulo-poncio-deixa-a-festa-de-anitta-cedo-e-manda-recado-na-web.phtml",
-			"urlToImage": "https://contigo.uol.com.br/orinoco/media/images/large/2019/03/29/anitta-e-saulo-poncio-1136775.jpg",
-			"publishedAt": "2019-03-29T13:49:46Z",
-			"content": "Veja mais Por Gustavo Assumpção Por Gustavo Assumpção Por Gustavo Assumpção Por Marcos Santos O cantor Saulo Pôncio teve uma atitude inesperada ao deixar cedo o aniversário da cantora Anitta. Em uma publicação nas redes sociais, ele mostrou que deixou o festã… [+1123 chars]"
+			"author": "Carlos Cardoso",
+			"title": "O mistério do Triângulo das Bermudas: o que a ciência diz - Meio Bit",
+			"description": "O Triângulo das Bermudas é um dos maiores mistérios da Humanidade, mas não pelo motivo que você está pensando e sim como tanta gente perpetua essas histórias sem nenhum embasamento na realidade.",
+			"url": "https://meiobit.com/410002/o-misterio-do-triangulo-das-bermudas-o-que-a-ciencia-diz/",
+			"urlToImage": "https://meiobit.com/wp-content/uploads/2019/08/20190804230000titanic.jpg",
+			"publishedAt": "2019-08-06T00:49:26Z",
+			"content": "JÃ¡ conhece a nova extensÃ£o do Meio Bit? Baixe Agora\r\nO TriÃ¢ngulo das Bermudas todo mundo conhece ou jÃ¡ ouviu falar, mas aonde fica, o que hÃ¡ de verdadeiro, o que hÃ¡ de exagero e o que hÃ¡ de misterioso? Bem, como o MeioBit nÃ£o Ã© o History Channel, voc… [+12557 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Tecmundo.com.br"
+			},
+			"author": "Julia Marinho",
+			"title": "Composto químico torna aparelhos de ar-condicionado 500% mais eficientes - Tecmundo",
+			"description": "Uso do HFE torna o sistema mais econômico, diminuindo a conta de luz e a pegada ecológica do usuário",
+			"url": "https://www.tecmundo.com.br/mercado/144593-composto-quimico-torna-aparelhos-ar-condicionado-500-eficientes.htm",
+			"urlToImage": "https://img.ibxk.com.br/2019/08/05/05171246287066.jpg",
+			"publishedAt": "2019-08-05T23:30:00Z",
+			"content": "Em tempos de ondas de calor extremas, uma modificação simples no ar-condicionado, usando-se um produto já comercializado, pode aumentar a capacidade do sistema em 500%, com um impacto significativo na conta de energia e na pegada ecológica do usuário.\r\nA desc… [+1799 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Abril.com.br"
+			},
+			"author": "Bruno Vaiano",
+			"title": "Não foi só em Chernobyl: a URSS perseguiu milhares de cientistas - Super",
+			"description": "Conheça a história de Dmitri Belayev – um de 3 mil biólogos acusados por Stálin de \"acreditar\" em genética e seleção natural.",
+			"url": "https://super.abril.com.br/ciencia/nao-foi-so-em-chernobyl-a-urss-perseguiu-milhares-de-cientistas/",
+			"urlToImage": "https://abrilsuperinteressante.files.wordpress.com/2019/08/fb_chernobyl.png",
+			"publishedAt": "2019-08-05T22:10:26Z",
+			"content": "Chernobyl, que retrata com precisão o desastre nuclear de 1986,já é uma das séries mais bem-avaliadas da história do banco de dados IMDB atualmente, com 9,5, empata comBreaking Bad e Band of Brothers. A última fala da série é um monólogo do físico Vasily Lega… [+3729 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Metrojornal.com.br"
+			},
+			"author": "Wellington Botelho",
+			"title": "NASA revela planeta de metal pesado que tem forma inusitada - Metro Jornal",
+			"description": "Wellington Botelho - 2019/08/05",
+			"url": "https://www.metrojornal.com.br/estilo-vida/2019/08/05/nasa-planeta-metal-pesado.html",
+			"urlToImage": "https://media.metrolatam.com/2019/08/05/capturadepantall-9dcad27cdc87894c7849745682682bca-1200x800.jpg",
+			"publishedAt": "2019-08-05T21:47:27Z",
+			"content": "Observações do Telescópio Espacial Hubble da NASA revelaram magnésio e gás de ferro fluindo do estranho mundo fora do nosso sistema solar conhecido como WASP-121b.\r\nOs resultados representam a primeira vez que os chamados \"metais pesados\" foram vistos escapan… [+1384 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Noticiasaominuto.com"
+			},
+			"author": "Lusa",
+			"title": "Quase 70% dos alunos do 9.º ano chumbaram a Matemática na 2.ª fase - Notícias ao Minuto",
+			"description": "Quase 70% dos alunos que fizeram a prova final de Matemática do 9.º ano na 2.ª fase reprovaram, piorando face a 2018, ainda que a nota média no exame tenha subido, segundo dados oficiais hoje divulgados.",
+			"url": "https://www.noticiasaominuto.com/pais/1300687/quase-70-dos-alunos-do-9-ano-chumbaram-a-matematica-na-2-fase",
+			"urlToImage": "https://media-manager.noticiasaominuto.com/1280/1565040929/naom_5b473bfc7234e.jpg?crop_params=eyJwb3J0cmFpdCI6eyJjcm9wV2lkdGgiOjEwNTAsImNyb3BIZWlnaHQiOjE4NjYsImNyb3BYIjo3NTgsImNyb3BZIjowfSwibGFuZHNjYXBlIjp7ImNyb3BXaWR0aCI6MCwiY3JvcEhlaWdodCI6MCwiY3JvcFgiOjAsImNyb3BZIjowfX0=",
+			"publishedAt": "2019-08-05T21:35:18Z",
+			"content": "De acordo com as informações divulgadas pelo Ministério da Educação (ME), a prova final de Matemática do 9.º ano foi realizada por 2.264 alunos, cerca de menos 800 provas do que em 2018, e registou uma nota média de 29%, melhor do que os 21% do ano passado, m… [+1455 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Istoe.com.br"
+			},
+			"author": "AFP",
+			"title": "Planeta potencialmente habitável é descoberto em novo sistema solar - Istoe",
+			"description": "Uma equipe internacional de astrônomos descobriu um novo sistema solar com um planeta que poderia ser “habitável” – disse à AFP, nesta quinta-feira (1º), o astrofísico espanhol Rafael Luque, que liderou as buscas. Três novos planetas foram descobertos em órbi…",
+			"url": "https://istoe.com.br/planeta-potencialmente-habitavel-e-descoberto-em-novo-sistema-solar-2/",
+			"urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/08/3d04d048dc93ada51a1313bba879c6293fdb68e8-1.jpg",
+			"publishedAt": "2019-08-05T21:28:00Z",
+			"content": "Uma equipe internacional de astrônomos descobriu um novo sistema solar com um planeta que poderia ser “habitável” – disse à AFP, nesta quinta-feira (1º), o astrofísico espanhol Rafael Luque, que liderou as buscas.\r\nTrês novos planetas foram descobertos em órb… [+2517 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Terra.com.br"
+			},
+			"author": null,
+			"title": "Ricardo Galvão: exportações serão 'violentamente afetadas' se Inpe parar de medir desmatamento - Terra",
+			"description": "Ex-diretor do Inpe diz que Ministério parou de considerar alertas produzidos pelo Instituto, e que consequências poderão ser graves",
+			"url": "https://www.terra.com.br/noticias/ciencia/sustentabilidade/meio-ambiente/ricardo-galvao-exportacoes-serao-violentamente-afetadas-se-inpe-parar-de-medir-desmatamento,d6235f07dcdaf70599f4f3b337c88574el02exu8.html",
+			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2019/08/05/108203453373a484e-fd89-4039-9535-82fca66e44ae.png",
+			"publishedAt": "2019-08-05T21:20:00Z",
+			"content": "O físico Ricardo Magnus Osório Galvão, 71 anos, deixou na sexta-feira (02) o comando do Instituto Nacional de Pesquisas Espaciais (Inpe). O instituto é a principal ferramenta do governo brasileiro para estudos de sensoriamento remoto - que são usados, entre o… [+13503 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Olhardigital.com.br"
+			},
+			"author": "Redação Olhar Digital",
+			"title": "Astrônomos encontram estrela quase tão antiga quanto o Universo - Olhar Digital",
+			"description": "Equipe descobriu sua idade graças a baixa quantidade de Ferro em sua composição - a menor encontrada até hoje",
+			"url": "https://olhardigital.com.br/noticia/astronomos-encontram-estrela-quase-tao-antiga-quanto-o-universo/88793",
+			"urlToImage": "https://olhardigital.com.br/uploads/acervo_imagens/2019/08/20190805062312.jpg",
+			"publishedAt": "2019-08-05T21:08:00Z",
+			"content": "Astrônomos descobriram uma estrela vermelha gigane a cerca de 35 anos-luz de distância da Terra. A SMSS J160540.18-144323.1 surpreendeu graças ao seu baixíssimo nível de Ferro – o menor analisado até hoje. Isso significa que a descoberta se trata de uma das e… [+1353 chars]"
 		},
 		{
 			"source": {
@@ -21,246 +112,155 @@
 				"name": "Globo"
 			},
 			"author": null,
-			"title": "Caixa tem lucro líquido de R$ 10,355 bilhões em 2018 - G1",
-			"description": "Resultado ficou 17,1% abaixo do resultado positivo contábil de R$ 12,5 bilhões registrado no ano anterior.",
-			"url": "https://g1.globo.com/economia/noticia/2019/03/29/caixa-tem-lucro-liquido-de-r-10355-bilhoes-em-2018.ghtml",
-			"urlToImage": "https://s2.glbimg.com/ecz7IvDgUwOjj55vJ38f7wxNguo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/2/R/qKHOc2TQ6jBI2iZuyaxA/caixa-vl.jpg",
-			"publishedAt": "2019-03-29T12:49:00Z",
-			"content": "A Caixa Econômica Federal divulgou nesta sexta-feira (29) um lucro líquido contábil de R$ 10,355 bilhões em 2018, uma queda de 17,1% frente ao ano anterior. Em 2017, o lucro da Caixa foi de R$ 12,5 bilhões, 202,6% superior ao registrado em 2016. Segundo o ban… [+3104 chars]"
+			"title": "Biólogos dos EUA descobrem o peixe de água doce mais velho do mundo - Galileu",
+			"description": "Nativo da América do norte, um peixe búfalo boca-grande (\"Ictiobus cyprinellus\") viveu até os 112 anos de idade",
+			"url": "https://revistagalileu.globo.com/Ciencia/noticia/2019/08/biologos-dos-eua-descobrem-o-peixe-de-agua-doce-mais-velho-do-mundo.html",
+			"urlToImage": "https://s2.glbimg.com/UWce5xjX9NZ4U3DB1Xg1lQOjfd0=/e.glbimg.com/og/ed/f/original/2019/08/05/bigmouth-buffalo_1024.jpg",
+			"publishedAt": "2019-08-05T21:01:21Z",
+			"content": "Pesquisadores dos Estados Unidos publicaram na Revista Nature um estudo que revelou qual é o peixe de água doce mais velho do mundo: trata-se de um búfalo boca-grande (Ictiobus cyprinellus).\r\nUm animal da espécie, que é nativa da América do Norte, viveu até o… [+1458 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Folhavitoria.com.br"
+				"name": "Abril.com.br"
 			},
-			"author": "Folha Vitória",
-			"title": "Após polêmica com preço de ingressos, turnê de Sandy e Júnior vira caso de Justiça - Folha Vitória",
-			"description": "A ação foi movida por duas consumidoras, que sustentaram a existência de fortes indícios de que as vendas realizadas para o show foram fictícias",
-			"url": "https://folhavitoria.com.br/entretenimento/noticia/03/2019/apos-polemica-com-preco-de-ingressos-turne-de-sandy-e-junior-vira-caso-de-justica",
-			"urlToImage": "https://assets.folhavitoria.com.br/images/1c42c880-344e-0137-42dc-6231c35b6685--minified.jpg",
-			"publishedAt": "2019-03-29T12:43:32Z",
-			"content": "Foto: Reprodução / Instagram O Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), deferiu o pedido de tutela de urgência feito por uma fã que denunciou supostas irregularidades na venda de ingressos para a turnê dos irmãos Sandy e Júnior. Na decis… [+1235 chars]"
+			"author": "Salvador Nogueira",
+			"title": "O futuro da Lua - Super",
+			"description": "Não é mais uma corrida entre superpotências; vários países e empresas têm hoje interesse em explorar a Lua.",
+			"url": "https://super.abril.com.br/ciencia/o-futuro-da-lua/",
+			"urlToImage": "https://abrilsuperinteressante.files.wordpress.com/2019/07/si_luafuturo.png?w=680&h=453&crop=1",
+			"publishedAt": "2019-08-05T20:08:30Z",
+			"content": "Vamos tirar isto da frente logo de cara: sabemos que o destino de todas as previsões sobre o futuro é errar, e o erro costuma crescer quanto mais tempo tentamos abarcar. Prever que humanos voltarão a visitar a Lua num prazo de dez anos é bem razoável e há pou… [+3725 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Portaldoholanda.com.br"
 			},
-			"author": "UOL",
-			"title": "Desemprego no país sobe para 12,4% e atinge 13,1 milhões de pessoas - UOL",
-			"description": "O desemprego no país foi de 12,4%, em média, no trimestre encerrado em fevereiro, de acordo com dados do IBGE (Instituto Brasileiro de Geografia e Estatística). O índice subiu em relação ao trimestre anterior (11,6%) pela segunda vez seguida. Na comparaçã",
-			"url": "https://economia.uol.com.br/empregos-e-carreiras/noticias/redacao/2019/03/29/desemprego-trimestre-fevereiro-ibge.htm",
-			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/1a/2018/11/29/demissao-desemprego-desempregados-emprego-carteira-de-trabalho-clt----demitidos-aguardam-homologacao-no-sindicato-dos-comerciarios-em-sao-paulo-sp-sao-paulo-sp-17062003-15h-foto-1543498376333_v2_615x300.jpg",
-			"publishedAt": "2019-03-29T12:02:43Z",
-			"content": "O desemprego no país foi de 12,4%, em média, no trimestre encerrado em fevereiro, de acordo com dados do IBGE (Instituto Brasileiro de Geografia e Estatística). O índice subiu em relação ao trimestre anterior (11,6%) pela segunda vez seguida. Na comparação co… [+3528 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Desemprego sobe para 12,4% em fevereiro, diz IBGE - G1",
-			"description": "População subutilizada é a maior da série do instituto, iniciada em 2012. Dados trazem série de recordes negativos.",
-			"url": "https://g1.globo.com/economia/noticia/2019/03/29/desemprego-sobe-para-124percent-em-fevereiro-diz-ibge.ghtml",
-			"urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png",
-			"publishedAt": "2019-03-29T12:01:00Z",
-			"content": "A taxa de desemprego no Brasil subiu para 12,4% no trimestre encerrado em fevereiro, atingindo 13,1 milhões de pessoas, segundo dados divulgados nesta sexta-feira (29) pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Segundo o instituto, a alta re… [+3961 chars]"
+			"author": "Portal do Holanda",
+			"title": "Pesquisa da Ufam testa casca de cupuaçu como retardante de poliéster industrial - Portal do Holanda",
+			"description": "Polímeros são materiais orgânicos, macromoléculas formadas pela união de unidades estruturais menores (chamados de monômeros). Conhecido, popularmente, como plásticos, os polímeros também...",
+			"url": "https://www.portaldoholanda.com.br/noticia-hoje/pesquisa-da-ufam-testa-casca-de-cupuacu-como-retardante-de-poliester-industrial",
+			"urlToImage": "https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-925126-imagem.jpg",
+			"publishedAt": "2019-08-05T20:07:00Z",
+			"content": "Polímeros são materiais orgânicos, macromoléculas formadas pela união de unidades estruturais menores (chamados de monômeros). Conhecido, popularmente, como plásticos, os polímeros também podem ser representados pelas borrachas e outros tipos de polímeros que… [+2304 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Folhavitoria.com.br"
+				"name": "Meionorte.com"
 			},
-			"author": "Folha Vitória",
-			"title": "Sobe para 14 o número de pessoas contaminadas por surto de diarreia em Vila Velha - Jornal Folha Vitória",
-			"description": "Um inquérito epidemiológico foi instaurado pela Prefeitura de Vila Velha para apurar a causa do surto",
-			"url": "https://www.folhavitoria.com.br/geral/noticia/03/2019/sobe-para-14-o-numero-de-pessoas-contaminadas-por-surto-de-diarreia-em-vila-velha",
-			"urlToImage": "https://assets.folhavitoria.com.br/images/b46379e0-32d4-0137-073a-6231c35b6685--minified.jpg",
-			"publishedAt": "2019-03-29T11:42:18Z",
-			"content": "Foto: TV Vitória Subiu para 14 o número de pessoas com os mesmos sintomas de infecção intestinal, motivada por um possível surto de contaminação entre alunos de uma creche privada, localizada na Praia da Costa, em Vila Velha. Agora, além das crianças, quatro … [+1526 chars]"
+			"author": null,
+			"title": "Você sabe identificar um psicopata? Saiba como - Meionorte.com",
+			"description": "Veja 6 comportamentos típicos deles",
+			"url": "https://www.meionorte.com/curiosidades/e-possivel-identificar-pessoas-psicopatas-saiba-como-368522",
+			"urlToImage": "https://static.meionorte.com/assets/imgmnlogomarca.jpg",
+			"publishedAt": "2019-08-05T19:48:00Z",
+			"content": "1 – Estudar empreendedorismo e negócios\r\nA personalidade de cada pessoa acaba influenciando o tipo de emprego que ela escolhe – indivíduos supertímidos, por exemplo, dificilmente trabalharão com vendas. Psicopatas têm uma tendência a cair no mundo dos negócio… [+2481 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Ibahia.com"
+				"name": "Sapo.pt"
 			},
-			"author": "Redação iBahia",
-			"title": "Jovem de 18 anos morre após descobrir parasitas no cérebro - iBahia",
-			"description": "Problema só foi identificado depois que os médicos realizaram uma ressonância magnética e viram os danos causados ​​pelos cistos no córtex e no tronco cerebral",
-			"url": "https://www.ibahia.com/mundo/detalhe/noticia/jovem-de-18-anos-morre-apos-descobrir-parasitas-no-cerebro/",
-			"urlToImage": "https://www.ibahia.com/fileadmin/user_upload/ibahia/2019/marco/29/cabeca_tenia.jpg",
-			"publishedAt": "2019-03-29T11:38:00Z",
-			"content": ""
+			"author": "https://www.facebook.com/vitormmm",
+			"title": "Sentient: Militares dos EUA construíram secretamente um \"cérebro artificial\" - Pplware",
+			"description": "Segundo informações agora reveladas, os militares dos EUA criaram secretamente um 'cérebro artificial'. Ou seja, desde 2010 que as agências inteligência norte-americanas têm vindo a desenvolver um sistema secreto de inteligência artificial ao qual deram o nom…",
+			"url": "https://pplware.sapo.pt/ciencia/sentient-militares-eua-cerebro-artificial/",
+			"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2019/08/cerebro_artificial00.jpg",
+			"publishedAt": "2019-08-05T19:41:37Z",
+			"content": "Segundo informações agora reveladas, os militares dos Estados Unidos criaram secretamente um “cérebro artificial”. Ou seja, desde 2010 que as agências de inteligência norte-americanas têm vindo a desenvolver um sistema secreto de inteligência artificial ao qu… [+2197 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
-			},
-			"author": "Jovem Pan",
-			"title": "Ministério da Educação nomeia novo ‘número 2’ da pasta - Jovem Pan",
-			"description": "Ricardo Machado Vieira foi nomeado para a secretaria Secretaria-Executiva do Ministério da Educação — cargo mais importante do órgão, abaixo apenas do próprio ministro, que estava vazio há quinze dias. A nomeação foi publicada no Diário Oficial da União (DOU)…",
-			"url": "https://jovempan.uol.com.br/noticias/brasil/ministerio-da-educacao-nomeia-novo-numero-2-da-pasta.html",
-			"urlToImage": "https://img.jovempan.uol.com.br/uploads/2019/03/Ricardo-Machado-Vieira-1024x539.jpg",
-			"publishedAt": "2019-03-29T11:32:39Z",
-			"content": "Ricardo Machado Vieira foi nomeado para a secretaria Secretaria-Executiva do Ministério da Educação cargo mais importante do órgão, abaixo apenas do próprio ministro, que estava vazio há quinze dias. A nomeação foi publicada no Diário Oficial da União (DOU) d… [+906 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": "OAM",
-			"title": "Nasa paga R$ 73 mil a voluntários para passarem dois meses deitados - Gazetaweb.com",
-			"description": "Estudo quer verificar formas de mitigar os efeitos da gravidade no corpo humano",
-			"url": "https://gazetaweb.globo.com/portal/noticia/2019/03/_73501.php",
-			"urlToImage": "https://gazetaweb.globo.com/fotosPortal/portal_gazetaweb_com/noticias/foto_pequena/2018/12/201812032207_72c519bd05.jpg",
-			"publishedAt": "2019-03-29T11:24:00Z",
-			"content": "Nasa paga R$ 73 mil a voluntrios durante experincia FOTO: Reproduo A Nasa est recrutando voluntrios para um experimento sobre como a gravidade artificial pode afetar o corpo humano. Os escolhidos ficaro deitados em uma cama por dois meses e recebero 14 mil li… [+2234 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
+				"name": "Atribuna.com.br"
 			},
 			"author": null,
-			"title": "Agnès Varda, cineasta francesa, morre aos 90 anos - G1",
-			"description": "Diretora sofria de câncer, segundo a família. Uma das vozes da nouvelle vague, ela dirigiu filmes como 'Os renegados' e foi indicada ao Oscar em 2018.",
-			"url": "https://g1.globo.com/pop-arte/cinema/noticia/2019/03/29/agnes-varda-cineasta-francesa-morre-aos-90-anos.ghtml",
-			"urlToImage": "https://s2.glbimg.com/UqJvPbW03ItVpkUJWWktmmdgaU0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Y/J/sWF0g9Qh6tmJ2LNg4j2g/000-1f75cn.jpg",
-			"publishedAt": "2019-03-29T11:21:00Z",
-			"content": "Agnès Varda, cineasta belga radicada na França, morreu na madrugada desta sexta-feira (29), aos 90 anos, disseram membros de sua família e equipe à agência France Presse. Segundo um comunicado, ela morreu em casa, cercada pela família e amigos. A causa foi um… [+1254 chars]"
-		},
-		{
-			"source": {
-				"id": "info-money",
-				"name": "InfoMoney"
-			},
-			"author": "Lara Rizério &bull; Mariana d'Ávila",
-			"title": "Os 5 assuntos que vão agitar os mercados nesta sexta-feira - InfoMoney",
-			"description": "Confira no que ficar de olho na sessão desta sexta",
-			"url": "https://www.infomoney.com.br/mercados/acoes-e-indices/noticia/8068715/os-5-assuntos-que-vao-agitar-os-mercados-nesta-sexta-feira",
-			"urlToImage": "https://images.immedia.com.br//33/33407_2_L.jpg",
-			"publishedAt": "2019-03-29T11:11:00Z",
-			"content": "SÃO PAULO - A escolha do relator da PEC na CCJ no final do último pregão somada à trégua em Brasília com o fim da troca de farpas entre Jair Bolsonaro e Rodrigo Maia, que resultou em um alívio na tensão política, podem estender o ânimo do mercado para esta se… [+6198 chars]"
+			"title": "Neurologista aponta como evitar a depressão - A Tribuna",
+			"description": "Segundo a OMS, ela será a doença mais incapacitante a partir de 2020. O neurologista Leandro Teles, que lança livro sobre o tema, aponta enganos comuns e atitudes essenciais",
+			"url": "https://www.atribuna.com.br/variedades/atrevista/neurologista-aponta-como-evitar-a-depress%C3%A3o-1.62207",
+			"urlToImage": "https://www.atribuna.com.br/image/contentid/policy:1.62210:1564929142/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+			"publishedAt": "2019-08-05T19:03:13Z",
+			"content": "O título do novo livro do neurologista Leandro Teles é bem sugestivo: Depressão Não É Fraqueza. Na obra, publicada pela editora Alaúde, o médico mostra que a doença tem vários subtipos e, além de ser marcada por sintomas psicológicos como tristeza profunda e … [+9544 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Correiodopovo.com.br"
+				"name": "Ig.com.br"
 			},
-			"author": null,
-			"title": "Renato critica \"falta de bom senso\" com horário da semifinal do Grêmio - Jornal Correio do Povo (Assinatura)",
-			"description": "Técnico avaliou que jogo poderia ocorrer no lugar do confronto entre Inter e Caxias",
-			"url": "https://www.correiodopovo.com.br/esportes/gr%C3%AAmio/renato-critica-falta-de-bom-senso-com-hor%C3%A1rio-da-semifinal-do-gr%C3%AAmio-1.329619",
-			"urlToImage": "https://www.correiodopovo.com.br/image/policy:1.329620:1553828217/image.jpg?a=191%3A100&q=0.6&w=900&$p$a$q$w=61e089e",
-			"publishedAt": "2019-03-29T10:44:52Z",
-			"content": "O horário da semifinal do Gauchão, definido pela Federação Gaúcha de Futebol (FGF) deixou o técnico do Grêmio, Renato Portaluppi, extremamente insatisfeito. Na coletiva após o empate contra o Juventude, ele disse que não ia comentar o tema de maneira aprofund… [+836 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Novo secretário-executivo do MEC é militar - G1",
-			"description": "Tenente-brigadeiro é o quarto nome anunciado em três meses. Antecessora, Iolene Lima foi dispensada oficialmente na última quinta-feira (28).",
-			"url": "https://g1.globo.com/educacao/noticia/2019/03/29/novo-secretario-executivo-do-mec-e-nomeado.ghtml",
-			"urlToImage": "https://s2.glbimg.com/eVZK2RRQY_NuQDXStjpHv3wPIgA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/Z/s/LEWV5VT7G3ijBBeUAOhw/3cdadd4a-9108-4452-995b-07c5fa702492.jpg",
-			"publishedAt": "2019-03-29T10:39:00Z",
-			"content": "Desocupado nos últimos dias, o cargo de secretário-executivo do Ministério da Educação (MEC) foi preenchido por Ricardo Machado Vieira. A nomeação foi publicada na edição desta sexta-feira (29) do Diário Oficial da União (DOU). Ricardo era assessor especial d… [+3965 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Roda de ônibus do BRT se solta e para do outro lado na rua durante trajeto na Zona Norte do Rio - G1",
-			"description": "Passageiros dizem que roda se soltou em Madureira e foi parar do outro lado da rua, na porta de um estacionamento.",
-			"url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/03/29/roda-de-onibus-brt-se-solta-e-para-do-outro-lado-na-rua-durante-trajeto-na-zona-norte-do-rio.ghtml",
-			"urlToImage": "https://s2.glbimg.com/btSIgUanHmPueMFGbu9lCFmTRJg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/R/A/YL6PP6SDup1C3TLflB7A/roda2.jpg",
-			"publishedAt": "2019-03-29T10:19:00Z",
-			"content": "Passageiros que usam o BRT com frequência sofrem com estações quebradas, ar condicionado pingando ou sem funcionar, ônibus que andam de portas abertas e agora, até roda soltando de ônibus em movimento. Na quinta-feira (28), um ônibus parador do corredor Trans… [+1517 chars]"
+			"author": "O Dia",
+			"title": "Psicanalistas e psicólogos traçam o perfil comportamental de Bolsonaro - O DIA",
+			"description": "Profissionais analisam postura do presidente após série de declarações polêmicas",
+			"url": "https://odia.ig.com.br/brasil/2019/08/5669562-psicanalistas-e-psicologos-tracam-o-perfil-comportamental-de-bolsonaro.html",
+			"urlToImage": "https://odia.ig.com.br/_midias/jpg/2019/08/05/jairfrases-12444558.jpg",
+			"publishedAt": "2019-08-05T18:55:00Z",
+			"content": "Brasília - Autêntico para os seus seguidores, Jair Bolsonaro se revela uma personalidade em conflito. Nos últimos dias, as declarações polêmicas se intensificaram. O homem que sempre negou a existência da ditadura e enalteceu a memória de torturadores aumento… [+1424 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "R7.com"
 			},
-			"author": null,
-			"title": "Boeing altera software de controle de voo do 737 MAX - Airway",
-			"description": "Como abordar um problema grave no jato comercial mais vendido da história com milhares de aviões voando todos os dias no mundo inteiro? Não é ...",
-			"url": "https://airway.uol.com.br/boeing-altera-software-de-controle-de-voo-do-737-max/",
-			"urlToImage": "https://airway.uol.com.br/wp-content/uploads/2019/03/737-max-flight.jpg",
-			"publishedAt": "2019-03-29T10:15:15Z",
-			"content": "737 MAX 8: jato é um sucesso comercial da Boeing, mas silêncio da fabricante pode macular sua imagem ( Boeing ) Como abordar um problema grave no jato comercial mais vendido da história com milhares de aviões voando todos os dias no mundo inteiro? Não é uma t… [+5349 chars]"
+			"author": "R7.com",
+			"title": "Asteroide 'potencialmente perigoso' passará perto da Terra no sábado - R7",
+			"description": "Considerado um objeto próximo à Terra pela Nasa, mede cerca de 570 metros de diâmetro e estará a 7,4 milhões de km de distância do planeta",
+			"url": "https://noticias.r7.com/tecnologia-e-ciencia/asteroide-potencialmente-perigoso-passara-perto-da-terra-no-sabado-05082019",
+			"urlToImage": "https://img.r7.com/images/asteroide-proximo-a-terra-12032019154537456?dimensions=600x315&crop_position=c",
+			"publishedAt": "2019-08-05T18:44:10Z",
+			"content": "O asteroide 2006 QQ23 passára próximo à Terra no próximo sábado, dia 10 de agosto. Segundo a Nasa, o asteróide está a aproximadamente 7,4 milhões de km de distância, o que é considerado um Near-Earth Object (Objeto Próximo da Terra).\r\nLeia também: Saiba o que… [+500 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Foxsports.com.br"
+				"name": "Climatempo.com.br"
 			},
 			"author": null,
-			"title": "Castán ironiza ideia do Flamengo de usar reservas contra o Vasco - Fox Sports",
-			"description": "Zagueiro disse que o Vasco entrará para ganhar de qualquer forma e desdenhou de time alternativo rival: 'Conversa fiada'",
-			"url": "https://www.foxsports.com.br/news/401718-castan-ironiza-ideia-do-flamengo-de-usar-reservas-contra-o-vasco",
-			"urlToImage": "https://cdn.foxsports.com.br/sites/foxsports-br/files/img/notes/materia/1585865_fotoarena-1280.jpg",
-			"publishedAt": "2019-03-29T10:14:00Z",
-			"content": "Muito feliz com a classificação do Vasco para a decisão da Taça Rio, o zagueiro Leandro Castán ironizou a atitude do Flamengo que pretende poupar os titulares no clássico carioca porque vai priorizar a Libertadores, neste momento. Essa história é para bobo. V… [+1390 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Reta Final 'Espelho da Vida': Cris descobre que está presa no passado! - gshow",
-			"description": "A jovem tenta voltar ao presente, mas tem uma terrível surpresa nos capítulos finais da novela das 6",
-			"url": "https://gshow.globo.com/novelas/espelho-da-vida/vem-por-ai/noticia/reta-final-espelho-da-vida-cris-descobre-que-esta-presa-no-passado.ghtml",
-			"urlToImage": "https://s2.glbimg.com/NfNsZPlxppxA2i-CCjnD4qcm8yc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2019/w/A/IIGk9nQtmQAPQUgDX8lw/cris-faz-movimentos-no-espelho-2-tv-globo.jpg",
-			"publishedAt": "2019-03-29T09:30:00Z",
-			"content": "Enquanto estava no passado de Espelho da Vida, Cris ( Vitória Strada ) não tinha ideia alguma do que estava acontecendo no presente de Rosa Branca. Tanto, que ela foi a última a saber que o portal entre os dois tempos foi destruído! VOTE - Quem matou Julia Ca… [+1275 chars]"
+			"title": "Ventania forte e intermitente em paranatama - Climatempo Meteorologia - Notícias sobre o clima e o tempo do Brasil",
+			"description": "Leia a notícia completa em nosso site!",
+			"url": "https://www.climatempo.com.br/participe/35455/ventania-forte-e-intermitente-em-paranatama",
+			"urlToImage": null,
+			"publishedAt": "2019-08-05T18:42:38Z",
+			"content": "Desde às 3h da madrugada, há garoa com vento forte em paranatama, de forma intermitente, ou seja, começa, para, começa, para."
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Jm-madeira.pt"
+				"name": "Hypescience.com"
 			},
-			"author": null,
-			"title": "Venezuela: Sete milhões de venezuelanos precisam de ajuda humanitária, diz ONU - jm-madeira.pt",
-			"description": "Quase um quarto (24%) da população venezuelana, cerca de sete milhões de pessoas, precisa de ajuda humanitária, denuncia hoje um relatório da ONU, destacando também que a desnutrição e as doenças estão a aumentar naquele país em crise.",
-			"url": "https://www.jm-madeira.pt/comunidades/ver/58145/Venezuela_Sete_milhoes_de_venezuelanos_precisam_de_ajuda_humanitaria_diz_ONU",
-			"urlToImage": "https://www.jm-madeira.pt/file/index/noticias/58145/5c9de55716452.jpg",
-			"publishedAt": "2019-03-29T09:27:00Z",
-			"content": "Quase um quarto (24%) da população venezuelana, cerca de sete milhões de pessoas, precisa de ajuda humanitária, denuncia hoje um relatório da ONU, destacando também que a desnutrição e as doenças estão a aumentar naquele país em crise. Este relatório foi entr… [+2118 chars]"
+			"author": "Natasha Romanzoti",
+			"title": "Qual a resposta certa para a equação matemática que dividiu a internet? - HypeScience - A ciência é a grande estrela do mundo real",
+			"description": "Vira e mexe, algum problema de lógica ou equação matemática viraliza na internet, deixando milhares de usuários malucos tentando decifrá-los e brigando virtualmente pela resposta correta",
+			"url": "https://hypescience.com/qual-a-resposta-certa-para-a-equacao-matematica-que-dividiu-a-internet/",
+			"urlToImage": "https://hypescience.com/wp-content/uploads/2019/08/equacao-matematica-resposta-certa-ordem-das-operacoes.jpg",
+			"publishedAt": "2019-08-05T18:00:47Z",
+			"content": "Por Natasha Romanzoti, em 5.08.2019\r\nVira e mexe, algum problema de lógica ou equação matemática viraliza\r\nna internet, deixando milhares de usuários malucos tentando decifrá-los e\r\nbrigando virtualmente pela resposta correta.\r\n8÷2(2+2) é a mais recente dessa… [+2271 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Brasil247.com"
+				"name": "Olhardigital.com.br"
 			},
-			"author": "Brasil 247",
-			"title": "Bolsonaro trouxe caos ao País, aponta a Globo - Brasil 247",
-			"description": "\"Nestes quase 90 dias de poder, se há um método de governar do presidente Jair Bolsonaro, é o do confronto, o que tem produzido na política algo próximo ao caos\", aponta editorial do jornal O Globo. \"A própria determinação do presidente para os quartéis relem…",
-			"url": "https://www.brasil247.com/pt/247/midiatech/388504/Bolsonaro-trouxe-caos-ao-Pa%C3%ADs-aponta-a-Globo.htm",
-			"urlToImage": "https://www.brasil247.com/images/cms-image-000617758.jpg",
-			"publishedAt": "2019-03-29T07:40:00Z",
-			"content": "247 O grupo Globo chegou à conclusão de que Jair Bolsonaro, consequência direta de sua perseguição ao ex-presidente Lula, trouxe o caos a Brasil. \" Nestes quase 90 dias de poder, se há um método de governar do presidente Jair Bolsonaro, é o do confronto, o qu… [+683 chars]"
+			"author": "Redação Olhar Digital",
+			"title": "Astrônomos poloneses mostram estudo que diz que Via Láctea não é plana - Olhar Digital",
+			"description": "Estudo da Universidade de Varsóvia mostra que as representações de nossa galáxia estavam erradas",
+			"url": "https://olhardigital.com.br/noticia/a-via-lactea-tambem-nao-e-plana/88776",
+			"urlToImage": "https://olhardigital.com.br/uploads/acervo_imagens/2019/08/20190805124045.jpg",
+			"publishedAt": "2019-08-05T17:23:00Z",
+			"content": "A Via Láctea não é plana. Foi o que descobriu um estudo recente de astrônomos da Universidade de Varsovia, na Polônia. Publicada na prestigiada revista científica Science, a pesquisa releva que a imagem publicada em livros de ciências, mostrando uma espiral a… [+1405 chars]"
 		},
 		{
 			"source": {
-				"id": "globo",
-				"name": "Globo"
+				"id": null,
+				"name": "Revistaplaneta.com.br"
 			},
 			"author": null,
-			"title": "Parlamento britânico tem votação decisiva sobre Brexit; UE se prepara para saída sem acordo - G1",
-			"description": "Premiê Theresa May prometeu renúncia para tentar aprovar seu acordo, mas não tem votos suficientes garantidos. Em reunião, países da UE definiram cobranças em caso de divórcio não amigável.",
-			"url": "https://g1.globo.com/mundo/noticia/2019/03/29/parlamento-britanico-tem-votacao-decisiva-sobre-brexit-eu-se-prepara-para-saida-sem-acordo.ghtml",
-			"urlToImage": "https://s2.glbimg.com/l4KGXPNBC9xBHXdXpESOXmPSVT4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/9/O/CijfnISfatASZALyMHAA/000-1f74zv.jpg",
-			"publishedAt": "2019-03-29T06:00:00Z",
-			"content": "O Parlamento britânico vota nesta sexta-feira (24) pela terceira vez o acordo de Theresa May para o Brexit. Caso o documento que já foi aceito pela União Europeia seja aprovado, o Reino Unido vai deixar o bloco em 22 de maio. Se não aprovar, a saída será ante… [+5250 chars]"
+			"title": "Nova descoberta aumenta mistério sobre a civilização maia - Revista Planeta",
+			"description": "Estudo mostra que campanhas militares de destruição total dos adversários, antes consideradas típicas do fim do período clássico maia, ocorreram também antes dessa época",
+			"url": "https://www.revistaplaneta.com.br/nova-descoberta-aumenta-misterio-sobre-a-civilizacao-maia/",
+			"urlToImage": "https://www.revistaplaneta.com.br/wp-content/uploads/sites/3/2019/08/tikal.jpg",
+			"publishedAt": "2019-08-05T16:14:00Z",
+			"content": "(Por Robert Sanders, da UC Berkeley) Acredita-se que a civilização maia da América Central teria sido mais bondosa e gentil, especialmente se comparada à dos astecas do México. No auge da cultura maia, cerca de 1.500 anos atrás, sua guerra parecia ritualístic… [+8998 chars]"
 		}
 	]
 }
