@@ -5,10 +5,10 @@ var fs = require('fs');
 function robot(content){
   fetchContentFromGoogleNews(content)
   //console.log(fetchContentFromGoogleNews())
-  sanitizeContent(content)
+  //sanitizeContent(content)
   //breakContentIntoSentences(content)
 
-   function fetchContentFromGoogleNews(content){
+  function fetchContentFromGoogleNews(content){
     newsapiKey.v2.topHeadlines({
     language: 'pt',
     country: 'br',
@@ -18,26 +18,28 @@ function robot(content){
     const newJson = JSON.stringify(response, null, '\t');
     fs.writeFileSync('output.json', newJson);
     const contentFromJson = JSON.parse(newJson)
-    console.log(contentFromJson)
-  
-    for( var i = 0; i<contentFromJson.totalResults; i++){
-        content.sourceContentOriginal = contentFromJson.articles[i].content
-        content.sourcePublisher = contentFromJson.articles[i].source.name
-        content.souceAuthors = contentFromJson.articles[i].author
-        content.sourceTitles = contentFromJson.articles[i].title
-        content.sourceDescription = contentFromJson.articles[i].description
-        content.souceUrl = contentFromJson.articles[i].url
-        content.sourceUrlToImage = contentFromJson.articles[i].urlToImage
-        content.sourcePublishedAt = contentFromJson.articles[i].publishedAt
-
-    }
-    //console.log(content.sourcePublishedAt)
-
+    return(contentFromJson) 
   });
-  //return(content.sourceContentOriginal)
   }
 
-  function sanitizeContent(content){
+  console.log(fetchContentFromGoogleNews)
+}
+    module.exports = robot
+
+      /*const authorFromArticles = contentFromJson.articles[i].author
+      const titleFromArticles = contentFromJson.articles[i].title
+      const descriptionFromArticles = contentFromJson.articles[i].description
+      const urlFromArticles = contentFromJson.articles[i].url
+      const urlToImagefromArticles = contentFromJson.articles[i].urlToImage
+      const dateFromArticles = contentFromJson.articles[i].publishedAt */
+    
+    //console.log(content.sourcePublishedAt)
+
+
+  //return(content.sourceContentOriginal)
+
+
+  /*function sanitizeContent(content){
     console.log(sourceContentOriginal)
     const withoutBlankLines = removeBlanklines(content.sourceContentOriginal)
 
@@ -46,9 +48,8 @@ function robot(content){
       console.log(allLines)
     }
   }
-}
+}*/
 
-module.exports = robot
 
 
 /*module.exports = {  

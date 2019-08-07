@@ -6,14 +6,23 @@ const robots = {
   text: require('./robots/text.js')
 }
 
-async function start(){
+function start(){
   const content = {}
 
   content.category = askAndReturnCategory()
   content.query = askandReturnQuery()
-
+  robots.text(content)
+  const contentFromJson = require('./output.json')
+  content.sourceContentOriginal = fetchContentFromArticles()
+  content.sourcePublisher = fetchNameFromArticles()
+  /*content.souceAuthors =
+  content.sourceTitles =
+  content.sourceDescription = 
+  content.souceUrl = 
+  content.sourceUrlToImage = 
+  content.sourcePublishedAt = 
+  */
   //robots.userInput(content)
-  await robots.text(content)
   
   function askandReturnQuery(){
     
@@ -28,6 +37,20 @@ async function start(){
     return (selectedPrefixText)
   }
 
+  function fetchContentFromArticles(){
+    for( var i = 0; i<contentFromJson.totalResults; i++){
+      const contentFromArticles = contentFromJson.articles[i].content
+      console.log(contentFromArticles)
+    }
+    return(contentFromArticles)
+  }
+  function fetchNameFromArticles(){
+    for( var i = 0; i<contentFromJson.totalResults; i++){
+      const nameFromArticles = contentFromJson.articles[i].source.name
+      console.log(nameFromArticles)
+    }
+    return(nameFromArticles)
+  }  
 }
 
 start()
