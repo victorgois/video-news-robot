@@ -4,8 +4,16 @@ var fs = require('fs');
 
 function robot(content){
   fetchContentFromGoogleNews(content)
+  parseContentFromGoogleNews('./output.json')
+  //parsePublisherFromGoogleNews(content)
+  //parseAuthorsFromGoogleNews(content)
+  //parseTitlesFromGoogleNews(content)
+  //parseDescriptionFromGoogleNews(content)
+  //parseUrlFromGoogleNews(content)
+  //parseUrlToImageFromGoogleNews(content)
+  //parsePublishAtGoogleNews(content)
   //console.log(fetchContentFromGoogleNews())
-  sanitizeContent(content)
+  //sanitizeContent(content)
   //breakContentIntoSentences(content)
 
    function fetchContentFromGoogleNews(content){
@@ -17,25 +25,27 @@ function robot(content){
   }).then(response => {
     const newJson = JSON.stringify(response, null, '\t');
     fs.writeFileSync('output.json', newJson);
-    const contentFromJson = JSON.parse(newJson)
-    console.log(contentFromJson)
-  
-    for( var i = 0; i<contentFromJson.totalResults; i++){
-        content.sourceContentOriginal = contentFromJson.articles[i].content
-        content.sourcePublisher = contentFromJson.articles[i].source.name
-        content.souceAuthors = contentFromJson.articles[i].author
-        content.sourceTitles = contentFromJson.articles[i].title
-        content.sourceDescription = contentFromJson.articles[i].description
-        content.souceUrl = contentFromJson.articles[i].url
-        content.sourceUrlToImage = contentFromJson.articles[i].urlToImage
-        content.sourcePublishedAt = contentFromJson.articles[i].publishedAt
-
-    }
+    //const contentFromJson = JSON.parse(newJson)
+    //console.log(contentFromJson)
     //console.log(content.sourcePublishedAt)
 
   });
   //return(content.sourceContentOriginal)
   }
+
+  function parseContentFromGoogleNews(content){
+    for( var i = 0; i<content.totalResults; i++){
+      const contentFromJson = content.articles[i].content
+    }
+  }
+
+  /* content.sourcePublisher = contentFromJson.articles[i].source.name
+      content.souceAuthors = contentFromJson.articles[i].author
+      content.sourceTitles = contentFromJson.articles[i].title
+      content.sourceDescription = contentFromJson.articles[i].description
+      content.souceUrl = contentFromJson.articles[i].url
+      content.sourceUrlToImage = contentFromJson.articles[i].urlToImage
+      content.sourcePublishedAt = contentFromJson.articles[i].publishedAt */
 
   function sanitizeContent(content){
     console.log(sourceContentOriginal)

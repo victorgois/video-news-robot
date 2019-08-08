@@ -11,6 +11,14 @@ async function start(){
 
   content.category = askAndReturnCategory()
   content.query = askandReturnQuery()
+  content.sourceContent = parseContentFromGoogleNews(content)
+  content.sourcePublisher = parsePublisherFromGoogleNews(content)
+  content.souceAuthors = parseAuthorsFromGoogleNews(content)
+  content.sourceTitles = parseTitlesFromGoogleNews(content)
+  content.sourceDescription = parseDescriptionFromGoogleNews(content)
+  content.souceUrl = parseUrlFromGoogleNews(content)
+  content.sourceUrlToImage = parseUrlToImageFromGoogleNews(content)
+  content.sourcePublishedAt = parsePublishAtGoogleNews(content)
 
   //robots.userInput(content)
   await robots.text(content)
