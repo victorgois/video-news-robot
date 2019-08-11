@@ -4,8 +4,7 @@ var fs = require('fs');
 
 function robot(content){
   fetchContentFromGoogleNews(content)
-  //console.log(fetchContentFromGoogleNews())
-  //sanitizeContent(content)
+  sanitizeContent(content)
   //breakContentIntoSentences(content)
 
   function fetchContentFromGoogleNews(content){
@@ -22,7 +21,23 @@ function robot(content){
   });
   }
 
-  console.log(fetchContentFromGoogleNews)
+  /*function sanitizeContent(content){
+    const withoutBlanklines = removeBlanklines(content.sourceDescription)
+    console.log(withoutBlanklines)
+
+      function removeBlanklines(text){
+        const alllines = text.split('\n')
+
+        const withoutBlanklines = alllines.filter((line)=> {
+          if (line.trim().length === 0) {
+            return false
+          }
+          return true
+        })
+        return withoutBlanklines
+      }
+  }
+  */
 }
     module.exports = robot
 

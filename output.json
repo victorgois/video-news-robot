@@ -1,32 +1,19 @@
 {
 	"status": "ok",
-	"totalResults": 34,
+	"totalResults": 70,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Colunadofla.com"
+				"name": "Metrojornal.com.br"
 			},
-			"author": null,
-			"title": "Possível vinda de Balotelli ao Flamengo é avaliada por jornalista: “Tem presença de área e chute raro de média distância” - Coluna do Fla",
-			"description": "O Flamengo movimentou a janela de transferências e anunciou a contratação de quatro reforços para o segundo semestre desta temporada, Rafinha, Pablo Marí, Gerson e Filipe Luís. Neste momento, a cúpula Rubro-Negra foca suas atenções para a contratação de um at…",
-			"url": "https://colunadofla.com/2019/08/possivel-vinda-de-balotelli-ao-flamengo-e-avaliada-por-jornalista-tem-presenca-de-area-e-chute-raro-de-media-distancia/",
-			"urlToImage": "https://colunadofla.com/wp-content/uploads/2019/08/balotelli-3.png",
-			"publishedAt": "2019-08-07T18:12:00Z",
-			"content": "O Flamengo movimentou a janela de transferências e anunciou a contratação de quatro reforços para o segundo semestre desta temporada, Rafinha, Pablo Marí, Gerson e Filipe Luís. Neste momento, a cúpula Rubro-Negra foca suas atenções para a contratação de um at… [+1213 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Istoe.com.br"
-			},
-			"author": "AFP",
-			"title": "Tardígrados, seres 'indestrutíveis', podem estar vivos na Lua - Istoe",
-			"description": "Pode haver vida na Lua, no fim das contas: seres virtualmente indestrutíveis que suportam radiação extrema, calor crepitante, as temperaturas mais frias do universo e décadas sem comida. Essas criaturas não são alienígenas, mas sim terráqueos microscópicos co…",
-			"url": "https://istoe.com.br/tardigrados-seres-indestrutiveis-podem-estar-vivos-na-lua/",
-			"urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/08/bd46b78234c48a5f8665bbbb52fc85cf7aae7a11.jpg",
-			"publishedAt": "2019-08-07T17:48:00Z",
-			"content": "Pode haver vida na Lua, no fim das contas: seres virtualmente indestrutíveis que suportam radiação extrema, calor crepitante, as temperaturas mais frias do universo e décadas sem comida. \r\nEssas criaturas não são alienígenas, mas sim terráqueos microscópicos … [+1502 chars]"
+			"author": "Wellington Botelho",
+			"title": "Foto tirada pelo Telescópio Spitzer NASA deve trazer grandes descobertas para a humanidade - Metro Jornal",
+			"description": "Wellington Botelho - 2019/08/11",
+			"url": "https://www.metrojornal.com.br/estilo-vida/2019/08/11/telescopio-spitzer-nasa-humanidade.html",
+			"urlToImage": "https://media.metrolatam.com/2019/08/09/capturadepantall-a37985b2f195099d84a59000e3db3603-1200x800.jpg",
+			"publishedAt": "2019-08-11T17:51:27Z",
+			"content": null
 		},
 		{
 			"source": {
@@ -34,233 +21,246 @@
 				"name": "Globo"
 			},
 			"author": null,
-			"title": "Defesa pede ao ministro Gilmar Mendes libertação de Lula ou permanência em cela especial - G1",
-			"description": "Habeas corpus foi dirigido ao ministro porque ele havia pedido vista (mais tempo para análise) de um pedido de liberdade anterior. Gabinete de Mendes diz que cabe ao relator Luiz Fachin decidir.",
-			"url": "https://g1.globo.com/politica/noticia/2019/08/07/defesa-de-lula-entra-com-novo-pedido-de-liberdade-no-supremo.ghtml",
-			"urlToImage": "https://s2.glbimg.com/iC56D_SQiKQECjjksjJarmYzwOk=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/7825451.jpg",
-			"publishedAt": "2019-08-07T17:35:00Z",
-			"content": "A defesa de Luiz Inácio Lula da Silva pediu nesta quarta-feira (7) ao ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), que conceda liberdade ao ex-presidente até o julgamento de um habeas corpus (pedido de liberdade) pela Segunda Turma do tribunal o… [+3020 chars]"
+			"title": "'Nossas mentes estão programadas para ter prazer com o sofrimento dos outros': psicóloga explica a lógica dos assassinos e criminosos - G1",
+			"description": "Embora as palavras 'monstro' ou 'perverso' sejam algumas das mais usadas para descrever assassinos, para dar a ideia de que são pessoas completamente diferentes de nós, todos temos a capacidade de matar, diz a psicóloga criminal Julia Shaw.",
+			"url": "https://g1.globo.com/ciencia-e-saude/noticia/2019/08/11/nossas-mentes-estao-programadas-para-ter-prazer-com-o-sofrimento-dos-outros-psicologa-explica-a-logica-dos-assassinos-e-criminosos.ghtml",
+			"urlToImage": "https://s2.glbimg.com/23vqa_ScIwl5drM32VXPaOPSYhk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/a/j/tkIvUBRxC4d7khC4SV3g/arma-bbc.jpg",
+			"publishedAt": "2019-08-11T16:08:00Z",
+			"content": "Quando falamos sobre assassinos, é comum usarmos as palavras \"monstros\" ou \"perversos\" para qualificá-los, como se eles fossem seres de outra espécie, absolutamente diferentes de nós. No entanto, todos somos capazes de matar, segundo Julia Shaw, uma psicóloga… [+11417 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Portaldoholanda.com.br"
+				"name": "Sputniknews.com"
 			},
-			"author": "Portal do Holanda",
-			"title": "Receita Federal libera consulta ao terceiro lote de restituição nesta quinta - Portal do Holanda",
-			"description": "Os contribuintes poderão consultar se estão no terceiro lote de restituição de Imposto de Renda, a partir das 9h desta quinta-feira (8). O lote de restituição do Imposto sobre a Renda da...",
-			"url": "https://www.portaldoholanda.com.br/economia/receita-federal-libera-consulta-ao-terceiro-lote-de-restituicao-nesta-quinta",
-			"urlToImage": "https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-925589-imagem.jpg",
-			"publishedAt": "2019-08-07T17:29:00Z",
-			"content": "Os contribuintes poderão consultar se estão no terceiro lote de restituição de Imposto de Renda, a partir das 9h desta quinta-feira (8). O lote de restituição do Imposto sobre a Renda da Pessoa Física contempla também restituições residuais dos exercícios de … [+1288 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Justiça polonesa proíbe associação de simpatizantes de Hitler - G1",
-			"description": "No começo de 2018, uma reportagem de TV divulgou imagens de uma reunião de homens em uniformes que faziam saudações nazistas e tinham uma espécie de altar para Hitler.",
-			"url": "https://g1.globo.com/mundo/noticia/2019/08/07/justica-polonesa-proibe-associacao-de-simpatizantes-de-hitler.ghtml",
-			"urlToImage": "https://s2.glbimg.com/shPktLSDRJ6XJm1RF-fxSXyuo3k=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/M/A/iHQO7xQ9StFvoXDJHAew/moradores-do-bairro-judeu-em-chelmza-polonia-pais-invadido-por-tropas-nazistas-em-1939.jpg",
-			"publishedAt": "2019-08-07T17:05:00Z",
-			"content": "Um tribunal da Polônia ordenou nesta quarta-feira (7) a dissolução de uma associação, cujos membros celebraram, em maio de 2017, o 128º aniversário do nascimento de Adolf Hitler, sem saber que foram filmados por uma equipe de televisão. O tribunal de Gliwice,… [+775 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": "Leandro Prazeres",
-			"title": "'Não sou office boy de ninguém', diz Ricardo Salles - Jornal O Globo",
-			"description": "Em audiência na Câmara, ministro do Meio Ambiente foi comparado a bandeirantes por deputados da oposição e reunião terminou em bate-boca",
-			"url": "https://oglobo.globo.com/sociedade/nao-sou-office-boy-de-ninguem-diz-ricardo-salles-23860725",
-			"urlToImage": "https://ogimg.infoglobo.com.br/in/23860908-b2b-782/FT1086A/652/84002128_BSBBrasiliaBrasil07-08-2019Comissao-de-Integracao-Nacional-Desenvolvimento-Reg.jpg",
-			"publishedAt": "2019-08-07T16:48:35Z",
-			"content": "BRASÍLIA A ida do ministro do\r\nMeio Ambiente,Ricardo Salles\r\n, a uma audiência pública na\r\nCâmara dos Deputados\r\nnesta quarta-feira acabou em bate-boca com ele e deputados\r\nruralistas\r\nde um lado, e parlamentares de\r\noposição\r\ndo outro. Em meio à confusão, at… [+3219 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Oantagonista.com"
-			},
-			"author": null,
-			"title": "AGU pede arquivamento de ação para blindar Glenn - O Antagonista",
-			"description": "O advogado-geral da União, André Mendonça, recomendou ao Supremo arquivar uma ação da Rede que busca impedir qualquer investigação sobre Glenn Greenwald...",
-			"url": "https://www.oantagonista.com/brasil/agu-pede-arquivamento-de-acao-para-blindar-glenn/",
-			"urlToImage": "https://cdn.oantagonista.net/uploads/2017/10/og-image-default-square.jpg",
-			"publishedAt": "2019-08-07T16:45:00Z",
-			"content": "O advogado-geral da União, André Mendonça, recomendou ao Supremo arquivar uma ação da Rede que busca impedir qualquer investigação sobre Glenn Greenwald.\r\nNa manifestação, diz que não há qualquer inquérito aberto contra o americano na Polícia Federal e que qu… [+536 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Foxsports.com.br"
-			},
-			"author": "FOX Sports",
-			"title": "Conmebol oficializa mudança de confronto entre Palmeiras e Grêmio na Libertadores para o Pacaembu - Fox Sports",
-			"description": "A mudança foi oficializada pela Conmebol, conforme anúncio realizado, nesta quarta-feira. O estádio palmeirense estará ocupado devido a um show da dupla Sandy e Júnior",
-			"url": "https://www.foxsports.com.br/news/419054-conmebol-oficializa-mudanca-de-confronto-entre-palmeiras-e-gremio-na-libertadores-para-o-pacaembu",
-			"urlToImage": "https://cdn.foxsports.com.br/sites/foxsports-br/files/img/notes/materia/1494855_fotoarena-1280.jpg",
-			"publishedAt": "2019-08-07T16:03:00Z",
+			"author": "Sputnik",
+			"title": "Asteroide do tamanho da Pirâmide de Gizé estaria se dirigindo para Terra - Sputnik Brasil",
+			"description": "Agosto promete ser um mês cheio de asteroides se aproximando da Terra: alguns dias atrás foi dito que um grande corpo celeste, maior que o Empire State Building dos EUA, se está aproximando do nosso planeta. E há mais por vir.",
+			"url": "https://br.sputniknews.com/ciencia_tecnologia/2019081114374608-asteroide-do-tamanho-da-piramide-de-gize-estaria-se-dirigindo-para-terra/",
+			"urlToImage": "https://cdnbr1.img.sputniknews.com/images/1414/29/14142982.jpg",
+			"publishedAt": "2019-08-11T14:03:00Z",
 			"content": null
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Oantagonista.com"
+				"name": "Sputniknews.com"
+			},
+			"author": "Sputnik",
+			"title": "Descoberta nas profundezas do mar Morto dá esperança de encontrar vida em Marte - Sputnik Brasil",
+			"description": "A água salgada do lago lendário no Oriente Médio pode ser considerada um dos ambientes mais impróprios para a vida no mundo. No entanto, mesmo lá, sem carbono ou oxigênio, microrganismos encontram vias para sobreviver.",
+			"url": "https://br.sputniknews.com/ciencia_tecnologia/2019081114374502-descoberta-nas-profundezas-do-mar-morto-da-esperanca-de-encontrar-vida-em-marte/",
+			"urlToImage": "https://cdnbr2.img.sputniknews.com/images//1437/41/14374197.jpg",
+			"publishedAt": "2019-08-11T13:27:00Z",
+			"content": "A água salgada do lago lendário no Oriente Médio pode ser considerada um dos ambientes mais impróprios para a vida no mundo. No entanto, mesmo lá, sem carbono ou oxigênio, microrganismos encontram vias para sobreviver.O estudo, publicado na revista científica… [+2082 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Jb.com.br"
+			},
+			"author": "https://www.jb.com.br",
+			"title": "'Nós usamos ciência, não balela de Twitter', diz ex-diretor do Inpe - Jornal do Brasil",
+			"description": "Debate abordou a preservação do meio ambiente, agronegócio e a repercussão da crise no Instituto",
+			"url": "https://www.jb.com.br/pais/2019/08/1013259--nos-usamos-ciencia--nao-balela-de-twitter---diz-ex-diretor-do-inpe.html",
+			"urlToImage": "https://www.jb.com.br/_midias/png/2019/08/02/capturar-437413.png",
+			"publishedAt": "2019-08-11T13:09:00Z",
+			"content": "Durante bate-boca na Globo News, o ex-diretor do Inpe (Instituto Nacional de Pesquisas Espaciais), Ricardo Galvão, disse a Ricardo Salles (Ambiente), que \"nós [do Inpe] usamos as publicações científicas, não a balela que vocês usam, coisa de Twitter\". A fala … [+3721 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
 			},
 			"author": null,
-			"title": "Ministro do Meio Ambiente volta a questionar dados do desmatamento - O Antagonista",
-			"description": "Em audiência na Câmara dos Deputados, nesta quarta-feira, Ricardo Salles colocou mais uma vez sob suspeita os dados sobre desmatamento na Amazônia divulgados recentemente pelo Inpe...",
-			"url": "https://www.oantagonista.com/brasil/ministro-do-meio-ambiente-volta-a-questionar-dados-do-desmatamento/",
-			"urlToImage": "https://cdn.oantagonista.net/uploads/2019/08/48433248591_7c955323ae_k-1024x683.jpg",
-			"publishedAt": "2019-08-07T16:01:00Z",
-			"content": "Em audiência na Câmara dos Deputados, nesta quarta-feira, Ricardo Salles colocou mais uma vez sob suspeita os dados sobre desmatamento na Amazônia divulgados recentemente pelo Inpe — e que geraram uma crise no órgão, que terminou com a demissão do antigo dire… [+621 chars]"
+			"title": "Machucados pela fé: Religião aparece em 32 depoimentos de LGBTIs submetidos a processos de cura ao Conselho de Psicologia - UOL",
+			"description": "Religião aparece em 32 depoimentos de LGBTIs submetidos a processos de cura ao Conselho de Psicologia",
+			"url": "https://noticias.uol.com.br/reportagens-especiais/eles-foram-machucados-pela-fe/",
+			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/4b/2019/08/09/religiao-aparece-em-32-depoimentos-de-lgbtis-submetidos-a-processos-de-cura-ao-conselho-federal-de-psicologia-1565382487272_v2_1920x1080.jpg",
+			"publishedAt": "2019-08-11T07:00:51Z",
+			"content": "Eu conversei com uma psicóloga e ela me encaminhou para um psiquiatra. Aí, no outro dia, eu já estava arrumando as malas (para ir embora para outro estado) e falei: \"Vou nesse psiquiatra, vou conversar com ele\".\r\nSó que, quando eu cheguei nesse psiquiatra, el… [+4493 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Tudocelular.com"
+				"name": "Aeiou.pt"
+			},
+			"author": "ZAP",
+			"title": "Desastres naturais obedecem a um padrão matemático - ZAP",
+			"description": "Foi realizada a análise estatística mais precisa até hoje de um conjunto de fenómenos naturais que podem causar desastres....",
+			"url": "https://zap.aeiou.pt/desastres-naturais-padrao-matematico-272303",
+			"urlToImage": "https://zap.aeiou.pt/wp-content/uploads/2016/08/45ae07c09872c151bfef9f04accdcaa0.jpg",
+			"publishedAt": "2019-08-11T06:30:31Z",
+			"content": "Roberto Salomone / EPA\r\nFoi realizada a análise estatística mais precisa até hoje de um conjunto de fenómenos naturais que podem causar desastres. A análise revelou que estas catástrofes obedecem aos mesmos padrões matemáticos.\r\nUma equipa de investigadores d… [+2258 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Observador.pt"
+			},
+			"author": "João Nunes",
+			"title": "Neuromitologia: cérebro, neurologia, mitos e pseudociência - Observador",
+			"description": "",
+			"url": "https://observador.pt/opiniao/neuromitologia-cerebro-neurologia-mitos-e-pseudociencia/",
+			"urlToImage": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2019%2F07%2F05124532%2Fdr-joao-nunes-3fad8_467x467_acf_cropped.jpg",
+			"publishedAt": "2019-08-11T06:01:59Z",
+			"content": "O Cérebro, as Neurociências e a Neurologia estão na berra.\r\nNão passa uma semana sem que sejamos confrontados com notícias espetaculares e reveladoras sobre o cérebro e o seu funcionamento. O interesse da opinião pública é tal que um comentador na área da ciê… [+14629 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "R7.com"
+			},
+			"author": "R7.com",
+			"title": "Superiate de R$ 48 milhões tem o próprio laboratório científico - R7",
+			"description": "Embarcação de 105 m pode viajar do Ártico ao Oceano Antártico em um único trajeto; conta com motor diesel-elétrico que fornece energia sustentável",
+			"url": "https://noticias.r7.com/tecnologia-e-ciencia/fotos/superiate-de-r-48-milhoes-tem-o-proprio-laboratorio-cientifico-11082019",
+			"urlToImage": "https://img.r7.com/images/iate-tecnologia-artico-09082019141939033?dimensions=600x315&crop_position=c",
+			"publishedAt": "2019-08-11T05:00:00Z",
+			"content": null
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Canaltech.com.br"
 			},
 			"author": null,
-			"title": "Novas políticas de privacidade do iOS 13 podem exigir que Facebook reformule WhatsApp - Tudocelular.com",
-			"description": "Restrições ao uso da API de VOIP é o motivo.",
-			"url": "https://www.tudocelular.com/curiosidade/noticias/n144976/whatsapp-restricoes-apis-voip-do-ios-13.html",
-			"urlToImage": "https://t.tudocdn.net/372176?w=646&h=284",
-			"publishedAt": "2019-08-07T15:46:05Z",
-			"content": "O iOS 13 vai trazer ainda mais novidades em termos de segurança aos usuários. Para além dos mecanismos anti-rastreio e a implementação do Logar com AppleID, um detalhe acabou passando despercebido por alguns desenvolvedores durante a WWDC19, e agora muitos co… [+1749 chars]"
+			"title": "Hipótese sugere que linguagem moderna nasceu por conta de mutação genética - Ciência - Canaltech",
+			"description": "Estudiosos acreditam que linguagem chamada de recursiva tenha nascido há 600 mil anos por conta de avanço de comunicação em chimpanzés. Contudo, objetos revelam que ela se manifestou somente há 70 mil anos. O que pesquisador sugere é que mutação tenha gerado …",
+			"url": "https://canaltech.com.br/ciencia/hipotese-sugere-que-linguagem-moderna-nasceu-por-conta-de-mutacao-genetica-146075/",
+			"urlToImage": "https://timeline.canaltech.com.br/329997.700/hipotese-sugere-que-linguagem-moderna-nasceu-por-conta-de-mutacao-genetica-146075.jpg",
+			"publishedAt": "2019-08-11T02:00:00Z",
+			"content": "Uma nova hipótese pode mudar a forma como pesquisadores acreditam que o ser humano atingiu a capacidade moderna de linguagem. A nova proposta modifica a ideia de que o ser humano tenha atingido um tipo mais recente de comunicação não há 600 mil anos, como se … [+3328 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Gazetadopovo.com.br"
+				"name": "Universoracionalista.org"
 			},
-			"author": "Juliano Augusto Pedrozo",
-			"title": "Lula será transferido para presídio paulista onde estão \"famosos\" - Gazeta do Povo",
-			"description": "Lula pode ser transferido para a penitenciária de Tremembé,onde estão presos \"famosos\" como Nardoni, Cravinhos e Rugai. Leia na Gazeta do Povo!",
-			"url": "https://www.gazetadopovo.com.br/republica/breves/lula-transferido-tremembe/",
-			"urlToImage": "https://media.gazetadopovo.com.br/2019/04/22204722/lula-apu-gomes-afp-660x372.jpg",
-			"publishedAt": "2019-08-07T15:33:45Z",
-			"content": "O ex-presidente Lula será transferido da sede da Polícia Federal de Curitiba para São Paulo, após decisão nesta quarta-feira (7) da juíza da 12.ª Vara Federal, Carolina Lebbos. O destino será a Penitenciária Doutor José Augusto César Salgado, conhecida como P… [+392 chars]"
+			"author": "https://www.facebook.com/DouglasRodrigues42",
+			"title": "Mistério resolvido? Por que os gatos comem grama? - Universo Racionalista",
+			"description": "Os gatos fazem um monte de coisas estranhas. Uma das maiores é comer grama e depois jogá-la alguns minutos depois. Agora, depois de talvez séculos de mistério, os cientistas pensam que sabem o porquê.",
+			"url": "https://universoracionalista.org/misterio-resolvido-por-que-os-gatos-comem-grama/",
+			"urlToImage": "https://cdn.universoracionalista.org/wp-content/uploads/2019/08/por-que-gatos-comem-grama.jpg",
+			"publishedAt": "2019-08-11T00:11:00Z",
+			"content": "Por David ShultzPublicado na Science\r\nOs gatos fazem um monte de coisas estranhas. Uma das maiores é comer grama e depois jogá-la alguns minutos depois. Agora, depois de talvez séculos de mistério, os cientistas pensam que sabem o porquê.\r\nPesquisadores entre… [+2051 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Adorocinema.com"
+				"name": "Aeiou.pt"
 			},
-			"author": "Laysa Zanetti",
-			"title": "Disney reporta prejuízo de US$ 170 milhões após fracasso de X-Men: Fênix Negra - AdoroCinema",
-			"description": "A consequência da fusão entre dois impérios.",
-			"url": "http://www.adorocinema.com/noticias/filmes/noticia-149946/",
-			"urlToImage": "http://br.web.img3.acsta.net/newsv7/19/08/07/17/06/0877793.jpg",
-			"publishedAt": "2019-08-07T15:04:00Z",
-			"content": "A consequência da fusão entre dois impérios.\r\nA Disney anunciou nesta terça-feira que teve um prejuízo de US$ 170 milhões no terceiro quadrante do ano, em relação aos títulos lançados pela 20th Century Fox  entre eles, o mais custoso foi o mal-sucedido X-Men:… [+2338 chars]"
+			"author": "CCVAlg",
+			"title": "Sete anos depois da aterragem, novas descobertas do Curiosity - ZAP",
+			"description": "O Curiosity da NASA percorreu um longo caminho desde que chegou a Marte. Já viajou um total de 21 quilómetros...",
+			"url": "https://zap.aeiou.pt/sete-anos-da-aterragem-ha-novas-descobertas-do-curiosity-273064",
+			"urlToImage": "https://zap.aeiou.pt/wp-content/uploads/2018/11/c4612fa3c73f0d202256351efad8ac1a.jpg",
+			"publishedAt": "2019-08-10T22:40:41Z",
+			"content": "NASA/JPL-Caltech\r\nO rover Curiosity da NASA percorreu um longo caminho desde que chegou a Marte, há sete anos. Já viajou um total de 21 quilómetros e subiu 368 metros até à sua posição atual. \r\nAo longo do caminho, o Curiosity descobriu que Marte teve condiçõ… [+3548 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Newsrondonia.com.br"
+				"name": "Emtempo.com.br"
+			},
+			"author": "Em tempo",
+			"title": "Nasa faz novo registro do planeta Júpiter - EM TEMPO",
+			"description": "A Agência Espacial Norte-Americana (Nasa) divulgou em seu site nova imagem de Júpiter, o maior planeta do sistema solar e quinto mais próximo do sol, depois de Marte e antes de Saturno.",
+			"url": "https://emtempo.com.br/cotidiano/168132/nasa-faz-novo-registro-do-planeta-jupiter",
+			"urlToImage": "https://cdn.emtempo.com.br/img/Facebook/160000/Jupiter---Divulgacao---Facebook_00168132_0_201908101730.jpg",
+			"publishedAt": "2019-08-10T21:29:00Z",
+			"content": "A foto foi feita no final de junho pelo telescópio espacial Hubble - satélite artificial lançado pela Nasa na década de 1990. | Foto: Divulgação\r\nA Agência Espacial Norte-Americana (Nasa) divulgou em seu site nova imagem de Júpiter, o maior planeta do sistema… [+491 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Verdesmares.com.br"
+			},
+			"author": "Por Redação",
+			"title": "Desgaste psicológico leva artistas e influenciadores digitais a se afastarem das redes sociais - Diário do Nordeste",
+			"description": null,
+			"url": "https://diariodonordeste.verdesmares.com.br/editorias/verso/online/desgaste-psicologico-leva-artistas-e-influenciadores-digitais-a-se-afastarem-das-redes-sociais-1.2134108",
+			"urlToImage": "https://diariodonordeste.verdesmares.com.br/polopoly_fs/1.2134129.1565465475!/image/image.JPG_gen/derivatives/originalImage/image.JPG",
+			"publishedAt": "2019-08-10T19:42:00Z",
+			"content": "Em um mundo super conectado pelas redes sociais, é comum notar o alto número de usuários que apresentam sintomas de depressão e de ansiedade. O potencial adictivo do uso das redes sociais pode levar o usuário a uma situação de vulnerabilidade psicológica. E p… [+3184 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Universoracionalista.org"
+			},
+			"author": "https://www.facebook.com/DouglasRodrigues42",
+			"title": "Miguel Servet, o cientista herege que foi queimado três vezes - Universo Racionalista",
+			"description": "A morte na fogueira tem sido um método popular de execução na história da humanidade, de modo que o caso do espanhol Miguel Servet não seria incomum além do destaque do personagem, descobridor da circulação sanguínea pulmonar. No entanto, Servet é um caso not…",
+			"url": "https://universoracionalista.org/miguel-servet-o-cientista-herege-que-foi-queimado-tres-vezes/",
+			"urlToImage": "https://cdn.universoracionalista.org/wp-content/uploads/2019/08/Miguel-Servet-Medicina.jpg",
+			"publishedAt": "2019-08-10T16:51:00Z",
+			"content": "Por Javier YanesPublicado na OpenMind\r\nA morte na fogueira tem sido um método popular de execução na história da humanidade, de modo que o caso do espanhol Miguel Servet não seria incomum além do destaque do personagem, descobridor da circulação sanguínea pul… [+5151 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Atribuna.com.br"
 			},
 			"author": null,
-			"title": "A DONA DO PEDAÇO: MARIA DA PAZ SE FAZ DE SONSA E ENGANA JOSIANE - NewsRondônia",
-			"description": "A vilã tentará passar a fábrica da mãe para seu nome, mas a boleira passará a filha para trás nos próximos capítulos",
-			"url": "https://www.newsrondonia.com.br/noticias/a+dona+do+pedaco+maria+da+paz+se+faz+de+sonsa+e+engana+josiane/134594",
-			"urlToImage": "https://www.newsrondonia.com.br/imagensNoticias/50e82e2114bc3022631d9c31b52ef180.jpg",
-			"publishedAt": "2019-08-07T14:52:00Z",
-			"content": "Josiane tentará dar um golpe na própria mãe em A Dona do Pedaço, mas será passada para trás. Após incendiar a fábrica de bolos, a filha de Maria da Paz vai sugerir que a protagonista coloque a empresa em seu nome a fim de assegurar que a boleira não perca os … [+780 chars]"
+			"title": "Especialistas comentam a importância do amor-próprio e como avaliar relação - A Tribuna",
+			"description": "Nem todo relacionamento dura a vida toda. Às vezes, melhor: é uma libertação para as duas partes. Encare a situação",
+			"url": "https://www.atribuna.com.br/variedades/comportamento/especialistas-comentam-a-import%C3%A2ncia-do-amor-pr%C3%B3prio-e-como-avaliar-rela%C3%A7%C3%A3o-1.62945",
+			"urlToImage": "https://www.atribuna.com.br/image/contentid/policy:1.55075:1560167771/image.jpg?a=191%3A100&q=0.6&w=1200&$p$a$q$w=e3c1d56",
+			"publishedAt": "2019-08-10T16:35:45Z",
+			"content": "É claro que ninguém entra no jogo para perder e nem troca juras pensando em terminar. Mas é bem provável que, pelo menos uma vez na vida é mais certo que sejam algumas , aquilo que era eterno finde. E que se morra de amor, mas continue passando bem. Sim, bem.… [+4283 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Lance.com.br"
+				"name": "Climatempo.com.br"
 			},
 			"author": null,
-			"title": "Carlos Alberto: 'Me recuso a chamar esse rapaz de Gabigol' - LANCE!",
-			"description": "Ex-jogador não aprova apelido do atacante do Flamengo durante live da Fox Sports",
-			"url": "https://www.lance.com.br/fora-de-campo/carlos-alberto-recuso-chamar-esse-rapaz-gabigol.html",
-			"urlToImage": "http://www.lance.com.br/files/og_image/uploads/2019/08/07/5d4ae517e5bd3.jpeg",
-			"publishedAt": "2019-08-07T14:51:00Z",
-			"content": "O ex-jogador Carlos Alberto disse, em uma live realizada ontem no Facebook do Fox Sports, que o apelido \"Gabigol\" não combina com o perfil do camisa 9 do Flamengo dentro das quatro linhas. \r\n- Me recuso a chamar esse rapaz de Gabigol, na camisa dele está Gabr… [+899 chars]"
+			"title": "Recife registra menor temperatura do ano - Climatempo Meteorologia - Notícias sobre o clima e o tempo do Brasil",
+			"description": "Leia a notícia completa em nosso site!",
+			"url": "https://www.climatempo.com.br/participe/35495/recife-registra-menor-temperatura-do-ano",
+			"urlToImage": null,
+			"publishedAt": "2019-08-10T16:10:33Z",
+			"content": null
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Conjur.com.br"
+				"name": "Uol.com.br"
 			},
 			"author": null,
-			"title": "Dallagnol articulou com partido para afastar Gilmar de casos da \"lava jato\" - Consultor Jurídico",
-			"description": "Mensagens trocadas entre procuradores da \"lava jato\" mostram que Deltan Dallagnol articulou com o partido Rede Sustentabilidade para propor ação contra o ministro Gilmar Mendes, do Supremo Tribunal Federal.  ADPF da Rede pedia para Supremo barrar Gilmar Mende…",
-			"url": "https://www.conjur.com.br/2019-ago-07/dallagnol-articulou-partido-afastar-gilmar-lava-jato",
-			"urlToImage": "https://s.conjur.com.br/img/b/ministro-gilmar-mendes-stf-20195.jpeg",
-			"publishedAt": "2019-08-07T13:56:00Z",
-			"content": "Mensagens trocadas entre procuradores da \"lava jato\" mostram que Deltan Dallagnol articulou com o partido Rede Sustentabilidade para propor ação contra o ministro Gilmar Mendes, do Supremo Tribunal Federal. ADPF da Rede pedia para Supremo barrar Gilmar Mendes… [+2200 chars]"
+			"title": "Mais lida da semana: El Niño, La Niña ou neutralidade? - Canal Rural",
+			"description": "Reportagem com dicas de meteorologistas da Somar, Inmet e Inpe sobre as tendências para a época de plantio e colheita chama a atenção dos leitores",
+			"url": "https://canalrural.uol.com.br/agronegocio/mais-lida-da-semana-el-nino-la-nina-ou-neutralidade/",
+			"urlToImage": "https://canalrural.uol.com.br/wp-content/uploads/2018/10/sunset-2125727_1280_3.jpg",
+			"publishedAt": "2019-08-10T16:05:00Z",
+			"content": "A safra está prestes a começar e os produtores rurais estão apreensivos quanto ao clima, que causou muitos prejuízos no ano passado. Por isso a reportagem El Niño, La Niña ou neutralidade? é a mais lida da semana. Também chamou a atenção dos leitores questões… [+913 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Oantagonista.com"
+				"name": "Universoracionalista.org"
+			},
+			"author": "https://www.facebook.com/DouglasRodrigues42",
+			"title": "Psicanálise: ciência ou pseudociência? - Universo Racionalista",
+			"description": "Por mais que o sofá seja um móvel associado à televisão, o sofá é um móvel associado à psicanálise. Desde o final do século XIX, o austríaco Sigmund Freud abandonou a pesquisa neurológica para desenvolver sua psicoterapia, o método adquiriu tal notoriedade qu…",
+			"url": "https://universoracionalista.org/psicanalise-ciencia-ou-pseudociencia/",
+			"urlToImage": "https://cdn.universoracionalista.org/wp-content/uploads/2019/08/sigmund-freud-psicanalise-ciencia-pseudociencia.jpg",
+			"publishedAt": "2019-08-10T14:41:00Z",
+			"content": "Por Javier YanesPublicado na OpenMind\r\nPor mais que o sofá seja um móvel associado à televisão, o sofá é um móvel associado à psicanálise. Desde o final do século XIX, o austríaco Sigmund Freud abandonou a pesquisa neurológica para desenvolver sua psicoterapi… [+7023 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Sul21.com.br"
 			},
 			"author": null,
-			"title": "Comércio cresce 0,1% e tem 1ª alta desde março - O Antagonista",
-			"description": "O comércio varejista registrou em junho uma alta de 0,1% em relação a maio, segundo dados divulgados hoje pelo IBGE...",
-			"url": "https://www.oantagonista.com/economia/comercio-cresce-01-e-tem-1a-alta-desde-marco/",
-			"urlToImage": "https://cdn.oantagonista.net/uploads/2018/03/ibge-e1519909285385.jpg",
-			"publishedAt": "2019-08-07T13:43:00Z",
-			"content": "O comércio varejista registrou em junho uma alta de 0,1% em relação a maio, segundo dados divulgados hoje pelo IBGE.\r\nTrata-se do primeiro resultado positivo do setor desde março deste ano.\r\nEm comparação com junho do ano passado, houve uma queda de 0,3% nas … [+6 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Portaldoholanda.com.br"
-			},
-			"author": "Folha de São Paulo / Portal do Holanda",
-			"title": "Paolla Oliveira diz que Vivi Guedes é libertária e não só uma 'menina que está ali de biquíni' - Portal do Holanda",
-			"description": "RIO DE JANEIRO, RJ (FOLHAPRESS) - Paolla Oliveira, 37, afirma que a personalidade vibrante e a irreverência de Vivi Guedes, influenciadora que interpreta em",
-			"url": "https://www.portaldoholanda.com.br/arte-e-cultura-0/paolla-oliveira-diz-que-vivi-guedes-e-libertaria-e-nao-so-uma-menina-que-esta-ali-d",
-			"urlToImage": "https://www.portaldoholanda.com.br/sites/default/files/imagecache/2016_noticia_topo/portaldoholanda-925527-imagem.jpg",
-			"publishedAt": "2019-08-07T13:32:00Z",
-			"content": "RIO DE JANEIRO, RJ (FOLHAPRESS) - Paolla Oliveira, 37, afirma que a personalidade vibrante e a irreverência de Vivi Guedes, influenciadora que interpreta em \"A Dona do Pedaço\", trama das 21h da Globo, foi o que cativou o público. As fotos com \"looks\" ousados,… [+2793 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tudocelular.com"
-			},
-			"author": null,
-			"title": "Galaxy Note 10! Acompanhe nossa cobertura ao vivo do lançamento do phablet Samsung - Tudocelular.com",
-			"description": "Acompanhe a nossa cobertura ao vivo do evento de lançamento do novo Galaxy Note 10!",
-			"url": "https://www.tudocelular.com/eventos/noticias/n144919/acompanhe-ao-vivo-evento-lancamento-galaxy-note-10.html",
-			"urlToImage": "https://t.tudocdn.net/403827?w=646&h=284",
-			"publishedAt": "2019-08-07T13:20:43Z",
-			"content": "Se você esteve antenado nas notícias do universo da tecnologia ao longo das últimas semanas – ou quem sabe até mesmo meses – sabe que a Samsung já está com tudo pronto para anunciar ao mundo, amanhã (7), as 17 horas, os novos integrantes da família Note; que … [+3398 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Conjur.com.br"
-			},
-			"author": null,
-			"title": "Proposta de plea bargain de Sergio Moro é retirada de \"pacote anticrime\" - Consultor Jurídico",
-			"description": "O grupo de trabalho da Câmara dos Deputados sobre legislação penal e processual, responsável pela análise de projetos do chamado \"pacote anticrime\", rejeitou o instituto do plea bargain, proposto pelo ministro da Justiça, Sergio Moro. A decisão foi por oito v…",
-			"url": "https://www.conjur.com.br/2019-ago-07/proposta-plea-bargain-moro-retirada-pacote-anticrime",
-			"urlToImage": "https://s.conjur.com.br/img/b/ministro-sergio-moro-280320191.jpeg",
-			"publishedAt": "2019-08-07T13:03:00Z",
-			"content": "O grupo de trabalho da Câmara dos Deputados sobre legislação penal e processual, responsável pela análise de projetos do chamado \"pacote anticrime\", rejeitou o instituto do plea bargain, proposto pelo ministro da Justiça, Sergio Moro. A decisão foi por oito v… [+654 chars]"
-		},
-		{
-			"source": {
-				"id": "ign",
-				"name": "IGN"
-			},
-			"author": "Joshua Yehl",
-			"title": "Os 10 melhores momentos de Vingadores: Ultimato - IGN Brasil",
-			"description": "É muita emoção",
-			"url": "https://br.ign.com/vingadores-4/75619/feature/os-10-melhores-momentos-de-vingadores-ultimato",
-			"urlToImage": "https://sm.ign.com/t/ign_br/feature/1/10-best-mo/10-best-moments-in-avengers-endgame_3wnr.1200.jpg",
-			"publishedAt": "2019-08-07T13:01:56Z",
-			"content": "Com a chegada de Vingadores: Ultimato nas plataformas digitais como Telecine Play, NOW e Google Play -- e em breve em DVD e Blu-ray --, é hora de relembrar o que tornou este o maior filme da história do cinema. A produção da Marvel Studios encerra a Saga do I… [+5725 chars]"
+			"title": "Livro reúne relatos de LGBTIs que passaram por programas de reversão sexual ou de gênero - Sul21",
+			"description": "Annie Castro Perda de vínculos com familiares, sentimento de culpa, medo da rejeição, internalização do preconceito, tentativa de suicídio ou uso de álcool e outras drogas. Esses são alguns dos muitos sofrimentos enfrentados por lésbicas, gays, bissexuais, tr…",
+			"url": "https://www.sul21.com.br/ultimas-noticias/geral/2019/08/livro-reune-relatos-de-lgbtis-que-passaram-por-programas-de-reversao-sexual-ou-de-genero/",
+			"urlToImage": "https://www.sul21.com.br/wp-content/uploads/2018/11/20181118-sul21_181118_gs_2126-22.jpg",
+			"publishedAt": "2019-08-10T13:38:00Z",
+			"content": "Conselhos Regionais de Psicologia entrevistaram 32 pessoas LGBTIs que contaram suas experiências com tentativas de reversão sexual. Foto: Guilherme Santos/Sul21\r\nAnnie Castro\r\nPerda de vínculos com familiares, sentimento de culpa, medo da rejeição, internaliz… [+11353 chars]"
 		}
 	]
 }
