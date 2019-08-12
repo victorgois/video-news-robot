@@ -4,7 +4,7 @@ var fs = require('fs');
 
 function robot(content){
   fetchContentFromGoogleNews(content)
-  sanitizeContent(content)
+  //sanitizeContent(content)
   //breakContentIntoSentences(content)
 
   function fetchContentFromGoogleNews(content){

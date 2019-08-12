@@ -1,7 +1,8 @@
-
-var loopDiarioFunc = function loopDiario(newJson){
-    var BaseDados = [];
-    BaseDados = newJson;//vetor de JSON
-    fs.writeFileSync('output.json', BaseDados);
+function robot(content){
+    console.log(content.length)
+    for(var i = 0; i<content.length; i++)
+    console.log(content[i])
 }
+
+
 module.exports = robot;

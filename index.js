@@ -3,17 +3,23 @@ const readline = require('readline-sync')
 
 const robots = {
   //userInput: require('./robots/user-input.js')
-  text: require('./robots/text.js')
+  text: require('./robots/text.js'),
+  //loop: require('./robots/loop.js'),
+  tospeech: require('./robots/toSpeech.js')
   //video: require('./robots/video.js')
 }
 
 function start(){
-  const content = {}
+  let content = {}
+  
   let contentFromArticles, nameFromArticles, authorsFromArticles, titleFromArticles, descriptionFromArticles, urlfromArticles, urlToImageFromArticles, dateFromArticles = []
+  
   content.category = askAndReturnCategory()
   content.query = askandReturnQuery()
+  
   robots.text(content)
   let contentFromJson = require('./output.json')
+  
   content.sourceContentOriginal = fetchContentFromArticles()
   content.sourcePublisher = fetchNameFromArticles()
   content.souceAuthors = fetchAuthors()
@@ -22,7 +28,10 @@ function start(){
   content.souceUrl = fetchUrl()
   content.sourceUrlToImage = fetchUrlToImage()
   content.sourcePublishedAt = fetchDate()
-    
+  
+  robots.tospeech(content)
+  //robots.loop(content)
+
   function askandReturnQuery(){
     
     return readline.question('Digite um termo de busca ou tecle enter para ignorar essa etapa: ')
@@ -99,24 +108,6 @@ function start(){
     }
     return(dateFromArticles)
   }
-
-  function sanitizeContent(content){
-    const withoutBlanklines = removeBlanklines(content.sourceDescription)
-    console.log(withoutBlanklines)
-
-      function removeBlanklines(text){
-        const alllines = text.split('\n')
-
-        const withoutBlanklines = alllines.filter((line)=> {
-          if (line.trim().length === 0) {
-            return false
-          }
-          return true
-        })
-        return withoutBlanklines
-      }
-  }
-
 }
 
 start()
