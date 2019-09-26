@@ -1,149 +1,71 @@
 {
 	"status": "ok",
-	"totalResults": 70,
+	"totalResults": 34,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Sapo.pt"
-			},
-			"author": "https://www.facebook.com/hugocura",
-			"title": "E os destaques tecnológicos da semana que passou foram... - Pplware",
-			"description": "Conheça o TOP semanal dos artigos publicados no Pplware com a nossa seleção de artigos de destaques tecnológicos desta semana. Falámos da chegada oficial do Xiaomi Mi A3 a Portugal, no lançamento do novo Samsung Galaxy Note 10, experimentámos a nova DJI OSMO …",
-			"url": "https://pplware.sapo.pt/pplware/destaques-tecnologicos-note-10-huawei-xiaomi-dji/",
-			"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2019/08/destaques_11ago.jpg",
-			"publishedAt": "2019-08-11T22:00:46Z",
-			"content": "Porque a nossa prioridade é a qualidade da informação que chega aos nossos leitores, escolhemos alguns artigos publicados ao longo da semana que passou e que refletem o que de mais relevante se falou no mundo tecnológico no Pplware.\r\nFalámos da chegada oficia… [+5138 chars]"
-		},
-		{
-			"source": {
-				"id": null,
 				"name": "Tudocelular.com"
 			},
 			"author": null,
-			"title": "TIM Live Ultrafibra está disponível em mais uma cidade do estado de São Paulo - Tudocelular.com",
-			"description": "TIM expande disponibilidade de seu serviço de ultrabanda larga; confira.",
-			"url": "https://www.tudocelular.com/mercado/noticias/n145093/tim-live-chega-a-franco-da-rocha-sao-paulo.html",
-			"urlToImage": "https://t.tudocdn.net/404517?w=646&h=284",
-			"publishedAt": "2019-08-11T17:20:47Z",
-			"content": "A TIM está expandindo a disponibilidade da sua rede de ultrabanda larga no estado de São Paulo. Desde a última sexta-feira (09), a gigante das telecomunicações oferece o serviço IM Live Ultrafibra em Franco da Rocha, e agora passa para a marca de seis cidades… [+1233 chars]"
+			"title": "O site já atualizou! Página oficial do Google na Web já conta com visual do Android 10 - Tudocelular.com",
+			"description": "Cor e logotipo do Android 10 já estão presentes no site.",
+			"url": "https://www.tudocelular.com/google/noticias/n146080/site-oficial-android-identidade-visual-android-10.html",
+			"urlToImage": "https://t.tudocdn.net/390988?w=646&h=284",
+			"publishedAt": "2019-09-03T16:45:23Z",
+			"content": "Enquanto prepara a nova versão de seu sistema operacional - cujas mudanças foram comentadas por um executivo da empresa - e em meio a vazamentos sobre o Pixel 4 e Pixel 4 XL, o Google já mostra que o Android 10 é realidade (confira os modelos que receberão o … [+1272 chars]"
 		},
 		{
 			"source": {
-				"id": null,
-				"name": "4gnews.pt"
-			},
-			"author": "Carlos Oliveira",
-			"title": "Smartphones Android podem chegar com malware instalado de fábrica - 4gnews",
-			"description": "A equipa de segurança da Google conhecida como Project Zero, fez uma descoberta para a qual devemos alertar todos os utilizadores Android. Segundo Maddie Stone, um dos seus membros, existem smartphones que vêm com malware instalado de fábrica. Este software m…",
-			"url": "https://4gnews.pt/smartphones-android-podem-chegar-com-malware-instalado-de-fabrica/",
-			"urlToImage": "https://cdn.4gnews.pt/imagens/smartphones-android-podem-chegar-com-malware-instalado-de-fabrica-og.jpg",
-			"publishedAt": "2019-08-11T17:20:38Z",
-			"content": "A equipa de segurança da Google conhecida como Project Zero, fez uma descoberta para a qual devemos alertar todos os utilizadores Android. Segundo Maddie Stone, um dos seus membros, existem smartphones que vêm com malware instalado de fábrica.\r\nEste software … [+2180 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Uol.com.br"
-			},
-			"author": "João Gabriel Nogueira",
-			"title": "Próximo NUC da Intel é o Quartz Canyon, workstation com suporte a placas de vídeo [Rumor] - Adrenaline",
-			"description": "Sistema compacto acompanha também processadores Xeon E e Core i7 de 9ª geração",
-			"url": "https://adrenaline.uol.com.br/noticias/v/60039/proximo-nuc-da-intel-e-o-quartz-canyon-workstation-com-suporte-a-placas-de-video-rumor",
-			"urlToImage": "https://cdn.adrenaline.uol.com.br/uploads/chamadas/intel-quartz-canyon-nuc-vazamento-00.jpg",
-			"publishedAt": "2019-08-11T17:15:27Z",
-			"content": "O próximo NUC da Intel vai ser uma workstation compacta chamada Quartz Canyon. É isso que indica o vazamento de um suposto documento de apresentação da empresa junto com algumas imagens (Chip Hell) do sistema em si, então as informações, apesar de anda não se… [+1552 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Uol.com.br"
-			},
-			"author": "https://www.facebook.com/profile.php?id=100009543306373",
-			"title": "Novos iPhones poderão ter o sufixo “Pro” no nome - MacMagazine",
-			"description": "Os rumores envolvendo os futuros iPhones estão com tudo! É praticamente certo que veremos três novos aparelhos chegando — os respectivos sucessores dos iPhones XS, XS Max e XR. Também...",
-			"url": "https://macmagazine.uol.com.br/post/2019/08/11/novos-iphones-poderao-ter-o-sufixo-pro-no-nome/",
-			"urlToImage": "https://macmagazine.uol.com.br/wp-content/uploads/2019/08/11-iphone-11-dummy.jpg",
-			"publishedAt": "2019-08-11T15:40:00Z",
-			"content": "Os rumores envolvendo os futuros iPhones estão com tudo! É praticamente certo que veremos três novos aparelhos chegando os respectivos sucessores dos iPhones XS, XS Max e XR.\r\nTambém sabemos que eles provavelmente terão melhorias na câmera frontal, novas câme… [+1897 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tudocelular.com"
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Antes do previsto, OnePlus 7T Pro pode ser anunciado já em outubro - Tudocelular.com",
-			"description": "Novos rumores sugerem que OnePlus 7T Pro pode chegar mais cedo que o esperado.",
-			"url": "https://www.tudocelular.com/rumores/noticias/n145092/oneplus-7t-pro-anuncio-em-outubro.html",
-			"urlToImage": "https://t.tudocdn.net/401209?w=646&h=284",
-			"publishedAt": "2019-08-11T15:09:04Z",
-			"content": "De acordo com o leaker Max J., a OnePlus pode apresentar a sua nova linha de smartphones de alto desempenho em pouco mais de dois meses. A nova linha seria a sucessora direta dos atuais modelos OnePlus 7 e, como já é esperado, se chamaria OnePlus 7T.\r\nSegundo… [+1384 chars]"
+			"title": "Americano de 14 anos mata a tiros pai, madrasta e três irmãos dentro de casa - Extra",
+			"description": "Um adolescente de 14 anos matou a tiros sua família dentro de casa na pequena cidade de Elkmont, no Alabama, nos Estados Unidos, na noite desta segunda-feira....",
+			"url": "https://extra.globo.com/noticias/mundo/americano-de-14-anos-mata-tiros-pai-madrasta-tres-irmaos-dentro-de-casa-23923868.html",
+			"urlToImage": "https://extra.globo.com/incoming/23923893-c84-eee/w976h550-PROP/crime-alabama.png",
+			"publishedAt": "2019-09-03T16:08:00Z",
+			"content": "Um adolescente de 14 anos matou a tiros sua família dentro de casa na pequena cidade de Elkmont, no Alabama, nos Estados Unidos, na noite desta segunda-feira. Em seguida, ele próprio acionou a polícia, de acordo com autoridades locais nesta terça-feira.\r\nAs v… [+1306 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Portaldobitcoin.com"
+				"name": "Nsctotal.com.br"
+			},
+			"author": "Roberto Alves",
+			"title": "O Avaí cometeu o crime da rodada e venceu o Fluminense: ouça o comentário da CBN - NSC Total",
+			"description": "Aconteceu. O Avaí cometeu o crime da rodada e venceu o Fluminense no Maracanã. Na verdade não era nada de impossível de acontecer. O Leão vem jogando",
+			"url": "https://www.nsctotal.com.br/colunistas/roberto-alves/o-avai-cometeu-o-crime-da-rodada-e-venceu-o-fluminense-ouca-o-comentario",
+			"urlToImage": "https://files.nsctotal.com.br/s3fs-public/graphql-upload-files/Ava%C3%AD%20vence%20o%20Fluminense%20e%20conquista%20primeira%20vit%C3%B3ria%20na%20S%C3%A9rie%20A.%20Mag%C3%A1%20Jr%2C%20Ofotogr%C3%A1fico%20-%20Folhapress.jpg?FJQkjNGTwebIGNCNVVpyPHxzxOOoz7RO",
+			"publishedAt": "2019-09-03T15:11:00Z",
+			"content": "Aconteceu. O Avaí cometeu o crime da rodada e venceu o Fluminense no Maracanã. Na verdade não era nada de impossível de acontecer. O Leão vem jogando bem. Nos três últimos jogos tomou empate e não ganhou por conta de falhas individuais. Contra o Cruzeiro, Cor… [+389 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Como perdi R$ 20 mil acertando o trade de Bitcoin e Litecoin - Portal do Bitcoin",
-			"description": "Artigo do trade Marcel Pechman sobre como ele perdeu R$ 20.000 acertando o trade em uma movimentação que envolveu bitcoin e litecoin.",
-			"url": "https://portaldobitcoin.com/como-perdi-r-20-mil-acertando-o-trade-de-bitcoin-e-litecoin/",
-			"urlToImage": "https://portaldobitcoin.com/wp-content/uploads/2019/08/shutterstock_706362733.jpg",
-			"publishedAt": "2019-08-11T14:51:00Z",
-			"content": "No final de junho deste ano, o Bitcoin vinha em forte alta, que já durava mais de 10 dias. A maioria das altcoins andava na contramão quando cotadas em BTC.\r\nO Litecoin estava próximo de perder os 0,011 BTC menor nível desde abril, quando começou o movimento … [+2218 chars]"
+			"title": "Pedreiro é morto na laje de imóvel na Vila Kennedy; trânsito na Av. Brasil é bloqueado por mais de uma hora - G1",
+			"description": "De acordo com as primeiras informações, havia um tiroteio na comunidade. 'Acabaram de matar um trabalhador em cima da minha laje, o cara fazendo a minha laje', disse dono do imóvel.",
+			"url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2019/09/03/pedreiro-e-morto-na-laje-de-casa-na-vila-kennedy-na-zona-oeste-do-rio.ghtml",
+			"urlToImage": "https://s2.glbimg.com/ON8xOgHzFQKgzu2dnsmboIqHPJs=/1200x/smart/filters:cover():strip_icc()/s02.video.glbimg.com/x720/7892993.jpg",
+			"publishedAt": "2019-09-03T14:18:00Z",
+			"content": "Um pedreiro foi morto enquanto trabalhava na laje de um imóvel durante tiroteio na Vila Kennedy, na Zona Oeste do Rio, na manhã desta terça-feira (3). Um homem, que se identifica como o dono do estabelecimento, diz que a vítima foi atingida enquanto trabalhav… [+2396 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Tudocelular.com"
+				"name": "Omelete.com.br"
 			},
-			"author": null,
-			"title": "Linha Huawei Mate 30 deve ser revelada em setembro com novo chipset Kirin 990 - Tudocelular.com",
-			"description": "Novas informações sugerem data de lançamento e novo chipset que deve equipar flagships da marca para 2019.",
-			"url": "https://www.tudocelular.com/rumores/noticias/n145090/huawei-mate-30-rumor-lancamento-kirin-990.html",
-			"urlToImage": "https://t.tudocdn.net/403690?w=646&h=284",
-			"publishedAt": "2019-08-11T13:29:33Z",
-			"content": "Contrariando os rumores de que a Huawei possa apresentar sua nova dupla de flagships da linha Mate 30 em outubro, novas informações agora apontam para uma outra data de anúncio planejada pela gigante chinesa, visando diminuir o tempo de anúncio entre as suas … [+1341 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Uol.com.br"
-			},
-			"author": "Helton Simões Gomes",
-			"title": "TV que não precisa de controle é 1º aparelho com sistema HarmonyOS (Huawei) - UOL",
-			"description": "O primeiro eletrônico com o sistema operacional criado pela Huawei com o objetivo de ser uma alternativa ao Android, no caso de smartphones e tablets, e a alma de dispositivos da chamada Internet das Coisas foi lançado neste sábado (10).Criada pela Honor,",
-			"url": "https://noticias.uol.com.br/tecnologia/noticias/redacao/2019/08/11/harmonyos-1-aparelho-com-sistema-da-huawei-e-tv-para-nao-so-ver-tv.htm",
-			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/88/2019/08/11/tv-honor-vision-a-primeira-com-sistema-harmonyos-1565529825789_v2_615x300.jpg",
-			"publishedAt": "2019-08-11T13:24:38Z",
-			"content": "O primeiro eletrônico com o sistema operacional criado pela Huawei com o objetivo de ser uma alternativa ao Android, no caso de smartphones e tablets, e a alma de dispositivos da chamada Internet das Coisas foi lançado neste sábado (10).\r\nCriada pela Honor, a… [+5568 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tecmundo.com.br"
-			},
-			"author": "Maria Tamanini",
-			"title": "Microssatélite chinês se espatifou no lado oculto da Lua - Tecmundo",
-			"description": "Mas, calma! A queda foi controlada",
-			"url": "https://www.tecmundo.com.br/ciencia/144685-microssatelite-chines-espatifou-lado-oculto-lua.htm",
-			"urlToImage": "https://img.ibxk.com.br/2019/08/06/06171508583222.jpg",
-			"publishedAt": "2019-08-11T12:00:00Z",
-			"content": "A Lua ganhou uma nova cratera na sua face oculta graças ao pequeno satélite chinês Longjiang-2 que se espatifou por lá no dia 31 de julho. Mas não pense que se tratou de um acidente causado porque o dispositivo estava desgovernado... Na verdade, o aparelho co… [+967 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Diarioprime.com.br"
-			},
-			"author": "Tiago",
-			"title": "Unick Forex: Prazo de 45 dias concedido pela CVM para Explicações se Aproxima, e Plataforma da empresa continua Travada - DiárioPrime.com.br",
-			"description": "A Unick Forex ou Unick Academy, empresa de investimento em mercado Forex ou empresa de consultoria, ainda não se sabe ao certo. Mas o que de certo já sabemos é que ela está na mira da CVM.Desde 2018 a CVM emitiu o ato proibitório para a Unick operar",
-			"url": "https://diarioprime.com.br/dinheirodigital/prazo-da-unick-forex-se-aproxima-com-a-cvm-plataforma-travada/",
-			"urlToImage": "https://diarioprime.com.br/dinheirodigital/wp-content/uploads/2019/08/unick-forex-prazo-cvm.jpg",
-			"publishedAt": "2019-08-11T11:46:00Z",
-			"content": "A Unick Forex ou Unick Academy, empresa de investimento em mercado Forex ou empresa de consultoria, ainda não se sabe ao certo. Mas o que de certo já sabemos é que ela está na mira da CVM.\r\nDesde 2018 a CVM emitiu o ato proibitório para a Unick operar no merc… [+3564 chars]"
+			"author": "Camila Sousa",
+			"title": "The Batman | Robert Pattinson fala da sensação de vestir uniforme - Omelete",
+			"description": "Robert Pattinson fala da sensação de vestir uniforme do Batman pela primeira vez",
+			"url": "https://www.omelete.com.br/batman-7/the-batman-robert-pattinson-vestir-figurino",
+			"urlToImage": "https://cdn.ome.lt/dfGliMDRUQl6YkBdSPaxRH9I_iE=/1200x630/smart/extras/conteudos/robert-pattinson.png",
+			"publishedAt": "2019-09-03T14:14:00Z",
+			"content": "Robert Pattinson falou sobre a sensação de vestir o uniforme do Batman pela primeira vez. Confirmado como o protagonista de The Batman, o ator vestiu o figurino em seus últimos testes para o papel:\r\nTalvez seja a coisa mais maluca que já fiz para um filme, af… [+1024 chars]"
 		},
 		{
 			"source": {
@@ -151,116 +73,194 @@
 				"name": "Uol.com.br"
 			},
 			"author": null,
-			"title": "Clientes acusam corretora de bitcoin de sumir com dinheiro - Folha de S.Paulo",
-			"description": "Grupo que negocia criptomoeda é alvo de 200 processos com cobrança milionária",
-			"url": "https://www1.folha.uol.com.br/mercado/2019/08/clientes-acusam-corretora-de-bitcoin-de-sumir-com-dinheiro.shtml",
-			"urlToImage": "https://f.i.uol.com.br/fotografia/2018/01/17/15162055005a5f75bc6bb36_1516205500_3x2_rt.jpg",
-			"publishedAt": "2019-08-11T11:00:00Z",
-			"content": "Um grupo especialista no comércio de bitcoins, considerado por usuários como o maior do Brasil no ramo, tem sido alvo de centenas de processos desde junho. E, em buscas nas contas bancárias, a Justiça não tem encontrado dinheiro para ressarcir os clientes, qu… [+5472 chars]"
+			"title": "Bolsonaro diz que novo PGR deve ser um homem e será indicado até quinta-feira - Folha de S.Paulo",
+			"description": "Segundo o presidente, o escolhido, seja qual for, vai 'apanhar' apenas por ter sido escolhido por ele",
+			"url": "https://www1.folha.uol.com.br/poder/2019/09/bolsonaro-diz-que-novo-pgr-deve-ser-um-homem-e-sera-indicado-ate-quinta-feira.shtml",
+			"urlToImage": "https://f.i.uol.com.br/fotografia/2019/07/18/15634906565d30f960d0412_1563490656_3x2_rt.jpg",
+			"publishedAt": "2019-09-03T14:13:00Z",
+			"content": "O presidente Jair Bolsonaro (PSL) afirmou que deve anunciar até quinta-feira (5) o nome indicado para assumir o comando da Procuradoria-Geral da República. Esse depois terá de ser sabatinado e aprovado em votação no Senado.\r\nEm café da manhã com a Folha, no P… [+3909 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Techtudo.com.br"
+				"name": "Lance.com.br"
 			},
 			"author": null,
-			"title": "Banco Next é bom? Veja como funciona o cartão de crédito e anuidade - TechTudo",
-			"description": "Instituição oferece facilidade para abrir contas pelo celular e traz planos com isenção de tarifas",
-			"url": "https://www.techtudo.com.br/noticias/2019/08/banco-next-e-bom-veja-como-funciona-o-cartao-de-credito-e-anuidade.ghtml",
-			"urlToImage": "https://s2.glbimg.com/RjMo3lH5IYvMzqP4jj3tO-8bVSI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/s/7/Hzr7S8QwSVQtQ8dECaBA/next.jpg",
-			"publishedAt": "2019-08-11T11:00:00Z",
-			"content": "O Banco Next é uma instituição financeira online que oferece aos clientes facilidades para a abertura de uma conta e um cartão de crédito internacional. Por meio de um aplicativo para Android e iPhone (iOS), usuários podem criar uma conta no serviço pelo celu… [+5616 chars]"
+			"title": "Palmeiras anuncia acerto com Mano Menezes até dezembro de 2021 - LANCE!",
+			"description": "Técnico estava sem equipe desde o início de agosto, quando deixou o Cruzeiro. Ele substitui Felipão, demitido depois da eliminação na Libertadores e o jejum no Campeonato Brasileiro",
+			"url": "https://www.lance.com.br/palmeiras/palmeiras-anuncia-acerto-com-mano-menezes-ate-dezembro-2021.html",
+			"urlToImage": "http://www.lance.com.br/files/og_image/uploads/2019/05/15/5cdcbb3a408d2.jpeg",
+			"publishedAt": "2019-09-03T14:09:00Z",
+			"content": "O Palmeiras anunciou na manhã desta terça-feira a contratação do técnico Mano Menezes. O contrato com o treinador é válido até dezembro de 2021, quando se encerra a gestão do presidente Maurício Galiotte.\r\nAo decidir demitir Luiz Felipe Scolari, o clube tinha… [+1691 chars]"
 		},
 		{
 			"source": {
-				"id": null,
-				"name": "Tudocelular.com"
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "LG G8x ThinQ exibe câmera dupla, tela com entalhe e poucos diferenciais em renders de alta qualidade - Tudocelular.com",
-			"description": "Confira novas imagens de alta qualidade que sugerem o design final do novo smartphone da marca que será anunciado durante a IFA Berlim 2019.",
-			"url": "https://www.tudocelular.com/lg/noticias/n145085/lg-g8x-thinq-renders.html",
-			"urlToImage": "https://t.tudocdn.net/404503?w=646&h=284",
-			"publishedAt": "2019-08-11T10:06:25Z",
-			"content": "Cada vez novos rumores apontam para o lançamento de um novo smartphone da sul-coreana LG nas próximas semanas, e eis que neste último sábado (10) o site indiano Pricebaba revela com exclusividade em parceria com o leaker Steve Hemmerstoffer (@OnLeaks) novas r… [+1999 chars]"
+			"title": "A camisa pesa! Brasil derruba Grécia e Antetokounmpo e avança à segunda fase da Copa do Mundo - globoesporte.com",
+			"description": "Seleção brasileira tira uma diferença de 17 pontos em menos de dez minutos, chega a segunda vitória com grande jogo de Varejão, Alex e Marquinhos, e está classificada para a sequência do torneio",
+			"url": "https://globoesporte.globo.com/basquete/noticia/a-camisa-pesa-brasil-derruba-grecia-e-antetokounmpo-e-avanca-a-segunda-fase-da-copa-do-mundo.ghtml",
+			"urlToImage": "https://s2.glbimg.com/pA1tj-j-xd7Msd_CjgN21SyHQGs=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/es/ge/f/original/2019/09/03/image_4.jpg",
+			"publishedAt": "2019-09-03T14:04:00Z",
+			"content": "Nunca duvide do peso da camisa do Brasil. A muralha era gigante. Giannis Antetokounmpo veio para o jogo. Bateu bola, caiu no chão, brigou. Mas o MVP da NBA e a fortíssima seleção grega pararam diante da seleção brasileira na segunda rodada da Copa do Mundo de… [+5727 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Conjur.com.br"
 			},
-			"author": "Do UOL",
-			"title": "Não é ficção: 10 projetos de carros voadores que estão em andamento - UOL",
-			"description": "A cada dia que passa mais e mais fabricantes, empresas e startups se ocupam na busca do mundialmente sonhado carro voador. Tido como veículo de locomoção do futuro há gerações, o meio de transporte já não é apenas um sonho de ficção científica.Tudo ainda",
-			"url": "https://www.uol.com.br/carros/noticias/redacao/2019/08/11/confira-10-projetos-e-conceitos-para-carros-voadores-no-futuro.htm",
-			"urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/25/2019/03/05/pal-v-liberty-1551799379674_v2_615x300.jpg",
-			"publishedAt": "2019-08-11T10:00:00Z",
-			"content": "A cada dia que passa mais e mais fabricantes, empresas e startups se ocupam na busca do mundialmente sonhado carro voador. Tido como veículo de locomoção do futuro há gerações, o meio de transporte já não é apenas um sonho de ficção científica.\r\nTudo ainda es… [+3607 chars]"
+			"author": "Alberto Zacharias Toron",
+			"title": "A \"lava jato\" vive, mas dentro da lei - Consultor Jurídico",
+			"description": "Ao anular parte da ação penal contra Aldemir Bendine, ex-presidente da Petrobras, a recente decisão do STF deixa uma mensagem clara em duas direções entrelaçadas: a exigência do respeito a garantias constitucionais para uma condenação e a importância do habea…",
+			"url": "https://www.conjur.com.br/2019-set-03/alberto-zacharias-toron-lava-jato-vive-dentro-lei",
+			"urlToImage": "https://s.conjur.com.br/img/b/caricatura-alberto-zacharias-toron.png",
+			"publishedAt": "2019-09-03T14:00:00Z",
+			"content": "Ao anular parte da ação penal contra Aldemir Bendine, ex-presidente da Petrobras, a recente decisão do STF deixa uma mensagem clara em duas direções entrelaçadas: a exigência do respeito a garantias constitucionais para uma condenação e a importância do habea… [+2867 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Techtudo.com.br"
+				"name": "Catracalivre.com.br"
 			},
 			"author": null,
-			"title": "Stickers de Dia dos Pais 2019 para WhatsApp: veja como enviar figurinhas - TechTudo",
-			"description": "App grátis para Android conta com stickers que podem ser enviados pelo mensageiro",
-			"url": "https://www.techtudo.com.br/dicas-e-tutoriais/2019/08/stickers-de-dia-dos-pais-2019-para-whatsapp-veja-como-enviar-figurinhas.ghtml",
-			"urlToImage": "https://s2.glbimg.com/mcfU9dOtHAVyvnVM0X1S2zzZdEo=/1200x/smart/filters:cover():strip_icc()/s01.video.glbimg.com/x720/7510692.jpg",
-			"publishedAt": "2019-08-11T10:00:00Z",
-			"content": "O app WAstickers - Figurinhas para o Dia dos Pais oferece stickers comemorativos que podem ser enviados pelo WhatsApp na data especial. Grátis e disponível para Android, o aplicativo conta com uma boa variedade de mensagens em figurinhas para enviar aos pais … [+1177 chars]"
+			"title": "Piovani volta a ironizar término de Scooby e Anitta - Catraca Livre - Notícias",
+			"description": "Atriz entregou os planos que o surfista disse que tinha com a cantora",
+			"url": "https://catracalivre.com.br/entretenimento/piovani-volta-a-ironiza-termino-de-scooby-e-anitta/",
+			"urlToImage": "https://catracalivre.com.br/wp-content/uploads/2019/06/luana-piovani.jpg",
+			"publishedAt": "2019-09-03T13:52:00Z",
+			"content": "Luana Piovani colocou a boca no trombone mais uma vez ao comentar o fim do namoro de Pedro Scooby com Anitta, durante um bate-papo com os seguidores, por meio do Instagram.\r\nCrédito: reprodução/Instagram/@luapioLuana Piovani colocou a boca no trombone mais um… [+871 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Metrojornal.com.br"
 			},
-			"author": "Wellington Botelho",
-			"title": "WhatsApp: como desativar todas as atualizações de status de um número indesejado - Metro Jornal",
-			"description": "Wellington Botelho - 2019/08/11",
-			"url": "https://www.metrojornal.com.br/estilo-vida/2019/08/11/whatsapp-desativar-atualizacoes-status.html",
-			"urlToImage": "https://media.metrolatam.com/2019/07/25/whatsappreuters-5409bcaf3fbb8a80c0a549ba88c27780-1200x800.jpg",
-			"publishedAt": "2019-08-11T09:39:50Z",
-			"content": "O aplicativo de mensagens WhatsApp permite desativar todas as atualizações de status de um número indesejado.\r\nE para isso, não é necessário nenhuma plataforma de terceiros ou procedimento demorado na aplicativo.\r\nVocê pode silenciar as atualizações de status… [+484 chars]"
+			"author": "Luccas Balacci",
+			"title": "Após devastar as Bahamas, furacão Dorian perde força e é rebaixado para categoria 3 - Metro Jornal",
+			"description": "O furacão Dorian perdeu a força e foi rebaixado para categoria 3 durante a madrugada desta terça-feira (3). O fenômeno ainda pode se aproximar dos EUA.",
+			"url": "https://www.metrojornal.com.br/foco/2019/09/03/furacao-dorian-perde-forca-rebaixado.html",
+			"urlToImage": "https://media.metrolatam.com/2019/09/03/dorianhagueiss19-f17ec6b2c66bb472113e577d5a370103-1200x800.jpg",
+			"publishedAt": "2019-09-03T13:29:49Z",
+			"content": "O furacão Dorian perdeu a força e foi rebaixado para categoria 3 durante a madrugada desta terça-feira (3). O fenômeno ainda pode se aproximar da costa da Flórida até o final do dia.\r\nMesmo que o centro do furacão não chegue à região, são previstos ventos for… [+1811 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Techtudo.com.br"
+				"name": "Ebc.com.br"
 			},
 			"author": null,
-			"title": "Celular que não quebra: conheça os modelos mais resistentes do país - TechTudo",
-			"description": "Conheça modelos à venda no Brasil com promessa de alta durabilidade e resistir a acidentes",
-			"url": "https://www.techtudo.com.br/listas/2019/08/celular-que-nao-quebra-conheca-os-modelos-mais-resistentes-do-pais.ghtml",
-			"urlToImage": "https://s2.glbimg.com/kI7p6PhBue3-u64Go1JsqtenjAw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2017/V/W/9IkgGbSSK7N9ZBGe8I9Q/10.jpg",
-			"publishedAt": "2019-08-11T09:20:00Z",
-			"content": "A busca por celular que não quebra está em alta: parece que os brasileiros estão interessados em modelos que durem por anos. Apesar de nenhuma fabricante prometer um smartphone que jamais dará problema no futuro, existem no mercado modelos criados com a resis… [+5484 chars]"
+			"title": "Petrobras: produção de petróleo e gás atinge 3 milhões de barris - EBC",
+			"description": "A produção total de petróleo e gás da Petrobras registrou uma média diária de 3 milhões de barris de óleo equivalente (boed) em agosto deste ano. O pico da produção chegou a 3,1 milhões de barris em um dia. De acordo com informações divulgadas pela estatal, o…",
+			"url": "http://agenciabrasil.ebc.com.br/economia/noticia/2019-09/petrobras-producao-de-petroleo-e-gas-atinge-3-milhoes-de-barris",
+			"urlToImage": "http://imagens.ebc.com.br/qTmFx0rCoEH9_yvQnjY38lJO2m0=/754x0/smart/http://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/fpso_jose_augusto_alves_agencia_petrobras.jpg?itok=Ct-ryXQM",
+			"publishedAt": "2019-09-03T13:24:00Z",
+			"content": "A produção total de petróleo e gás da Petrobras registrou uma média diária de 3 milhões de barris de óleo equivalente (boed) em agosto deste ano. O pico da produção chegou a 3,1 milhões de barris em um dia. De acordo com informações divulgadas pela estatal, o… [+352 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Techtudo.com.br"
+				"name": "Uol.com.br"
+			},
+			"author": "DANIEL CASTRO",
+			"title": "Após 20 anos de Globo, Monalisa Perrone pede demissão e vai para a CNN Brasil - Outracoisa",
+			"description": "Apresentadora do Hora 1, a jornalista Monalisa Perrone pediu demissão da Globo na manhã desta terça-feira (3). Ela deixou a emissora, onde trabalhava desde 1999, porque recebeu uma \"proposta irrecusável\" da CNN Brasil, canal de notícias que entra no ar em nov…",
+			"url": "https://noticiasdatv.uol.com.br/noticia/daniel-castro/apos-20-anos-de-globo-monalisa-perrone-pede-demissao-e-vai-para-cnn-brasil-29186",
+			"urlToImage": "https://noticiasdatv.uol.com.br/media/_versions/globo-hora-1-monalisa-perrone-reproducao-globoplay-03-09_fixed_big.jpg",
+			"publishedAt": "2019-09-03T13:17:00Z",
+			"content": "Apresentadora do Hora 1, a jornalista Monalisa Perrone pediu demissão da Globo na manhã desta terça-feira (3), após uma longa e tensa reunião com Cristina Piasentini, diretora de Jornalismo em São Paulo. Ela deixou a emissora, onde trabalhava desde 1999, porq… [+6531 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Journey e Captain Tsubasa foram destaques mobile da semana em jogos - TechTudo",
-			"description": "Notícias boas e também não tão boas para os games de celular nos últimos dias.",
-			"url": "https://www.techtudo.com.br/noticias/2019/08/journey-e-captain-tsubasa-foram-destaques-mobile-da-semana-em-jogos.ghtml",
-			"urlToImage": "https://s2.glbimg.com/OjF_qMFKFjX9TnqO4ElFdQLa7pg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/B/G/D3oPKKSp2k36BP8fnpBQ/journey-ios-lancamento-surpresa.jpg",
-			"publishedAt": "2019-08-11T09:00:00Z",
-			"content": "Journey foi um dos grandes destaques entre jogos de celular nesta semana, com seu lançamento feito de surpresa no iOS. Além dele, dois títulos ganharam destaque, por notícias boas e ruins: Captain Tsubasa, o anime dos Super Campeões, vai ganhar um novo jogo n… [+1850 chars]"
+			"title": "Bolsonaro diz que haverá 'quase 20' vetos em projeto sobre abuso de autoridade - G1",
+			"description": "Prazo para sanção e vetos do projeto se encerra na próxima quinta-feira (5). Presidente afirmou que há chance de anunciar nesta terça os trechos vetados.",
+			"url": "https://g1.globo.com/politica/noticia/2019/09/03/bolsonaro-diz-que-havera-quase-20-vetos-em-projeto-sobre-abuso-de-autoridade.ghtml",
+			"urlToImage": "https://s2.glbimg.com/rSojIwfBOK1QIhikp9WkVH-L9PE=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/7892738.jpg",
+			"publishedAt": "2019-09-03T12:36:00Z",
+			"content": "Bolsonaro comentou a análise do projeto durante entrevista na saída do Palácio do Alvorada. O presidente disse que aceitou nove vetos sugeridos pelo ministro da Justiça, Sergio Moro, e adiantou que outros trechos serão vetados. \r\nDeve chegar a quase 20 [vetos… [+3750 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Techtudo.com.br"
+				"name": "Oantagonista.com"
 			},
 			"author": null,
-			"title": "Mensagem de Dia dos Pais 2019 para WhatsApp: conheça apps de frases - TechTudo",
-			"description": "Textos prontos podem ajudar a enviar uma mensagem especial",
-			"url": "https://www.techtudo.com.br/listas/2019/08/mensagem-de-dia-dos-pais-2019-para-whatsapp-conheca-apps-de-frases.ghtml",
-			"urlToImage": "https://s2.glbimg.com/26Q8hQkQjn8SdM6mGSTU2QE2FV4=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2019/v/u/ASvB6nS12YnqI12jSmNg/dia-dos-pais-capa.jpg",
-			"publishedAt": "2019-08-11T09:00:00Z",
-			"content": "Enviar mensagens de Dia dos Pais 2019 pelo WhatsApp pode ser uma forma de demonstrar carinho e se aproximar das pessoas durante a data. Alguns aplicativos grátis disponíveis para Android e iPhone (iOS) podem ajudar a encontrar frases prontas para enviar diret… [+3278 chars]"
+			"title": "Sem clima para nova CPMF - O Antagonista",
+			"description": "Em entrevista à GloboNews, Simone Tebet jogou um balde de água fria na proposta em estudo pela equipe do secretário da Receita, Marcos Cintra, de criação de um imposto nos moldes da CPMF...",
+			"url": "https://www.oantagonista.com/economia/sem-clima-para-nova-cpmf/",
+			"urlToImage": "https://cdn.oantagonista.net/uploads/2019/07/48292784737_678a5117e6_o-1024x682.jpg",
+			"publishedAt": "2019-09-03T12:34:00Z",
+			"content": "Em entrevista à GloboNews, Simone Tebet jogou um balde de água fria na proposta em estudo pela equipe do secretário da Receita, Marcos Cintra, de criação de um imposto nos moldes da CPMF.\r\n“Não vejo clima, da mesma forma que não havia clima em relação à capit… [+599 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Istoe.com.br"
+			},
+			"author": "Estadão Conteúdo",
+			"title": "Brasil está 'quase na ingovernabilidade no tocante às reservas', diz Bolsonaro - Istoe",
+			"description": "O presidente Jair Bolsonaro disse que o Brasil está “quase na ingovernabilidade no tocante às reservas”. “A intenção dessas grandes reservas, e isso sempre se discutiu na ONU, é que, pela autodeterminação dos povos indígenas, seriam novos países no futuro”, a…",
+			"url": "https://istoe.com.br/brasil-esta-quase-na-ingovernabilidade-no-tocante-as-reservas-diz-bolsonaro/",
+			"urlToImage": "https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/08/bolsonaro-inpe-agenciabrasil.jpg",
+			"publishedAt": "2019-09-03T12:30:00Z",
+			"content": "O presidente Jair Bolsonaro disse que o Brasil está “quase na ingovernabilidade no tocante às reservas”. “A intenção dessas grandes reservas, e isso sempre se discutiu na ONU, é que, pela autodeterminação dos povos indígenas, seriam novos países no futuro”, a… [+4094 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Ibge.gov.br"
+			},
+			"author": "Helena Maria Mattos Pontes",
+			"title": "Produção industrial cai 0,3% em julho, no terceiro mês negativo seguido - Agência IBGE Notícias",
+			"description": "",
+			"url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/25343-producao-industrial-cai-0-3-em-julho-no-terceiro-mes-negativo-seguido",
+			"urlToImage": "https://agenciadenoticias.ibge.gov.br/images/agenciadenoticias/estatisticas_economicas/2019_09/PIM_PF_BR_thumb-MarceloBenedicto.jpg",
+			"publishedAt": "2019-09-03T12:00:00Z",
+			"content": "Houve uma concentração de resultados negativos na indústria em julho - Foto: Marcelo Benedicto/Agência IBGE Notícias\r\nA produção da indústria nacional caiu 0,3% em julho, na comparação com junho, acumulando -1,7% no ano. É o terceiro mês negativo seguido, apó… [+1895 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": "Téo Takar",
+			"title": "Empresa de bitcoin promete ganho de 2% ao dia; CVM apura possível fraude - UOL",
+			"description": "\"Invista Bitcoin e ganhe de 1% a 2% todos os dias.\" A frase que você acabou de ler é de uma propaganda da Investimento Bitcoin que tem aparecido em diversos canais de televisão durante o horário nobre e também na internet. Se você achou a proposta tentado",
+			"url": "https://economia.uol.com.br/financas-pessoais/noticias/redacao/2019/09/03/investimento-bitcoincom-suspeito-golpe-piramide-financeira.htm",
+			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/a6/2018/01/19/bitcoin-perdas-prejuizo-golpe-fraude-piramide-1516378734355_v2_615x300.jpg",
+			"publishedAt": "2019-09-03T11:00:00Z",
+			"content": "\"Invista Bitcoin e ganhe de 1% a 2% todos os dias.\" A frase que você acabou de ler é de uma propaganda da Investimento Bitcoin que tem aparecido em diversos canais de televisão durante o horário nobre e também na internet. Se você achou a proposta tentadora, … [+13263 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": "O Globo",
+			"title": "Jovem de 17 anos relata tortura e 40 minutos de chicotadas em supermercado por ter roubado chocolate - Jornal O Globo",
+			"description": "Adolescente disse, ainda, que seguranças o ameaçaram de morte.",
+			"url": "https://oglobo.globo.com/brasil/jovem-de-17-anos-relata-tortura-40-minutos-de-chicotadas-em-supermercado-por-ter-roubado-chocolate-23923251",
+			"urlToImage": "https://ogimg.infoglobo.com.br/in/23923252-97f-7e0/FT1086A/652/tortura.jpg",
+			"publishedAt": "2019-09-03T10:58:16Z",
+			"content": "RIO O garoto de 17 anos flagrado por seguranças de um supermercado na Zona Sul de\r\nSão Paulo\r\nfurtando chocolate de uma gôndola disse ter sido torturado por cerca de 40 minutos. Em entrevista à TV Globo, ele contou, também, ter sido ameaçado de morte. Um víde… [+1452 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Diariodovale.com.br"
+			},
+			"author": "miguel silveira",
+			"title": "MP do Rio cumpre mandados de prisão contra ex-governadores Garotinho e Rosinha - Diario do Vale",
+			"description": "Rio de Janeiro – Ex-governadores Anthony Garotinho e Rosinha Matheus são alvos de mandados de prisão da 2ª Vara Criminal da Comarca de Campos dos Goytacazes. O casal foi preso na manhã desta terça-feira (3), no bairro do Flamengo, e foram levados para Cidade …",
+			"url": "https://diariodovale.com.br/tempo-real/mp-do-rio-cumpre-mandados-de-prisao-contra-ex-governadores-garotinho-e-rosinha/",
+			"urlToImage": "https://diariodovale.com.br/wp-content/uploads/2018/09/anthony_garotinho.jpg",
+			"publishedAt": "2019-09-03T10:55:00Z",
+			"content": "Ex-governadores e outras três pessoas são suspeitos de participarem de um esquema de construção de moradias populares\r\nRio de Janeiro – Ex-governadores Anthony Garotinho e Rosinha Matheus são alvos de mandados de prisão da 2ª Vara Criminal da Comarca de Campo… [+1545 chars]"
 		}
 	]
 }
