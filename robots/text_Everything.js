@@ -11,12 +11,12 @@ function robot(content){
   async function fetchContentFromGoogleNews(content){
     newsapiKey.v2.everything({
     language: 'pt',
-    country: 'br',
-    category: content.category,
+    //category: content.category,
     q: content.query,
     from: '2019-09-20', //return readlineSync.question('Digite um termo de busca ou tecle enter para ignorar essa etapa: ')
-
-    to: '2019-09-25'
+    to: '2019-09-26',
+    sortBy: 'relevance',
+    page: 10,
   }).then(response => {
     const newJson = JSON.stringify(response, null, '\t');
     /*
