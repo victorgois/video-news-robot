@@ -8,9 +8,9 @@ var readlineSync = require('readline-sync');
 const robots = {
 
   everything: require('./robots/text_Everything.js'),
-  text: require('./robots/text_topHeadlines.js')
+  text: require('./robots/text_topHeadlines.js'),
   //loop: require('./robots/loop.js'),
-  //tospeech: require('./robots/toSpeech.js'),
+  tospeech: require('./robots/toSpeech.js')
   //video: require('./robots/video.js')
 }
 
@@ -38,7 +38,7 @@ async function start(){
   content.sourcePublishedAt = fetchDate()
   content.sourcePublisher = fetchPublisher()
   
-  //robots.tospeech(content)
+  robots.tospeech(content)
   //robots.video(content)
 
   function askandReturnQuery(){

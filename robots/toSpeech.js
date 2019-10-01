@@ -6,8 +6,14 @@ function robot(content){
 
   function fetchAudioFromIBM(content){
     const textToSpeech = new TextToSpeechV1({
-      iam_apikey: 'IhF1AMkEvgKFsOfalw9CEFdf5wf_zGXE4nPn01saD3B5',
+      username: 'victorgois18@gmail.com',
+      password: 'Contrabaixo@24',
+
+      //iam_apikey: 'IhF1AMkEvgKFsOfalw9CEFdf5wf_zGXE4nPn01saD3B5', 
+      url: 'https://stream.watsonplatform.net/text-to-speech/api'
+      //disable_ssl_verification: true,
     });
+    
   
   const synthesizeParams = {
     text: content.sourceDescription,
@@ -21,7 +27,7 @@ function robot(content){
       //for (i = 0; i<content.articles.length; i++){
         //audio[i] = new Audio()
         //audio[i].src = audio.pipe(fs.createWriteStream('./audios/audioPublisher.wav')); //testando a criação de loop na produção do áudio
-  audio.pipe(fs.createWriteStream('./audios/audioPublisher.wav')); //testando a criação de loop na produção do áudio
+  audio.pipe(fs.createWriteStream('./audios/audioDescription.wav')); //testando a criação de loop na produção do áudio
       //audio[i].play();
     })
     .catch(err => {
