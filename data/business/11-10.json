@@ -1,0 +1,266 @@
+{
+	"status": "ok",
+	"totalResults": 70,
+	"articles": [
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Setor de serviços retrai 0,2% em agosto, a 5ª queda no ano - G1",
+			"description": "Em 12 meses, houve perda do ritmo de recuperação, com o crescimento acumulado passando de 0,9% em julho para 0,6% em agosto.",
+			"url": "https://g1.globo.com/economia/noticia/2019/10/11/setor-de-servicos-cai-02percent-em-agosto-diz-ibge.ghtml",
+			"urlToImage": "https://s2.glbimg.com/m1f-XlQanXQ2_5QVSFvMGWcxYtM=/1200x/smart/filters:cover():strip_icc()/s04.video.glbimg.com/x720/7994203.jpg",
+			"publishedAt": "2019-10-11T12:00:00Z",
+			"content": "O volume do setor de serviços recuou 0,2% em agosto, na comparação com o mês anterior, após avançar 0,7% em julho, segundo divulgou nesta sexta-feira (11) o Instituto Brasileiro de Geografia e Estatística (IBGE), reforçando a leitura de maior fraqueza da econ… [+4908 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "Eletrobras abre novo plano de demissão para desligar até 1.681 funcionários até o fim do ano - G1",
+			"description": "Plano de demissão consensual consta do acordo coletivo assinado ontem no Tribunal Superior do Trabalho (TST). Estatal estima custo de R$ 548 milhões e economia de 510 milhões ao ano.",
+			"url": "https://g1.globo.com/economia/noticia/2019/10/11/eletrobras-abre-novo-plano-de-demissao-para-desligar-ate-1681-funcionarios-ate-o-fim-do-ano.ghtml",
+			"urlToImage": "https://s2.glbimg.com/XxNwUt1Are_Y784V4yVLlJtwxPw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/P/P/aer5PWRs6dX5CgBOBVTA/2018-07-03t214238z-1-lynxmpee6225p-rtroptp-3-energia-eletrobras-mandadodeseguranca.jpg",
+			"publishedAt": "2019-10-11T10:17:00Z",
+			"content": "A Eletrobras comunicou ao mercado que será iniciado nesta sexta-feira (11) um novo plano de demissão consensual (PDC). De acordo com a estatal, a meta é o desligamento de 1.681 empregados até 31 de dezembro. O plano será implementado simultaneamente na Eletro… [+3588 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Estadao.com.br"
+			},
+			"author": null,
+			"title": "Teste: Fiat Toro Ranch 2020 se destaca pelos equipamentos - Jornal do Carro Estadão",
+			"description": "Versão mais cara da picape da Fiat tem preço a partir de R$ 159.990 e ampla lista de itens de série. Toro Ranch vem sempre com motor 2.0 diesel de 170 cv",
+			"url": "https://jornaldocarro.estadao.com.br/carros/teste-fiat-toro-ranch-2020/",
+			"urlToImage": "https://fotos.jornaldocarro.estadao.com.br/uploads/2019/10/10170103/48672923-300x200.jpg",
+			"publishedAt": "2019-10-11T10:00:00Z",
+			"content": "A linha 2020 da Toro acaba de chegar às concessionárias Fiat do País. Avaliamos a versão de topo, Ranch, que se destaca pela ampla lista de equipamentos. A picape fabricada em Goiana (PE) traz o conhecido 2.0 turbodiesel de 170 cv de potência e 35,7 mkgf de t… [+6979 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Correiobraziliense.com.br"
+			},
+			"author": "Correio Braziliense, Correio Braziliense",
+			"title": "Negócios: Latam e Disney recorrem a 'Star Wars' para atrair brasileiros - Correio Braziliense",
+			"description": "As companhias lan�aram aeronave pintada com um dos personagens da saga. Apesar do d�lar acima de R$ 4, seus executivos n�o falam em promo��es para driblar o impacto do c�mbio",
+			"url": "https://www.correiobraziliense.com.br/app/noticia/economia/2019/10/11/internas_economia,796581/negocios-latam-e-disney-recorrem-a-star-wars-para-atrair-brasileiro.shtml",
+			"urlToImage": "https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/10/11/796581/20191011005958595581a.jpg",
+			"publishedAt": "2019-10-11T09:00:00Z",
+			"content": "So Paulo — Paulo Miranda, vice-presidente de Clientes da Latam Airlines, conversava com clientes e jornalistas em uma tenda hexagonal, no Centro de Manuteno de Linha da companhia, junto ao Aeroporto Internacional de Guarulhos (Grande So Paulo), quando foi int… [+6662 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Correiobraziliense.com.br"
+			},
+			"author": "Correio Braziliense, Correio Braziliense",
+			"title": "Mudanças positivas: construção civil retoma crescimento - Correio Braziliense",
+			"description": "Impulsionado pelos juros menores e perspectiva positiva para a economia, setor gera um em cada cinco empregos no Brasil e d� sinais de que est� saindo da longa crise",
+			"url": "https://www.correiobraziliense.com.br/app/noticia/economia/2019/10/11/internas_economia,796580/mudancas-positivas-construcao-civil-retoma-crescimento.shtml",
+			"urlToImage": "https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/10/11/796580/20191011013941329024a.JPG",
+			"publishedAt": "2019-10-11T09:00:00Z",
+			"content": "So Paulo — Um dos setores econmicos mais prejudicados pela crise nos ltimos anos, o mercado imobilirio comea a despontar como a locomotiva da gerao de empregos no pas.  A construo civil, de acordo com dados do Cadastro Geral de Empregados e Desempregados (Cag… [+2729 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Jornalggn.com.br"
+			},
+			"author": null,
+			"title": "Deflação, obaaa! Só que não!, por Albertino Ribeiro - Jornal GGN",
+			"description": "O Jornal De Todos os Brasis - O Jornalista Luís Nassif lidera equipe Do Jornal GGN. Com opiniões e conteúdo de qualidade o portal sempre traz as últimas noticias do cenário político nacional",
+			"url": "https://jornalggn.com.br/artigos/deflacao-obaaa-so-que-nao/",
+			"urlToImage": "https://jornalggn.com.br/sites/default/files/2019/10/deflacao-obaaa-so-que-nao-por-albertino-ribeiro-iluminado1.jpg",
+			"publishedAt": "2019-10-11T08:07:00Z",
+			"content": "Deflação, obaaa! Só que não!, por Albertino Ribeiro\r\nSegundo o IBGE, a inflação oficial, medida pelo Índice de Preços ao Consumidor Amplo (IPCA), registrou queda de 0,04% (deflação) em setembro. É o menor valor para o mês desde 1998, quando ficou em baixa de … [+2736 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Estadao.com.br"
+			},
+			"author": null,
+			"title": "Vivara sobe no 1º pregão e atrai cliente pessoa física - Economia & Negócios Estadão",
+			"description": "Papéis tiveram alta de até 3% no dia, mas depois perderam a força e fecharam com uma subida discreta, de 0,46%",
+			"url": "https://economia.estadao.com.br/noticias/geral,vivara-sobe-no-1-pregao-e-atrai-cliente-pessoa-fisica,70003045619",
+			"urlToImage": "https://img.estadao.com.br/resources/jpg/1/3/1570527156031.jpg",
+			"publishedAt": "2019-10-11T07:00:32Z",
+			"content": "Em sua estreia na B3, a Bolsa paulista, os papéis ordinários da joalheria Vivara chegaram a subir 3% no dia, mas depois perderam a força e fecharam com uma alta discreta, de 0,46%, cotados a R$ 24,11. \r\nLEIA TAMBÉM&gt;\r\nVivara arrecada R$ 2,3 bilhões em IPO\r\n… [+1485 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": "João José Oliveira",
+			"title": "Nova regra deve baratear custo para qualquer um enviar dinheiro ao exterior - UOL",
+			"description": "O governo brasileiro decidiu facilitar a vida de quem precisa transformar reais em dólares, euros ou outra moeda internacional. Para isso, o Banco Central -- órgão que organiza e vigia o mercado financeiro e bancário do país -- escreveu um novo conjunto d",
+			"url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2019/10/11/cambio-dolar-novas-regras-fintechs.htm",
+			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/6c/2018/11/13/dolar-dolar-cambio-real-estados-unidos-bolsa-de-valores-mercado-bovespa-ibovespa-b3-1542152549651_v2_615x300.jpg",
+			"publishedAt": "2019-10-11T07:00:00Z",
+			"content": "O governo brasileiro decidiu facilitar a vida de quem precisa transformar reais em dólares, euros ou outra moeda internacional. Para isso, o Banco Central -- órgão que organiza e vigia o mercado financeiro e bancário do país -- escreveu um novo conjunto de re… [+4235 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Uol.com.br"
+			},
+			"author": "Alessandro Reis",
+			"title": "Novo Nissan Versa: conheça o sedã que vai encarar HB20S e Onix Plus em 2020 - UOL",
+			"description": "Depois de apresentar a nova geração do Versa nos Estados Unidos em abril, finalmente a Nissan lançou o sedã compacto no México, de onde será exportado ao Brasil em 2020. Com a estreia em solo mexicano, agora é possível ter uma boa ideia de especificações",
+			"url": "https://www.uol.com.br/carros/noticias/redacao/2019/10/11/novo-nissan-versa-conheca-o-seda-que-vai-encarar-hb20s-e-onix-plus-em-2020.htm",
+			"urlToImage": null,
+			"publishedAt": "2019-10-11T07:00:00Z",
+			"content": "Depois de apresentar a nova geração do Versa nos Estados Unidos em abril, finalmente a Nissan lançou o sedã compacto no México, de onde será exportado ao Brasil em 2020. Com a estreia em solo mexicano, agora é possível ter uma boa ideia de especificações e eq… [+4053 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "R7.com"
+			},
+			"author": "R7.com",
+			"title": "[Exclusivo] Conheça a versão mais simples do novo Hyundai HB20 - R7",
+			"description": "Vendas começam hoje e conhecemos a versão mais em conta do compacto, vendida por R$ 46,5 mil",
+			"url": "https://noticias.r7.com/prisma/autos-carros/exclusivo-conheca-a-versao-mais-simples-do-novo-hyundai-hb20-10102019",
+			"urlToImage": "https://img.r7.com/images/hb20-sense-10-10102019230320499?dimensions=600x315&crop_position=c",
+			"publishedAt": "2019-10-11T02:20:00Z",
+			"content": "Com a nova geração do HB20 cujas vendas começaram hoje em todo o país, faltava mostrar os modelos mais em conta da gama, que começa em R$ 44,1 mil.\r\nAfinal, durante o primeiro contato do R7 com a novidade, só pudemos avaliar o novo motor 1.0 turbo TGDI de 120… [+3371 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": null,
+			"title": "iFood anuncia seguro contra acidentes para entregadores - G1",
+			"description": "Empresa também terá curso de treinamento à distância, em parceria com Sesi-SP, e programa que dá descontos em plano de saúde e seguro para motos.",
+			"url": "https://g1.globo.com/economia/tecnologia/noticia/2019/10/10/ifood-anuncia-seguro-contra-acidentes-para-entregadores.ghtml",
+			"urlToImage": "https://s2.glbimg.com/zWjb0fGgxOrAqQiSIwGL8jUDLdE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/m/M/fvgSD4Q6SQLzarJtaG4g/biker-10.jpg",
+			"publishedAt": "2019-10-11T00:10:00Z",
+			"content": "O aplicativo de entrega de comida iFood anunciou nesta quinta-feira (9) que vai começar a fornecer um pacote com seguro, descontos e cursos para os motoristas e entregadores. Segundo a empresa, os benefícios não terão custo para os usuários, nem para quem tra… [+3397 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Brasil247.com"
+			},
+			"author": null,
+			"title": "Vendida à Boeing, Embraer vai parar fábricas no Brasil e dar férias coletivas a funcionários - Brasil 247",
+			"description": "Segundo o Sindicato dos Metalúrgicos de São José dos Campos, a Embraer vai conceder férias coletivas a todos os seus funcionários no Brasil, cerca de 15 mil trabalhadores, em janeiro em preparação para a transferência do controle de sua divisão de aviação com…",
+			"url": "https://www.brasil247.com/economia/vendida-a-boeing-embraer-vai-parar-fabricas-no-brasil-e-dar-ferias-coletivas-a-funcionarios",
+			"urlToImage": "https://publisher-publish.s3.eu-central-1.amazonaws.com/pb-brasil247/swp/jtjeq9/media/20191011011044_2204600d-b507-487c-be97-6689c95e8326.jpeg",
+			"publishedAt": "2019-10-10T23:45:00Z",
+			"content": "Segundo o Sindicato dos Metalúrgicos de São José dos Campos, a Embraer vai conceder férias coletivas a todos os seus funcionários no Brasil, cerca de 15 mil trabalhadores, em janeiro em preparação para a transferência do controle de sua divisão de aviação com… [+1145 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Em.com.br"
+			},
+			"author": "Marcelo Ernesto",
+			"title": "Super Nosso assume lojas do Carrefour em BH - Estado de Minas",
+			"description": "Parceira entre o grupo francês e o mineiro de supermercados vinha sendo costurada nos últimos dois anos e tem validade pelos próximos cinco anos, com possibilidade de prorrogação do contrato",
+			"url": "https://www.em.com.br/app/noticia/economia/2019/10/10/internas_economia,1091858/super-nosso-assume-lojas-do-carrefour-em-bh.shtml",
+			"urlToImage": "https://imgsapp.em.com.br/app/noticia_127983242361/2019/10/10/1091858/20191010205857289229i.jpg",
+			"publishedAt": "2019-10-10T23:30:00Z",
+			"content": "A marca belo-horizontina de supermercados Super Nosso passar a fazer gesto de 17 lojas Carrefour Bairro em Belo Horizonte e regio metropolitana. A assinatura da parceria de operao entre o Grupo Super Nosso e o Grupo Carrefour Brasil foi feita na quarta-feira … [+3439 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Metropoles.com"
+			},
+			"author": null,
+			"title": "Loterias têm prêmios acumulados: confira sorteios desta quinta - Metrópoles",
+			"description": "Os números foram anunciados às 20h, no Espaço Loterias Caixa, localizado no Terminal Rodoviário do Tietê, em São Paulo",
+			"url": "https://www.metropoles.com/brasil/loterias-tem-premios-acumulados-confira-sorteios-desta-quinta",
+			"urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2019/09/13194217/Quina-e-Lotof%C3%A1cil.jpg",
+			"publishedAt": "2019-10-10T23:25:00Z",
+			"content": "Nesta quinta-feira (10/10/2019), as esperanças dos apostadores se voltam para as loterias que a Caixa sorteou: são os concursos de número 5.094 da Quina, 1.393 da Timemania, o 1.997 da Dupla Sena e o 212 do Dia de Sorte. Detalhe: todos os prêmios estão acumul… [+1056 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Maisminas.org"
+			},
+			"author": "Rodolpho Bohrer",
+			"title": "Resultado da Timemania 1393 desta quinta (10/10/2019) - Mais Minas",
+			"description": "As extrações da Timemania, concurso 1.393, aconteceram na noite desta quinta-feira 10 de outubro, a partir das 20h. Para hoje, o prêmio principal está estimado em R$ 5,9 milhões. O sorteio aconteceu e",
+			"url": "https://maisminas.org/resultado-da-timemania-1393-desta-quinta-10-10-2019/",
+			"urlToImage": "https://i1.wp.com/maisminas.org/wp-content/uploads/2019/10/timemania.jpg?fit=1207%2C710&ssl=1",
+			"publishedAt": "2019-10-10T22:42:54Z",
+			"content": "As extrações da Timemania, concurso 1.393, aconteceram na noite desta quinta-feira 10 de outubro, a partir das 20h. Para hoje, o prêmio principal está estimado em R$ 5,9 milhões. O sorteio aconteceu em São Paulo, no Espaço Loterias Caixa, e as dezenas sortead… [+337 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Canalenergia.com.br"
+			},
+			"author": "thunders",
+			"title": "AES Tietê desiste do complexo eólico Alto Sertão III, da Renova - CanalEnergia",
+			"description": "Empresa negociava a compra de um projeto em construção na Bahia e mais um pacote de projetos eólicos",
+			"url": "http://canalenergia.com.br/noticias/53114837/aes-tiete-desiste-do-complexo-eolico-alto-sertao-iii-da-renova",
+			"urlToImage": "http://drudu6g9smo13.cloudfront.net/wp-content/uploads/2019/08/IMG_20190814_131727951-400x300.jpg",
+			"publishedAt": "2019-10-10T22:38:28Z",
+			"content": "A AES Tietê informou ao mercado que encerrou as negociações para compra dos ativos da Renova Energia, em função do não cumprimento das condições prévias por parte da vendedora. “A companhia reforça que continua engajada em sua estratégia de crescimento, anali… [+1175 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Noticiasautomotivas.com.br"
+			},
+			"author": "Ricardo de Oliveira",
+			"title": "Fiat Argo Trekking com motor 1.8 e automático em novembro, diz... - Noticias Automotivas",
+			"description": "O Fiat Argo Trekking atualmente é oferecido somente com motor 1.3 e câmbio manual, mas em novembro, a versão aventureira do hatch compacto da FCA terá novidades, de acordo com o jornalista Jorge Morais, no site UOL. Segundo ele apurou, o modelo passará a disp…",
+			"url": "https://www.noticiasautomotivas.com.br/fiat-argo-trekking-com-motor-1-8-e-automatico-em-novembro-diz-site/",
+			"urlToImage": "https://images.noticiasautomotivas.com.br/img/f/fiat-argo-trekking-5.jpg",
+			"publishedAt": "2019-10-10T22:32:50Z",
+			"content": "O Fiat Argo Trekking atualmente é oferecido somente com motor 1.3 e câmbio manual, mas em novembro, a versão aventureira do hatch compacto da FCA terá novidades, de acordo com o jornalista Jorge Morais, no site UOL.\r\nSegundo ele apurou, o modelo passará a dis… [+1854 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Metrojornal.com.br"
+			},
+			"author": "Marcelo Ruiz",
+			"title": "Mega-Sena terá três sorteios na próxima semana - Metro Jornal",
+			"description": "Metro Jornal - 2019/10/10",
+			"url": "https://www.metrojornal.com.br/foco/2019/10/10/mega-sena-tres-sorteios-proxima-semana.html",
+			"urlToImage": "https://media.metrolatam.com/2019/01/04/megasena3-659c730afb0e98bd89bb44062bd0e761-1200x800.jpg",
+			"publishedAt": "2019-10-10T21:57:00Z",
+			"content": "Neste sábado (dia 12), devido ao feriado do Dia de Nossa Senhora Aparecida, não haverá sorteio das loterias da Caixa, mas na próxima semana haverá três sorteios, na segunda (14), quarta (16) e sábado (19).\r\nComo ninguém acertou as seis dezenas sorteadas nesta… [+1910 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Correiobraziliense.com.br"
+			},
+			"author": "Correio Braziliense, Correio Braziliense",
+			"title": "BRB e CNC firmam acordo para aquecer setor produtivo do DF - Correio Braziliense",
+			"description": "Termo de coopera��o t�cnica tem como objetivo facilitar cess�o de cr�ditos e produtos financeiros ao setor produtivo",
+			"url": "https://www.correiobraziliense.com.br/app/noticia/cidades/2019/10/10/interna_cidadesdf,796536/brb-e-cnc-firmam-acordo-para-aquecer-setor-produtivo-do-df.shtml",
+			"urlToImage": "https://imgsapp2.correiobraziliense.com.br/app/noticia_127983242361/2019/10/10/796536/20191010181558926052e.jpeg",
+			"publishedAt": "2019-10-10T21:20:00Z",
+			"content": "Publicidade\r\nPublicidade\r\nCopyright Correio Braziliense 2000 - 2019. todos os direitos reservados."
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
+			},
+			"author": "Manoel Ventura",
+			"title": "Governo avalia liberar recursos para ministérios, após arrecadação recorde em leilão de petróleo - Jornal O Globo",
+			"description": "Cerca de R$ 24,7 bilhões continuam bloqueados. Receita será de R$ 8,9 bilhões",
+			"url": "https://oglobo.globo.com/economia/governo-avalia-liberar-recursos-para-ministerios-apos-arrecadacao-recorde-em-leilao-de-petroleo-24009652",
+			"urlToImage": "https://ogimg.infoglobo.com.br/in/24005602-459-b1e/FT1086A/652/cessao-onerosapetroleo.jpg",
+			"publishedAt": "2019-10-10T21:16:00Z",
+			"content": "BRASÍLIA - A arrecadação recorde com o leilão de petróleo representará uma receita acima da prevista pela equipe econômica, e deve permitir ao governo liberar parte dos recursos que estão bloqueados no Orçamento para os ministérios. O governo federal receberá… [+2021 chars]"
+		}
+	]
+}
