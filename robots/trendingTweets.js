@@ -1,50 +1,35 @@
-var https = require('https');
-var headers = {
-  'User-Agent': 'Coding Defined',
-  Authorization: 'bearer ' + require('./oauth.json').access_token
-};
-
-function jsonHandler(response, callback) {
-    var json = '';
-    response.setEncoding('utf8');
-    if(response.statusCode === 200) {
-      response.on('data', function(chunk) {
-        json += chunk;
-      }).on('end', function() {
-        callback(JSON.parse(json));
-      });
-    } else {
-      console.log('Error : ' + reseponse.statusCode);
+var Twitter = require('twitter');
+ 
+var client = new Twitter({
+  consumer_key: '7a53y0hVHFwUs9Ig0hZ2qKjRP',
+  consumer_secret: '2fw76vVXtclWBxukN45XDhpfqdDjSKrbnuXyi5Nsz1mixsKHNA',
+  access_token_key: '928002030-RadYSeIbxgGaI2zhvizIqWu0s5cRsK3oe4A0DPZd',
+  access_token_secret: 'e8pj2Ht7jK3aMmYsXZfACsz67JTxFpYzeeiB1abvYMNnZ'
+});
+ 
+client.get('trends/place', {id : 23424768}, function(error, data, response) {
+  if (error) {
+    console.log(error);
     }
-  }
+    var jsonResponse = data[0];
+    let hashtags, volumes = [];
+    function getNamePair(hashtags, volumes) {
+      for (var key in jsonResponse.trends) {
+        for (var jey in hashtags){
+          hashtags[jey]= jsonResponse.trends[key].name; 
+          console.log(hashtags);
+        }
+        for (var may in volumes){
+          volumes[may] = jsonResponse.trends[key].tweet_volume;
+        }
+        var result = {};
+        hashtags.forEach((hashtag, i) => result[hashtag] = volume[i]);
 
-  var trendOptions = {
-    host: 'api.twitter.com',
-    path: '/1.1/trends/place.json?id=1', // id = 1 for global trends
-    headers: headers
-  }
-  
-  var tweetDetails = {
-    maxresults: 10,
-    resultType: 'recent', // options are mixed, popular and recent
-    options: {
-      host: 'api.twitter.com',
-      headers: headers,
+        }
+        //console.log(key, "Name - " + name + ", tweet_vol - " + volume);
+        return (result)
     }
-  }
-
-  function fullTweetPath(query) {
-    var path = '/1.1/search/tweets.json?q=' + query
-    + '&count=' + tweetDetails.maxResult
-    + '&include_entities=true&result_type=' + tweetDetails.resultType;
-  
-    tweetDetails.options.path = path; 
-  }
-
-  function callTwitter(options, callback){
-    https.get(options, function(response) {
-      jsonHandler(response, callback);
-    }).on('error', function(e) {
-      console.log('Error : ' + e.message);
-    })
-  }
+    var beforeJson = getNamePair();
+    JSON.stringify(beforeJson);
+    console.log(beforeJson);
+});
