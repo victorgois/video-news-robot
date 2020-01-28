@@ -10,7 +10,7 @@ const robots = {
   everything: require('./robots/text_Everything.js'),
   text: require('./robots/text_topHeadlines.js'),
   //loop: require('./robots/loop.js'),
-  tospeech: require('./robots/toSpeech.js')
+  //tospeech: require('./robots/toSpeech.js')
   //video: require('./robots/video.js')
 }
 
@@ -23,9 +23,10 @@ async function start(){
   content.category = askAndReturnCategory()
   content.query = askandReturnQuery()
   //content.period =  askandReturnPeriod()
+
   
-  robots.text(content)
-  //robots.everything(content)
+  //robots.text(content)
+  robots.everything(content)
 
   let contentFromJson = await require('./data/output.json')
   //console.log(dataForge.readFileSync("./output.json"))
@@ -39,8 +40,11 @@ async function start(){
   content.sourcePublishedAt = fetchDate()
   content.sourcePublisher = fetchPublisher()
   
-  robots.tospeech(content)
+  //robots.tospeech(content)
   //robots.video(content)
+
+//  downloadImages();
+
 
   function askandReturnQuery(){
     
@@ -49,6 +53,7 @@ async function start(){
 
   function askAndReturnCategory(){
     const prefixes = ["business","entertainment","general","health","science","sports","technology"]
+    
     const selectedPrefixIndex = readlineSync.keyInSelect(prefixes,'Escolha uma opcao: ')
     const selectedPrefixText = prefixes[selectedPrefixIndex]
 
@@ -60,7 +65,7 @@ async function start(){
     return (period)
 
   }
-*/
+ */
 
 //Funções de separação de metadados em objetos
 
