@@ -21,7 +21,8 @@ async function start(){
   let contentFromArticles, nameFromArticles, authorsFromArticles, titleFromArticles, descriptionFromArticles, urlfromArticles, urlToImageFromArticles, dateFromArticles, publisherFromArticles = []
   
   content.category = askAndReturnCategory()
-  content.query = askandReturnQuery()
+  //content.query = askandReturnQuery()
+  //content.query = '+tecnologia AND (uber AND aplicativo) OR (cripto) OR (ciber) OR (vigilância AND dados) OR  (dados AND direitos) OR (dados AND capitalismo) OR (hacker) OR (metadados) OR (algoritmo AND dados) OR (big data) OR (deep fake) OR (transhumanismo) OR (ficção científica) OR (machine learning) OR (aprendizado de máquina) OR (inteligência artificial) OR (dados AND coleta) OR (digital AND filosofia) OR (fake news)'
   //content.period =  askandReturnPeriod()
 
   

@@ -1,266 +1,232 @@
 {
 	"status": "ok",
-	"totalResults": 70,
+	"totalResults": 166,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Estadao.com.br"
+				"name": "B9.com.br"
 			},
-			"author": null,
-			"title": "Vale, Petrobrás, Gerdau, CSN e Suzano perdem R$ 33 bi em valor de mercado por temor com coronavírus - Cultura Estadão",
-			"description": "Além das empresas ligadas a commodities, companhias do setor aéreo têm queda nas ações com aversão ao risco no exterior",
-			"url": "https://economia.estadao.com.br/noticias/geral,vale-petrobras-gerdau-csn-e-suzano-perdem-r-33-bilhoes-em-dia-de-preocupacao-com-coronavirus,70003174634",
-			"urlToImage": "https://img.estadao.com.br/resources/jpg/5/6/1574036281965.jpg",
-			"publishedAt": "2020-01-27T22:20:20Z",
-			"content": "Com a mesma velocidade que o coronavírus se espalhou no fim de semana, com vítimas agora em 15 países, o medo de uma recessão global e a incerteza causada pela falta de transparência do governo chinês atingiu os mercados financeiros ao redor do mundo. No Bras… [+4412 chars]"
+			"author": "Matheus Fiore",
+			"title": "Uber lança opção de viagens de tuk-tuk no Brasil",
+			"description": "Os tuk-tuks, veículos motorizados bastante populares na Índia e na Tailândia, estão chegando ao Uber no Brasil. A empresa responsável pelo aplicativo de transportes mais popular do mercado anunciou que está lançando tuk-tuks motorizados em cidades específicas…",
+			"url": "https://www.b9.com.br/120515/uber-lanca-opcao-de-viagens-de-tuk-tuk-no-brasil/",
+			"urlToImage": "https://assets.b9.com.br/wp-content/uploads/2020/01/ubertuktukb9.jpg",
+			"publishedAt": "2020-01-29T12:28:29Z",
+			"content": "Os tuk-tuks, veículos motorizados bastante populares na Índia e na Tailândia, estão chegando ao Uber no Brasil. A empresa responsável pelo aplicativo de transportes mais popular do mercado anunciou que está lançando tuk-tuks motorizados em cidades específicas… [+1034 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Seucreditodigital.com.br"
+				"name": "Publico.pt"
 			},
-			"author": "https://www.facebook.com/egv.mendes",
-			"title": "Magazine Luiza anuncia conta digital em parceria com Banco do Brasil - Seu Crédito Digital",
-			"description": "A Magazine Luiza anunciou o lançamento de sua conta digital - o Magalu Pay, oferecendo vários serviços, em parceria com o Banco do Brasil",
-			"url": "https://seucreditodigital.com.br/magazine-luiza-anuncia-conta-digital-banco-do-brasil/",
-			"urlToImage": "https://seucreditodigital.com.br/wp-content/uploads/2020/01/Magalu.jpg",
-			"publishedAt": "2020-01-27T21:34:24Z",
-			"content": "Em dezembro de 2019, a Magazine Luiza – uma das maiores plataformas digitais de varejo do Brasil, anunciou o lançamento de sua conta digital – o Magalu Pay. O serviço, será inteiramente integrado ao superapp da empresa, e deveria estar disponível a partir de … [+2890 chars]"
+			"author": "publico@publico.pt",
+			"title": "Redes sociais chinesas “fervem” com críticas directas ao regime num fenómeno raro",
+			"description": "“O que nos protege não são armas nucleares, porta-aviões ou sondas lunares. O que nos protege é o fluxo livre de informação e independência judicial”, afirmou um internauta, comparando a falta de informação em Wuhan à de Chernobyl.",
+			"url": "https://www.publico.pt/2020/01/31/mundo/noticia/redes-sociais-chinesas-fervem-criticas-directas-regime-fenomeno-raro-1902394",
+			"urlToImage": "https://imagens.publico.pt/imagens.aspx/1435378?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+			"publishedAt": "2020-01-31T11:44:03Z",
+			"content": "O crescente descontentamento popular pela forma como as autoridades chinesas lidaram com o novo coronavírus, que já matou 213 pessoas, é cada vez mais visível na controlada Internet chinesa, num fenómeno raro no país asiático.\r\n“Corrupção, subornos, regulador… [+3962 chars]"
 		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Ibovespa cai mais de 3% em meio a temor por coronavírus - Valor Econômico",
-			"description": "Temores de disseminação do coronavírus e seus efeitos econômicos, principalmente na China, geraram uma onda global de venda de ações",
-			"url": "https://valor.globo.com/financas/noticia/2020/01/27/ibovespa-cai-mais-de-3percent-em-meio-a-temor-por-coronavirus.ghtml",
-			"urlToImage": "https://s2.glbimg.com/sgFYvzTM-UPasf_ZsgtXnK_01s8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/w/n/3Nr1nmT2Se8jEWKGf8zQ/ap-16176694409826.jpg",
-			"publishedAt": "2020-01-27T21:32:00Z",
-			"content": "Os temores de disseminação do coronavírus e seus efeitos econômicos, principalmente na China, geraram uma onda global de venda de ações. No Brasil, o Ibovespa perdeu mais de três mil pontos somente no pregão de hoje e fechou em baixa de 3,29%, aos 114.482 pon… [+2206 chars]"
-		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Tecnoblog.net"
 			},
-			"author": null,
-			"title": "Fim de aluguel de bikes e patinetes divide usuários nas capitais - Folha de S.Paulo",
-			"description": "Grow anunciou retirada do serviço de 14 cidades, mas algumas já têm outras empresas",
-			"url": "https://www1.folha.uol.com.br/cotidiano/2020/01/fim-de-aluguel-de-bikes-e-patinetes-divide-usuarios-nas-capitais.shtml",
-			"urlToImage": "https://f.i.uol.com.br/fotografia/2020/01/27/15801598135e2f5345274d5_1580159813_3x2_rt.jpg",
-			"publishedAt": "2020-01-27T21:18:00Z",
-			"content": "O encerramento de serviços de aluguel de patinetes e bicicletas e a reestruturação da atuação em algumas cidades, anunciados pela Grow nesta semana, dividiu usuários dos equipamentos. Em locais em que há outras empresas operantes, a reação foi pequena. Já ond… [+6718 chars]"
+			"author": "Felipe Ventura",
+			"title": "Uber Cash pré-pago agora aceita pagamento por boleto ou transferência",
+			"description": "Uber Cash permite comprar crédito pré-pago de R$ 50, R$ 100 ou R$ 200 para usar em viagens e em entregas do Uber Eats Uber Cash pré-pago agora aceita pagamento por boleto ou transferência",
+			"url": "https://tecnoblog.net/323288/uber-cash-pre-pago-aceita-pagamento-boleto-transferencia-bancaria/",
+			"urlToImage": "https://tecnoblog.net/wp-content/uploads/2020/01/uber-no-aplicativo-700x394.jpg",
+			"publishedAt": "2020-01-30T15:50:08Z",
+			"content": "Existem diversas formas de se pagar no aplicativo da Uber, e uma delas é o pré-pago ou Uber Cash: você compra créditos de R$ 50, R$ 100 ou R$ 200 para usar em corridas e em entregas do Eats. Agora, você pode adquiri-los através do app pagando via boleto bancá… [+2258 chars]"
 		},
-		{
-			"source": {
-				"id": "info-money",
-				"name": "InfoMoney"
-			},
-			"author": null,
-			"title": "Bitcoin “escapa” de selloff com coronavírus, salta mais de 4% e volta para US$ 9 mil - InfoMoney",
-			"description": "O ouro, um dos ativos mais seguros do mundo, tem alta de 0,6%, reforçando o momento de busca por proteção por parte dos investidores pelo mundo",
-			"url": "https://www.infomoney.com.br/mercados/bitcoin-escapa-de-selloff-com-coronavirus-salta-mais-de-4-e-volta-para-us-9-mil/",
-			"urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/bitcoin-58.jpg?fit=900%2C600&quality=75&strip=all",
-			"publishedAt": "2020-01-27T20:58:00Z",
-			"content": "SÃO PAULO – Enquanto os mercados globais passam por um dia de “selloff” por conta dos temores do avanço do coronavírus chinês, os criptoativos se mostram cada vez mais como uma alternativa dos investidores a estes momentos e sobem forte nesta segunda-feira (2… [+2419 chars]"
-		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Oantagonista.com"
+				"name": "Papodehomem.com.br"
 			},
-			"author": null,
-			"title": "Cade aprova compra da Embraer pela Boeing - O Antagonista",
-			"description": "O Conselho Administrativo de Defesa Econômica aprovou hoje, sem restrições, a compra de parte da Embraer pela Boeing...",
-			"url": "https://www.oantagonista.com/economia/cade-aprova-compra-da-embraer-pela-boeing/",
-			"urlToImage": "https://cdn.oantagonista.net/uploads/2017/12/embraer-1.png",
-			"publishedAt": "2020-01-27T20:52:00Z",
-			"content": "O Conselho Administrativo de Defesa Econômica aprovou hoje, sem restrições, a compra de parte da Embraer pela Boeing.\r\nAnunciada em julho de 2018, a operação é avaliada em US$ 4,2 bilhões. Para o Cade, o negócio não representa riscos à concorrência porque as … [+209 chars]"
+			"author": "Henrique André",
+			"title": "Afrofuturismo | O que é, porque importa e quem tem construindo este movimento?",
+			"description": "“Muito mais que uma estética da moda, Afrofuturismo é, acima de tudo, o poder nas nossas próprias mãos.”",
+			"url": "https://papodehomem.com.br/afrofuturismo-or-o-que-e-porque-importa-e-quem-tem-construindo-este-movimento/",
+			"urlToImage": "https://cdn-engage.s3.amazonaws.com/2020/01/27/15/08/26/13ebdaeb-9a4c-4234-8594-ef1b8b6fd66f/bandcamp_afrofuturism_header-jpg",
+			"publishedAt": "2020-01-30T13:27:09Z",
+			"content": "Muitos acreditam que o Afrofuturismo é uma subdivisão do Futurismo, movimento artístico e literário que surgiu em 1909, porém estão enganados. O Futurismo surgiu com a publicação do Manifesto Futurista e uma das suas principais características é a ruptura rad… [+8362 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Agazeta.com.br"
+				"name": "Canaltech.com.br"
 			},
-			"author": null,
-			"title": "Gigante da alimentação compra startups 'made in ES' Shipp e Zaitt - A Gazeta ES",
-			"description": "As operações fazem parte de um orçamento de R$ 20 milhões que o grupo pretende destinar a startups esse ano",
-			"url": "https://www.agazeta.com.br/es/economia/gigante-da-alimentacao-compra-startups-capixabas-shipp-e-zaitt-0120",
-			"urlToImage": "https://midias.agazeta.com.br/2019/10/04/loja-autonoma-da-zaitt-em-sao-paulo-o-negocio-teve-inicio-em-vitoria-47611.jpg",
-			"publishedAt": "2020-01-27T20:29:00Z",
-			"content": "De acordo com a publicação, os valores envolvidos na transação não foram revelados, mas as operações fazem parte de um orçamento de R$ 20 milhões que o grupo pretende destinar a startups esse ano. \r\nA Zaitt foi criada em 2017 e conta com três lojas automatiza… [+414 chars]"
+			"author": "Claudio Yuge",
+			"title": "Google está muito perto de lançar tradutor de idiomas em tempo real no Android",
+			"description": "Desde o ano passado, o Google vem apresentando grandes melhorias em seu tradutor de idiomas. Sua inteligência artificial (IA) está cada vez mais poderosa, com o aprendizado de máquina realizando as otimizações nas traduções e a compreensão dos sons de maneira…",
+			"url": "https://canaltech.com.br/utilitarios/google-esta-muito-perto-de-lancar-tradutor-de-idiomas-em-tempo-real-no-android-159656/",
+			"urlToImage": "https://timeline.canaltech.com.br/344225.700/google-esta-muito-perto-de-lancar-tradutor-de-idiomas-em-tempo-real-no-android-159656.jpg",
+			"publishedAt": "2020-01-29T14:10:00Z",
+			"content": "Tudo sobreGoogle\r\nSaiba tudo sobre Google\r\nDesde o ano passado, o Google vem apresentando grandes melhorias em seu tradutor de idiomas. Sua inteligência artificial (IA) está cada vez mais poderosa, com o aprendizado de máquina realizando as otimizações nas tr… [+2092 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Estadao.com.br"
+				"name": "Conjur.com.br"
 			},
-			"author": null,
-			"title": "Após polêmica sobre auditoria, presidente do BNDES e equipe vão a Brasília para dar explicações - Economia & Negócios Estadão",
-			"description": "A primeira rodada de conversas ocorreu na Controladoria-Geral da União (CGU) e seguiu no início da tarde na Câmara dos Deputados e no Tribunal de Contas da União",
-			"url": "https://economia.estadao.com.br/noticias/geral,apos-polemica-sobre-auditoria-presidente-do-bndes-e-equipe-vao-a-brasilia-para-dar-explicacoes,70003174876",
-			"urlToImage": "https://img.estadao.com.br/resources/jpg/5/0/1580155308205.jpg",
-			"publishedAt": "2020-01-27T20:16:22Z",
-			"content": "BRASÍLIA - Uma comitiva formada por executivos do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), incluindo seu presidente, Gustavo Montezano, desembarcou em Brasília nesta segunda-feira, 27, numa peregrinação para dar explicações sobre a audito… [+3372 chars]"
+			"author": "Pedro Junqueira Pimenta Barbosa Sandrin",
+			"title": "Opinião: O sigilo profissional do advogado frente à LGPD",
+			"description": "A Lei Geral de Proteção de Dados (LGPD) foi elaborada para regulamentar tratamento de dados, com principal objetivo de proteger direitos e liberdades dos seus respectivos titulares. O texto foi sancionado em agosto de 2018, pela Lei 13.709/2018, sendo posteri…",
+			"url": "https://www.conjur.com.br/2020-jan-29/opiniao-sigilo-profissional-advogado-frente-lgpd",
+			"urlToImage": "https://s.conjur.com.br/img/a/og.png",
+			"publishedAt": "2020-01-29T10:23:00Z",
+			"content": "A Lei Geral de Proteção de Dados (LGPD) foi elaborada para regulamentar tratamento de dados, com principal objetivo de proteger direitos e liberdades dos seus respectivos titulares. O texto foi sancionado em agosto de 2018, pela Lei 13.709/2018, sendo posteri… [+6430 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Editalconcursosbrasil.com.br"
+				"name": "Bbc.com"
 			},
-			"author": "Amanda França",
-			"title": "Nova tarifa do cheque especial: Não quer pagar? Peça a redução de limite - Edital Concursos Brasil",
-			"description": "Tarifa mensal sobre limite acima de R$ 500 será cobrada a partir de 1º de junho para quem já tinha cheque especial antes de 6 de janeiro.",
-			"url": "https://editalconcursosbrasil.com.br/noticias/2020/01/nova-tarifa-do-cheque-especial-nao-quer-pagar-peca-a-reducao-de-limite/",
-			"urlToImage": "https://editalconcursosbrasil.com.br/wp-content/uploads/2019/12/cheque-especial-1.jpg",
-			"publishedAt": "2020-01-27T20:05:47Z",
-			"content": "Mesmo que não o utilize, todos os correntistas que possuem mais de R$ 500 de limite no cheque especial, até junho deste ano, vão ter que pagar uma tarifa mensal pelo serviço. A cobrança faz parte de um conjunto de mudanças realizadas pelo Governo Federal nas … [+1876 chars]"
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Coronavirus e 'sopa de morcego\"? Teoria de conspiração e fake news se espalham com avanço de surto",
+			"description": "Morcegos, epidemia planejada, arma biológica, espionagem em laboratório - veja que histórias falsas e desinformação estão gerando mais pânico sobre o vírus.",
+			"url": "https://www.bbc.com/portuguese/internacional-51311226",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/11C48/production/_110667727_mobile.jpg",
+			"publishedAt": "2020-01-30T14:35:29Z",
+			"content": "Direito de imagemEPAImage caption\r\n Passageiro mostra ilustração do coronavírus em seu celular no aeroporto de Guangzhou, na província chinesa de Guangdong\r\nMais de 170 pessoas morreram em decorrência do coronavírus, segundo números oficiais divulgados até a … [+8775 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Noticiasconcursos.com.br"
+				"name": "Tecmundo.com.br"
 			},
-			"author": "Saulo Moreira",
-			"title": "Cartão da Caixa 2020 para negativados tem 95% do limite para crédito; veja como - Notícias Concursos",
-			"description": "A Caixa Econômica Federal (CEF) faz saber aos interessados o lançamento do Cartão de Crédito Caixa Simples. A opção, conforme o banco, é destinado para aposentado ou pensionista do INSS, com menos de 75 anos, que quer curtir a vida com toda a seguran",
-			"url": "https://noticiasconcursos.com.br/noticias-concursos/cartao-da-caixa-2020-para-negativados-tem-95-do-limite-para-credito-veja-como/",
-			"urlToImage": "https://noticiasconcursos.com.br/wp-content/uploads/2019/04/caixa-cdc.png",
-			"publishedAt": "2020-01-27T19:55:17Z",
-			"content": "A Caixa Econômica Federal (CEF) faz saber aos interessados o lançamento do Cartão de Crédito Caixa Simples. A opção, conforme o banco, é destinado para aposentado ou pensionista do INSS, com menos de 75 anos, que quer curtir a vida com toda a segurança. Ele o… [+1933 chars]"
+			"author": "Ramalho Lima",
+			"title": "Hackers invadiram a ONU e roubaram cerca de 400 GB de dados",
+			"description": "A Organização das Nações Unidas (ONU) sofreu um dos maiores ataques hacker dentre organizações intergovernamentais em toda a história. Em julho de 2019, dezenas de servidores da ONU, em três escritórios europeus, foram invadidos por hackers em um ataque maciç…",
+			"url": "https://www.tecmundo.com.br/seguranca/149853-hackers-invadiram-onu-roubaram-cerca-400-gb-dados.htm",
+			"urlToImage": "https://img.ibxk.com.br/2020/01/30/30145740752413.jpg",
+			"publishedAt": "2020-01-30T23:30:01Z",
+			"content": "A Organização das Nações Unidas (ONU) sofreu um dos maiores ataques hacker dentre organizações intergovernamentais em toda a história. Em julho de 2019, dezenas de servidores da ONU, em três escritórios europeus, foram invadidos por hackers em um ataque maciç… [+1799 chars]"
 		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
-			"author": null,
-			"title": "Latam vai ampliar sua oferta de voos para África do Sul - Valor Econômico",
-			"description": "A aérea vai aumentar a frequência de voos de São Paulo para Joanesburgo de cinco vezes por semana para sete",
-			"url": "https://valor.globo.com/empresas/noticia/2020/01/27/latam-vai-ampliar-sua-oferta-de-voos-para-africa-do-sul.ghtml",
-			"urlToImage": "https://s2.glbimg.com/1sj9lcirLwKu9riKKHQTqcIsB5w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/g/9/Aj9R9EQcuu6DU14jMBUw/foto22emp-101-latan-b8.jpg",
-			"publishedAt": "2020-01-27T19:52:00Z",
-			"content": "A Latam Airlines informou que vai ampliar a frequência de voos de São Paulo para Joanesburgo, na África do Sul, de cinco vezes por semana para sete, passando a ter voos diários com esse destino.\r\n O voo será feito com aviões modelo Airbus A350, com capacidade… [+406 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Oantagonista.com"
-			},
-			"author": null,
-			"title": "Grandes empresas chinesas mandam funcionários trabalharem em casa - O Antagonista",
-			"description": "Devido ao coronavírus, grandes empresas chinesas, como o Alibaba, informaram ter pedido aos seus funcionários que trabalhem de casa por uma semana após o término do feriado prolongado do Ano Novo Lunar...",
-			"url": "https://www.oantagonista.com/mundo/grandes-empresas-chinesas-mandam-funcionarios-trabalharem-em-casa/",
-			"urlToImage": "https://cdn.oantagonista.net/uploads/2017/10/og-image-default.jpg",
-			"publishedAt": "2020-01-27T19:00:00Z",
-			"content": "Devido ao coronavírus, grandes empresas chinesas, como o Alibaba, informaram ter pedido aos seus funcionários que trabalhem de casa por uma semana após o término do feriado prolongado do Ano Novo Lunar, informa a agência Reuters.\r\nComo publicamos mais cedo, o… [+310 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Investing.com"
-			},
-			"author": null,
-			"title": "Cielo avança mais de 1% em dia de divulgação de balanço do quarto trimestre - Investing.com Brasil",
-			"description": "Cielo avança mais de 1% em dia de divulgação de balanço do quarto trimestre",
-			"url": "https://br.investing.com/news/stock-market-news/cielo-avanca-mais-de-1-em-dia-de-divulgacao-de-balanco-do-quarto-trimestre-716358",
-			"urlToImage": "https://i-invdn-com.akamaized.net/news/retail_sales_10_800x533_L_1412687053.jpg",
-			"publishedAt": "2020-01-27T18:55:00Z",
-			"content": "Por Gabriel Codas\r\nInvesting.com - Nesta segunda-feira, depois do fechamento dos mercados a Cielo irá divulgar os números do quarto trimestre do ano passado. A expectativa é que o resultado da companhia siga sendo pressionado em um ambiente de alta concorrênc… [+1801 chars]"
-		},
-		{
-			"source": {
-				"id": "google-news",
-				"name": "Google News"
-			},
-			"author": null,
-			"title": "Recorde de empregos com carteira assinada é fake news de Guedes - Conversa Afiada",
-			"description": null,
-			"url": "https://news.google.com/__i/rss/rd/articles/CBMiamh0dHBzOi8vd3d3LmNvbnZlcnNhYWZpYWRhLmNvbS5ici9lY29ub21pYS9yZWNvcmRlLWRlLWVtcHJlZ29zLWNvbS1jYXJ0ZWlyYS1hc3NpbmFkYS1lLWZha2UtbmV3cy1kZS1ndWVkZXPSAQA?oc=5",
-			"urlToImage": null,
-			"publishedAt": "2020-01-27T18:49:44Z",
-			"content": null
-		},
+
 		{
 			"source": {
 				"id": null,
 				"name": "Uol.com.br"
 			},
-			"author": "Nicolas Tavares",
-			"title": "Honda XRE 190 ganha versão Special Edition por R$ 14.890 - Motor1 Brasil",
-			"description": "Edição especial tem pintura cinza e preta fosca exclusiva e detalhes em prata e laranja",
-			"url": "https://motor1.uol.com.br/news/395238/honda-xre190-special-edition-lancamento/",
-			"urlToImage": "https://cdn.motor1.com/images/mgl/oVWr4/s3/honda-xre-190-special-edition-abs-2020.jpg",
-			"publishedAt": "2020-01-27T18:41:11Z",
-			"content": "Assim como foi com a CB 250F Twister SE, a Honda XRE 190 passa a contar com uma série especial chamada Special Edition. Esta série tem como novidade a pintura cinza e preta fosca exclusiva e detalhes em prata fosco e laranja na carenagem e nas rodas, sem qual… [+1623 chars]"
-		},
-		{
-			"source": {
-				"id": "globo",
-				"name": "Globo"
-			},
 			"author": null,
-			"title": "Tesouro Direto: venda de títulos em 2019 sobe 72% e soma R$ 30 bilhões, valor recorde - G1",
-			"description": "Queda dos juros também impulsionou os resgates de títulos públicos no ano passado, que atingiram R$ 30,915 bilhões, valor também recorde e que superou o das emissões.",
-			"url": "https://g1.globo.com/economia/noticia/2020/01/27/vendas-do-tesouro-direto-somam-r-30-bi-em-2019-e-batem-recorde-mas-resgates-foram-maiores-ainda.ghtml",
-			"urlToImage": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png",
-			"publishedAt": "2020-01-27T18:29:00Z",
-			"content": "A venda de títulos públicos por meio do Tesouro Direto registrou aumento de 72% no ano passado, para R$ 30,882 bilhões, informou nesta segunda-feira (27) o governo federal. Em um ano marcado pela queda dos juros, os resgates de títulos em 2019 também atingira… [+3910 chars]"
+			"title": "TAB | 100 anos de Isaac Asimov: nosso presente faz jus à sua ideia de futuro?",
+			"description": "O escritor Isaac Asimov completaria 100 anos em janeiro. Nosso presente faz jus à sua ideia de futuro?",
+			"url": "https://tab.uol.com.br/edicao/isaac-asimov/",
+			"urlToImage": "https://conteudo.imguol.com.br/c/tab/f4/2020/01/28/isaac-asimov-1580236299668_v2_615x300.jpg",
+			"publishedAt": "2020-01-31T17:42:46Z",
+			"content": "\"Enquanto outros autores pensavam mais em termos puramente técnicos, estritamente filosóficos ou meramente aventurescos, Asimov tentava imaginar como as pessoas comuns reagiriam às maravilhas (ou não) da tecnologia\", diz o escritor e jornalista André Cáceres,… [+2084 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Jornaldenegocios.pt"
 			},
-			"author": "UOL",
-			"title": "Empresa do \"rei do bitcoin\" deve R$ 507 mi a 6.445 credores, diz relatório - UOL",
-			"description": "O Grupo Bitcoin Banco, empresa de criptomoedas de Curitiba (PR) deve R$ 507 milhões para 6.445 credores. O conglomerado é controlado pelo empresário Claudio Oliveira, conhecido como \"rei do bitcoin\", e desde maio do ano passado não libera saques para seus",
-			"url": "https://economia.uol.com.br/noticias/redacao/2020/01/27/grupo-bitcoin-banco-rei-do-bitcoin-divida.htm",
-			"urlToImage": "https://conteudo.imguol.com.br/c/noticias/24/2020/01/27/claudio-oliveira-conhecido-como-rei-do-bitcoin-dono-do-grupo-bitcoin-banco-1580152272262_v2_615x300.jpg",
-			"publishedAt": "2020-01-27T18:19:40Z",
-			"content": "O Grupo Bitcoin Banco, empresa de criptomoedas de Curitiba (PR) deve R$ 507 milhões para 6.445 credores. O conglomerado é controlado pelo empresário Claudio Oliveira, conhecido como \"rei do bitcoin\", e desde maio do ano passado não libera saques para seus cli… [+4716 chars]"
+			"author": "jng@negocios.pt (Jornal de Negócios)",
+			"title": "O início de um Estado \"panótico\" que tudo vê",
+			"description": "A lei permite que os organismos públicos partilhem os nossos dados pessoais e os usem com objetivos diferentes dos da sua recolha inicial.  - Opinião  , Máxima.",
+			"url": "https://www.jornaldenegocios.pt/opiniao/detalhe/o-inicio-de-um-estado-panotico-que-tudo-ve",
+			"urlToImage": "https://cdn4.jornaldenegocios.pt/images/2017-04/img_393x220$2017_04_06_10_22_28_306757.png",
+			"publishedAt": "2020-01-30T09:36:07Z",
+			"content": "Este privilegio que a arquitetura de Bentham concedia aos guardas de observar sem serem vistos fazia com que os reclusos nunca soubessem, realmente, quando é que estavam a ser vigiados.Constantemente assombrados pela incerteza relativamente à verdadeira dimen… [+3463 chars]"
 		},
-		{
-			"source": {
-				"id": "info-money",
-				"name": "InfoMoney"
-			},
-			"author": null,
-			"title": "Da Honda ao McDonald’s: o impacto do coronavírus sobre empresas - InfoMoney",
-			"description": "A cidade da região central da China possui mais de 500 fábricas e outras instalações",
-			"url": "https://www.infomoney.com.br/economia/da-honda-ao-mcdonalds-o-impacto-do-coronavirus-sobre-empresas/",
-			"urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2020/01/coronavirus.png?fit=746%2C515&quality=75&strip=all",
-			"publishedAt": "2020-01-27T18:15:00Z",
-			"content": "(Ansa) \r\n(Bloomberg) — Empresas globais, como Honda Motor e Groupe PSA, estão retirando trabalhadores das regiões da China mais atingidas pelo surto do coronavírus. Operadoras de parques temáticos, cinemas, varejistas e redes de restaurantes estão suspendendo… [+4575 chars]"
-		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Tnh1.com.br"
+				"name": "Observador.pt"
 			},
-			"author": "Ascom Fecomércio",
-			"title": "Feriados devem causar prejuízo de R$ 570 milhões para comércio e serviços - TNH1",
-			"description": "Os feriados de 2020 devem acarretar em preju&iacute;zo de R$ 570 milh&otilde;es para os setores do Com&eacute;rcio e de Servi&ccedil;os em Alagoas, segundo estimativa da Federa&ccedil;&atilde;o do Com&eacute;rcio de Bens, Servi&ccedil;os e Turismo do Estado d…",
-			"url": "https://www.tnh1.com.br/noticia/nid/feriados-devem-causar-prejuizo-de-r-570-milhoes-para-comercio-e-servicos/",
-			"urlToImage": "https://www.tnh1.com.br/fileadmin/_processed_/4/7/csm_Centro_536e2edcd8.jpg",
-			"publishedAt": "2020-01-27T17:48:29Z",
-			"content": "Os feriados de 2020 devem acarretar em prejuízo de R$ 570 milhões para os setores do Comércio e de Serviços em Alagoas, segundo estimativa da Federação do Comércio de Bens, Serviços e Turismo do Estado de Alagoas (Fecomércio AL). De acordo com a entidade, cad… [+2638 chars]"
+			"author": "Observador",
+			"title": "Sistema de inteligência artificial deu o alerta de uma epidemia dias antes de a China ter detetado primeiros casos do coronavírus",
+			"description": "Startup desenvolveu um algoritmo para detetar a propagação de doenças infecciosas. Antes de a própria China dar o alerta à OMS, já a BlueDot tinha alertado os clientes para a existência de um vírus.",
+			"url": "https://observador.pt/2020/01/29/sistema-de-inteligencia-artificial-deu-o-alerta-de-uma-epidemia-dias-antes-de-a-china-ter-detetado-primeiros-casos-do-coronavirus/",
+			"urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2F770x403%2Cq80%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F01%2F29142820%2F28105676-scaled_770x433_acf_cropped.jpg",
+			"publishedAt": "2020-01-29T15:48:14Z",
+			"content": "A 31 de dezembro de 2019, a China comunicou à Organização Mundial da Saúde (OMS) a existência de 27 casos da nova estirpe do coronavírus. Mas, nesse dia, já um sistema de inteligência artificial tinha detetado o surgimento de uma epidemia e dado o alerto aos … [+2027 chars]"
 		},
+
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Conjur.com.br"
 			},
-			"author": "UOL",
-			"title": "Novo Tracker: GM confirma SUV compacto nacional com estreia no 1º trimestre - UOL",
-			"description": "A General Motors confirmou, por meio de release divulgado hoje, que vai lançar no Brasil até o fim do primeiro trimestre \"o primeiro SUV compacto da Chevrolet produzido no Brasil\", conforme declaração de Carlos Zarlenga, presidente da GM América do Sul.A",
-			"url": "https://www.uol.com.br/carros/noticias/redacao/2020/01/27/gm-confirma-suv-compacto-nacional-com-estreia-no-1-trimestre-e-o-tracker.htm",
-			"urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/8d/2019/11/30/novo-chevrolet-tracker-1-1575116015892_v2_750x421.jpg",
-			"publishedAt": "2020-01-27T17:34:12Z",
-			"content": "A General Motors confirmou, por meio de release divulgado hoje, que vai lançar no Brasil até o fim do primeiro trimestre \"o primeiro SUV compacto da Chevrolet produzido no Brasil\", conforme declaração de Carlos Zarlenga, presidente da GM América do Sul.\r\nA mo… [+3082 chars]"
+			"author": "André Boselli",
+			"title": "Polícia paulista usará reconhecimento facial em investigações",
+			"description": "Foi inaugurado nesta terça-feira (28/1), em São Paulo, o Laboratório de Identificação Biométrica – Facial e Digital, na sede do IIRGD (Instituto de Identificação Ricardo Gumbleton Daunt). Imagens de cidadãos serão cruzadas com dados da Secretaria de Segurança…",
+			"url": "https://www.conjur.com.br/2020-jan-29/policia-paulista-usara-reconhecimento-facial-investigacoes",
+			"urlToImage": "https://s.conjur.com.br/img/b/detetive-particular-camera-fotografo.jpeg",
+			"publishedAt": "2020-01-29T15:37:00Z",
+			"content": "Foi inaugurado nesta terça-feira (28/1), em São Paulo, o Laboratório de Identificação Biométrica – Facial e Digital, na sede do IIRGD (Instituto de Identificação Ricardo Gumbleton Daunt). \r\nImagens de cidadãos serão cruzadas com dados da Secretaria de Seguran… [+2507 chars]"
+		},
+
+		{
+			"source": {
+				"id": null,
+				"name": "Abril.com.br"
+			},
+			"author": "Evandro Éboli",
+			"title": "CPI das Fake News ouve citados em disparos de mensagens pró-Bolsonaro",
+			"description": "Representantes também do Google, Twitter, Facebook, Instagram e Whatsapp estão no cronograma do presidente da comissão",
+			"url": "https://veja.abril.com.br/blog/radar/cpi-das-fake-news-ouve-envolvidos-em-disparos-de-mensagens-pro-bolsonaro/",
+			"urlToImage": "https://abrilveja.files.wordpress.com/2019/09/design-sem-nome-2-2.png?w=680&h=453&crop=1",
+			"publishedAt": "2020-01-28T09:11:10Z",
+			"content": "A CPMI das Fake News retoma o trabalho semana que vem ouvindo personagens importantes do esquema de disparo de mensagens em massa pelo Whatsapp durante as eleições. No dia 5, será ouvido Hans River do Nascimento, ex-funcionário de  uma das agências envolvidas… [+1051 chars]"
+		},
+
+		{
+			"source": {
+				"id": null,
+				"name": "Abril.com.br"
+			},
+			"author": "André Lopes",
+			"title": "Com inteligência artificial, 99 reduz em 60% o número de incidentes graves",
+			"description": "A nova tecnologia consegue monitorar usuários e motorista, detectar corridas perigosas e prever incidentes por meio de indicadores de risco",
+			"url": "https://veja.abril.com.br/tecnologia/com-inteligencia-artificial-99-reduz-em-60-o-numero-de-incidentes-graves/",
+			"urlToImage": "https://abrilveja.files.wordpress.com/2020/01/smarphone.jpg?quality=70&strip=info&w=680&h=453&crop=1",
+			"publishedAt": "2020-01-29T18:00:23Z",
+			"content": "A 99, subsidiária da chinesa Didi Chuxing, que opera um serviço de transporte por app na China, reduziu a quantidade de ocorrências graves na plataforma em 60%, por milhão de corridas, no ano de 2019. O resultado aconteceu depois que a empresa passou a usar u… [+1338 chars]"
+		},
+
+		{
+			"source": {
+				"id": null,
+				"name": "Www.jn.pt"
+			},
+			"author": "Jornal de Notícias",
+			"title": "Plataforma confirma que recebeu os dados de Rui Pinto",
+			"description": "A Plataforma de Proteção de Denunciantes na África (PPLAAF) confirmou que recebeu do 'hacker' português Rui Pinto os dados relacionados com as recentes revelações sobre a fortuna da empresária angolana Isabel dos Santos.",
+			"url": "https://www.jn.pt/justica/plataforma-confirma-que-recebeu-os-dados-de-rui-pinto-11758743.html",
+			"urlToImage": "https://static.globalnoticias.pt/jn/image.aspx?brand=JN&type=generate&guid=1e737650-d170-4581-9dfb-12950dc1c14e&w=800&h=420&watermark=true&t=20200128163500",
+			"publishedAt": "2020-01-28T16:35:00Z",
+			"content": "A Plataforma de Proteção de Denunciantes na África (PPLAAF) confirmou que recebeu do 'hacker' português Rui Pinto os dados relacionados com as recentes revelações sobre a fortuna da empresária angolana Isabel dos Santos.\r\n\"Muitos meios de comunicação social d… [+3814 chars]"
+		},
+
+		{
+			"source": {
+				"id": null,
+				"name": "Canaltech.com.br"
+			},
+			"author": "Felipe Demartini",
+			"title": "Juíza rejeita ação que criaria vínculo de emprego para entregadores do iFood",
+			"description": "A juíza Shirley Aparecida de Souza Lobo Escobar, da 37ª Vara do Trabalho de São Paulo, julgou como improcedente um processo que pedia o reconhecimento de vínculo empregatício para os trabalhadores do iFood e do Rapiddo, que também pertence ao grupo Movile e i…",
+			"url": "https://canaltech.com.br/juridico/juiza-rejeita-acao-que-criaria-vinculo-de-emprego-para-entregadores-do-ifood-159662/",
+			"urlToImage": "https://timeline.canaltech.com.br/344231.700/juiza-rejeita-acao-que-criaria-vinculo-de-emprego-para-entregadores-do-ifood-159662.jpg",
+			"publishedAt": "2020-01-29T12:55:00Z",
+			"content": "Tudo sobreiFood\r\nSaiba tudo sobre iFood\r\nA juíza Shirley Aparecida de Souza Lobo Escobar, da 37ª Vara do Trabalho de São Paulo, julgou como improcedente um processo que pedia o reconhecimento de vínculo empregatício para os trabalhadores do iFood e do Rapiddo… [+3920 chars]"
 		}
 	]
 }
+		
+
+
