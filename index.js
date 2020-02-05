@@ -3,6 +3,9 @@
 const dataForgeWrite = require('data-forge-fs');
 */
 var readlineSync = require('readline-sync');
+const fs = require('fs');  
+  request = require('request');
+
 //import sentenceBoundaryDetection from 'sbd';
 
 const robots = {
@@ -18,9 +21,17 @@ async function start(){
   
   let content = {}
   
-  let contentFromArticles, nameFromArticles, authorsFromArticles, titleFromArticles, descriptionFromArticles, urlfromArticles, urlToImageFromArticles, dateFromArticles, publisherFromArticles = []
+  let contentFromArticles = []
+  let dateFromArticles = []
+  let nameFromArticles = []
+  let authorsFromArticles = []
+  let titleFromArticles = []
+  let descriptionFromArticles = []
+  let urlfromArticles = []
+  let urlToImageFromArticles = []
+  let publisherFromArticles = []
   
-  content.category = askAndReturnCategory()
+  //content.category = askAndReturnCategory()
   //content.query = askandReturnQuery()
   //content.query = '+tecnologia AND (uber AND aplicativo) OR (cripto) OR (ciber) OR (vigilância AND dados) OR  (dados AND direitos) OR (dados AND capitalismo) OR (hacker) OR (metadados) OR (algoritmo AND dados) OR (big data) OR (deep fake) OR (transhumanismo) OR (ficção científica) OR (machine learning) OR (aprendizado de máquina) OR (inteligência artificial) OR (dados AND coleta) OR (digital AND filosofia) OR (fake news)'
   //content.period =  askandReturnPeriod()
@@ -32,7 +43,7 @@ async function start(){
   let contentFromJson = await require('./data/output.json')
   //console.log(dataForge.readFileSync("./output.json"))
   content.sourceContentOriginal = fetchContentFromArticles()
-  content.sourcePublisher = fetchNameFromArticles()
+  content.sourceName = fetchNameFromArticles()
   content.sourceAuthors = fetchAuthors()
   content.sourceTitles = fetchTitles()
   content.sourceDescription = fetchDescription()
@@ -72,7 +83,7 @@ async function start(){
 
   function fetchContentFromArticles(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      contentFromArticles = contentFromJson.articles[i].content + "\n" + contentFromArticles
+      contentFromArticles.push(contentFromJson.articles[i].content)
       //sentences = sentenceBoundaryDetection.sentences(contentFromArticles[i]) + "\n" + sentences
     }
     //console.log(contentFromArticles)
@@ -81,7 +92,7 @@ async function start(){
 
   function fetchNameFromArticles(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      nameFromArticles = contentFromJson.articles[i].source.name + "\n" + nameFromArticles
+      nameFromArticles.push(contentFromJson.articles[i].source.name)
     }
     //console.log(nameFromArticles)
     return(nameFromArticles)
@@ -89,7 +100,7 @@ async function start(){
   
   function fetchAuthors(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      authorsFromArticles = contentFromJson.articles[i].author + "\n" + authorsFromArticles
+      authorsFromArticles.push(contentFromJson.articles[i].author)
     }
     //console.log(authorsFromArticles)
     return(authorsFromArticles)
@@ -97,7 +108,7 @@ async function start(){
 
   function fetchTitles(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      titleFromArticles = contentFromJson.articles[i].title + "\n" + titleFromArticles
+      titleFromArticles.push(contentFromJson.articles[i].title)
     }
     //console.log(titleFromArticles)
     return(titleFromArticles)
@@ -105,7 +116,7 @@ async function start(){
 
   function fetchDescription(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      descriptionFromArticles = contentFromJson.articles[i].description + "\n" + descriptionFromArticles
+      descriptionFromArticles.push(contentFromJson.articles[i].description)
     }
    //console.log(descriptionFromArticles)
     return(descriptionFromArticles)
@@ -113,31 +124,47 @@ async function start(){
 
   function fetchUrl(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      urlfromArticles = contentFromJson.articles[i].url + "\n" + urlfromArticles
+      urlfromArticles.push(contentFromJson.articles[i].url)
     }
     //console.log(urlfromArticles)
     return(urlfromArticles)
   }
 
   function fetchUrlToImage(){
+    var download = function(uri, filename, callback){
+      request.head(uri, function(err, res, body){
+        request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
+      });
+    };
+
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      urlToImageFromArticles = contentFromJson.articles[i].urlToImage + "\n" + urlToImageFromArticles
+      urlToImageFromArticles.push(contentFromJson.articles[i].urlToImage)
     }
-    //console.log(urlToImageFromArticles)
+    for( var i = 0; i<urlToImageFromArticles.length; i++){
+      download(urlToImageFromArticles[i], './images/image'+ i +'.png', function(){
+        console.log('malfeito, feito');
+    })
+    }
+
     return(urlToImageFromArticles)
   }
 
   function fetchDate(){
-    for( var i = 0; i<contentFromJson.articles.length; i++){
-      dateFromArticles = contentFromJson.articles[i].publishedAt + "\n" + dateFromArticles
+    //Convert the date to human readeable
+    function formatDate(stringDate){
+      var date=new Date(stringDate);
+      return date.getDate() + '/' + (date.getMonth() + 1) + '/' +  date.getFullYear();
     }
-    //console.log(dateFromArticles)
+    for( var i = 0; i<contentFromJson.articles.length; i++){
+      dateFromArticles.push(formatDate(contentFromJson.articles[i].publishedAt))
+    }
+
     return(dateFromArticles)
   }
 
   function fetchPublisher(){
     for( var i = 0; i<contentFromJson.articles.source; i++){
-      publisherFromArticles = contentFromJson.articles[i].source + "\n" + publisherFromArticles
+      publisherFromArticles.push(contentFromJson.articles[i].source)
     }
     //console.log(publisherFromArticles)
     return(publisherFromArticles)
