@@ -3,6 +3,7 @@
 const dataForgeWrite = require('data-forge-fs');
 */
 var readlineSync = require('readline-sync');
+var json = require('json-update');
 const fs = require('fs');  
   request = require('request');
 
@@ -11,8 +12,8 @@ const fs = require('fs');
 const robots = {
 
   everything: require('./robots/text_Everything.js'),
-  text: require('./robots/text_topHeadlines.js'),
-  //loop: require('./robots/loop.js'),
+  //headlines: require('./robots/text_topHeadlines.js'),
+  sanitize: require('./robots/sanitize.js')
   //tospeech: require('./robots/toSpeech.js')
   //video: require('./robots/video.js')
 }
@@ -33,14 +34,11 @@ async function start(){
   
   //content.category = askAndReturnCategory()
   //content.query = askandReturnQuery()
-  //content.query = '+tecnologia AND (uber AND aplicativo) OR (cripto) OR (ciber) OR (vigilância AND dados) OR  (dados AND direitos) OR (dados AND capitalismo) OR (hacker) OR (metadados) OR (algoritmo AND dados) OR (big data) OR (deep fake) OR (transhumanismo) OR (ficção científica) OR (machine learning) OR (aprendizado de máquina) OR (inteligência artificial) OR (dados AND coleta) OR (digital AND filosofia) OR (fake news)'
-  //content.period =  askandReturnPeriod()
-
   
-  //robots.text(content)
-  robots.everything(content)
+  //robots.headlines(content)
+  await robots.everything(content)
 
-  let contentFromJson = await require('./data/output.json')
+  let contentFromJson = require('./data/output.json')
   //console.log(dataForge.readFileSync("./output.json"))
   content.sourceContentOriginal = fetchContentFromArticles()
   content.sourceName = fetchNameFromArticles()
@@ -52,11 +50,16 @@ async function start(){
   content.sourcePublishedAt = fetchDate()
   content.sourcePublisher = fetchPublisher()
   
+
+  robots.sanitize(content)
   //robots.tospeech(content)
   //robots.video(content)
 
 //  downloadImages();
 
+//console.log(content.sourceDescription)
+
+//FUNCTIONS
 
   function askandReturnQuery(){
     
@@ -71,15 +74,6 @@ async function start(){
 
     return (selectedPrefixText)
   }
-/*
-  function askandReturnPeriod(){
-    const period = readlineSync.question('Digite o período que quer buscar: \n')
-    return (period)
-
-  }
- */
-
-//Funções de separação de metadados em objetos
 
   function fetchContentFromArticles(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
@@ -116,7 +110,11 @@ async function start(){
 
   function fetchDescription(){
     for( var i = 0; i<contentFromJson.articles.length; i++){
-      descriptionFromArticles.push(contentFromJson.articles[i].description)
+      var alphabetLetters = /^[A-Za-z]+$/
+      if ((contentFromJson.articles[i].description.length < 250) || (contentFromJson.articles[i].description.endsWith('...') == false)  || (contentFromJson.articles[i].description.endsWith('... Leia mais') == false) || (contentFromJson.articles[i].description.endsWith(alphabetLetters) == false)){
+        descriptionFromArticles.push(contentFromJson.articles[i].description)
+        //console.log(i)
+      }
     }
    //console.log(descriptionFromArticles)
     return(descriptionFromArticles)
@@ -142,7 +140,6 @@ async function start(){
     }
     for( var i = 0; i<urlToImageFromArticles.length; i++){
       download(urlToImageFromArticles[i], './images/image'+ i +'.png', function(){
-        console.log('malfeito, feito');
     })
     }
 
@@ -151,13 +148,41 @@ async function start(){
 
   function fetchDate(){
     //Convert the date to human readeable
-    function formatDate(stringDate){
-      var date=new Date(stringDate);
-      return date.getDate() + '/' + (date.getMonth() + 1) + '/' +  date.getFullYear();
+
+    function formatDate(stringDate) {
+      var date = new Date(stringDate);
+      return date.getDate() + '/' + (date.getMonth() + 1) + '/' + date.getFullYear();
     }
     for( var i = 0; i<contentFromJson.articles.length; i++){
       dateFromArticles.push(formatDate(contentFromJson.articles[i].publishedAt))
     }
+
+    json.load('./data/output.json', function(err,obj){
+      for (var i = 0; i<obj.articles.length; i++){
+        const values = Object.entries(obj.articles[i])
+        for (const [key,value] of values){
+          var j = 0;
+          if (key == 'publishedAt'){
+            original = dateFromArticles[j]
+            //console.log(original)
+
+            async function test() {
+              await update('./data/output.json', {'publishedAt': original[j]});
+              j+=1
+              let dat = await load('./data/output.json');
+              console.log(dat.publishedAt);
+            }
+             
+            test().then(()=> {}).catch( e=> {console.error(e)}); 
+
+/*             json.update('./data/output.json',{'publishedAt': original[j]})
+            .then(function(dat) { 
+              console.log(dat.publishedAt) 
+            }); */
+          }
+        }
+      }
+    })
 
     return(dateFromArticles)
   }

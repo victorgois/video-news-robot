@@ -1,36 +1,49 @@
 import json
 import csv
-from collections import Counter
-import pandas
 
-data = pandas.read_csv("portugueseWords.csv", header=None)
-j = 0
-for each in data:
-    print(data[0][j])
-    j+=1
 
-#forbidden_words = []
+from bs4 import BeautifulSoup
 
-#print(forbidden_words)
 
-with open('./data/output-backup.json', 'r', encoding='utf-8') as f:
-    output_dict = json.load(f)
+def nlpFunction():
 
-content = output_dict['articles']
-i = 0
-contentArray = ''
+    import nltk
+    from nltk.tokenize  import word_tokenize, sent_tokenize
+    from nltk.corpus import stopwords
+    from string import punctuation
+    from nltk.probability import FreqDist
+    from collections import defaultdict
+    from heapq import nlargest
 
-for each in content:    
-    contentArray = output_dict['articles'][i]['content'] + contentArray
-    i+=1
+    with open('./data/output.json', 'r', encoding='utf-8') as f:
+        output_dict = json.load(f)
 
-split_it = contentArray.lower().split()
+    content = output_dict['articles']
+    i = 0
+    contentArray = []
 
-for each in split_it:
-    each.replace("'","")
+    for each in content:    
+        contentArray = output_dict['articles'][i]['content']
+        #split_it = contentArray.lower().split()
+        sentencas = sent_tokenize(contentArray)
+        palavras = word_tokenize(contentArray.lower())
+        palavras.remove("[")
+        palavras.remove("]")
+        palavras.remove("chars")
+        #print(palavras)
 
-Counter = Counter(split_it)
+        #stopwords = set(stopwords.words('portuguese') + list(punctuation))
+        palavras_sem_stopwords = [palavra for palavra in palavras if (palavra not in (stopwords.words('portuguese') + list(punctuation)))]
+        frequencia = FreqDist(palavras_sem_stopwords)
+        sentencas_importantes = defaultdict(int)
+        for j, sentenca in enumerate(sentencas):
+            for palavra in word_tokenize(sentenca.lower()):
+                if palavra in frequencia:
+                    sentencas_importantes[j] += frequencia[palavra]
+        idx_sentencas_importantes = nlargest(1, sentencas_importantes, sentencas_importantes.get)
+        for j in sorted(idx_sentencas_importantes):
+            print(sentencas[j] + 'FIM DE LINHA')
+        
+        i+=1
 
-most_occur = Counter.most_common(200)
-
-print(most_occur)
+nlpFunction()
