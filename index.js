@@ -4,6 +4,7 @@ const dataForgeWrite = require('data-forge-fs');
 */
 var readlineSync = require('readline-sync');
 var json = require('json-update');
+var schedule = require('node-schedule');
 const fs = require('fs');  
   request = require('request');
 
@@ -207,4 +208,4 @@ async function start(){
     //console.log(content.sentences)
   }
 
-start()
+var j = schedule.scheduleJob('20 16 * * *', start())
