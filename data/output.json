@@ -1,201 +1,123 @@
 {
 	"status": "ok",
-	"totalResults": 15,
+	"totalResults": 9,
 	"articles": [
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Canaltech.com.br"
 			},
-			"author": "Luiz Gustavo Ribeiro",
-			"title": "Facebook expande recurso de fotos em 3D; Messenger, Google Tradutor e Carteira Digital de Trânsito são atualizados",
-			"description": "A semana começou com boas atualizações de apps! Entre as novidades, agora o app do Facebook permite transformar qualquer foto 2D em 3D graças ao aprendizado de máquina, como veremos...",
-			"url": "https://macmagazine.uol.com.br/post/2020/03/02/facebook-expande-recurso-de-fotos-em-3d-messenger-google-tradutor-e-carteira-digital-de-transito-sao-atualizados/",
-			"urlToImage": "https://macmagazine.uol.com.br/wp-content/uploads/2020/03/02-fb.png.webp",
-			"publishedAt": "2020-03-02T13:29:45Z",
-			"content": "A semana começou com boas atualizações de apps! Entre as novidades, agora o app do Facebook permite transformar qualquer foto 2D em 3D graças ao aprendizado de máquina, como veremos a seguir. Além disso, o Messenger foi atualizado com uma nova interface que d… [+3484 chars]"
+			"author": "Felipe Junqueira",
+			"title": "Nova IA transfere imagens de objetos tiradas com celular direto para o Photoshop",
+			"description": "Inteligência artificial (IA), aprendizado de máquina e afins são expressões cada vez mais comuns em notícias de tecnologia. Esses recursos prometem facilitar a vida de todo tipo de profissional. Designers, por exemplo, em breve podem ter uma ferramenta útil p…",
+			"url": "https://canaltech.com.br/inteligencia-artificial/nova-ia-transfere-imagens-de-objetos-tiradas-com-celular-direto-para-o-photoshop-164359/",
+			"urlToImage": "https://timeline.canaltech.com.br/349078.700/nova-ia-transfere-imagens-de-objetos-tiradas-com-celular-direto-para-o-photoshop-164359.jpg",
+			"publishedAt": "2020-05-06T02:10:00Z",
+			"content": "Inteligência artificial (IA), aprendizado de máquina e afins são expressões cada vez mais comuns em notícias de tecnologia. Esses recursos prometem facilitar a vida de todo tipo de profissional. Designers, por exemplo, em breve podem ter uma ferramenta útil p… [+1735 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Sapo.pt"
 			},
-			"author": "Erika Nishida",
-			"title": "Patinetes elétricos da Uber já estão disponíveis em São Paulo",
-			"description": "A partir desta segunda-feira (2), a Uber começa a disponibilizar seus patinetes elétricos na cidade de São Paulo, sem taxa de desbloqueio. The post Patinetes elétricos da Uber já estão disponíveis em São Paulo appeared first on Gizmodo Brasil.",
-			"url": "https://gizmodo.uol.com.br/patinestes-eletricos-uber-sao-paulo/",
-			"urlToImage": "https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2020/03/Sao-Paulo_1-e1583151038529-1000x562.png",
-			"publishedAt": "2020-03-02T12:46:03Z",
-			"content": "A partir desta segunda-feira (2), os patinetes elétricos da Uber começam a ser disponibilizados em São Paulo. Segundo a empresa, essa é mais uma iniciativa para integrar diversos meios de transporte em um único aplicativo.\r\nOu seja, além de chamar um carro, c… [+2840 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "B9.com.br"
-			},
-			"author": "Soraia Alves",
-			"title": "Uber começa a operar patinetes elétricos em São Paulo",
-			"description": "Depois de lançar a modalidade de patinetes elétricos em Santos, em dezembro do ano passado, a Uber começa a operar o serviço na cidade de São Paulo nesta segunda-feira (02/03). A estreia da funcionalidade na maior cidade do Brasil é mais uma etapa na estratég…",
-			"url": "https://www.b9.com.br/122194/uber-comeca-a-operar-patinetes-eletricos-em-sao-paulo/",
-			"urlToImage": "https://assets.b9.com.br/wp-content/uploads/2020/03/uber-sp-patinete-eletrico.jpg",
-			"publishedAt": "2020-03-02T13:16:57Z",
-			"content": "Depois de lançar a modalidade de patinetes elétricos em Santos, em dezembro do ano passado, a Uber começa a operar o serviço na cidade de São Paulo nesta segunda-feira (02/03).\r\nA estreia da funcionalidade na maior cidade do Brasil é mais uma etapa na estraté… [+2001 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tecnoblog.net"
-			},
-			"author": "Emerson Alecrim",
-			"title": "Uber estreia serviço de patinetes elétricos em São Paulo",
-			"description": "Patinetes da Uber custam R$ 0,90 por minuto em São Paulo. Serviço está disponível na Vila Olímpia, Moema, Itaim Bibi, Vila Nova Conceição e Jd. Luzitânia.",
-			"url": "https://tecnoblog.net/327255/uber-estreia-compartilhamento-patinetes-eletricos-sao-paulo/",
-			"urlToImage": "https://tecnoblog.net/wp-content/uploads/2020/01/uber-patinete-700x485.jpg",
-			"publishedAt": "2020-03-02T13:23:46Z",
-			"content": "Esta segunda-feira (2) marca a estreia oficial do serviço de compartilhamento de patinetes elétricos da Uber na cidade de São Paulo. A modalidade, até então disponível apenas em Santos (SP), pode ser acessada a partir do mesmo aplicativo usado para solicitar … [+1767 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Abril.com.br"
-			},
-			"author": "Carol Oliveira, carolina.riveira@exame.com (Carolina Riveira)",
-			"title": "Depois de Santos, Uber lança patinetes em São Paulo",
-			"description": "O lançamento ocorre em um momento negativo na micromobilidade, depois que a concorrente Grow (ex-Yellow) fechou sua operação em dezenas de cidades",
-			"url": "https://exame.abril.com.br/negocios/depois-de-santos-uber-lanca-patinetes-em-sao-paulo/",
-			"urlToImage": "https://abrilexame.files.wordpress.com/2020/03/uber-patinete_sp.png?w=680&h=453&crop=1",
-			"publishedAt": "2020-03-02T16:13:56Z",
-			"content": "A Uber lançou nesta segunda-feira, 2, seu serviço de patinetes elétricos na cidade de São Paulo. Os patinetes haviam estreado no Brasil em dezembro, quando a empresa lançou o serviço em Santos, litoral paulista.\r\nO sistema custará 0,90 centavos por minuto de … [+1225 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Meiobit.com"
-			},
-			"author": "Ronaldo Gogoni",
-			"title": "Papa Francisco apresenta plano para o desenvolvimento de IAs mais justas",
-			"description": "Papa Francisco estipulou 6 princípios para o desenvolvimento de IAs justas e confiáveis; documento é endossado por IBM e Microsoft O post Papa Francisco apresenta plano para o desenvolvimento de IAs mais justas apareceu primeiro em Meio Bit.",
-			"url": "https://meiobit.com/418216/vaticano-microsoft-ibm-papa-francisco-plano-contra-ias-malignas/",
-			"urlToImage": "https://meiobit.com/wp-content/uploads/2020/03/20200302pope-francis.jpg",
-			"publishedAt": "2020-03-02T12:00:51Z",
-			"content": "JÃ¡ conhece a nova extensÃ£o do Meio Bit? Baixe Agora\r\nO papa Francisco estÃ¡ de olhos bem abertos para a questÃ£o da InteligÃªncia Artificial: na Ãºltima sexta-feira (28), o Vaticano apresentou um documento, endossado por IBM e Microsoft, onde sÃ£o estipulad… [+5322 chars]"
-		},
-		{
-			"source": {
-				"id": "info-money",
-				"name": "InfoMoney"
-			},
-			"author": "Allan Gavioli",
-			"title": "Uber lança patinetes elétricos em São Paulo sem taxa de desbloqueio",
-			"description": "O desbloqueio do patinete elétrico é feito no mesmo aplicativo usado para chamar carros particulares The post Uber lança patinetes elétricos em São Paulo sem taxa de desbloqueio appeared first on InfoMoney.",
-			"url": "https://www.infomoney.com.br/consumo/uber-lanca-patinetes-eletricos-em-sao-paulo-sem-taxa-de-desbloqueio/",
-			"urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2020/03/Uber-São-paulo.png?fit=1161%2C871&quality=75&strip=all",
-			"publishedAt": "2020-03-02T13:41:36Z",
-			"content": "(Divulgação/Uber) \r\nSÃO PAULO – Os paulistanos da Faria Lima e região terão uma opção extra para ir ao trabalho. A partir desta segunda-feira (2), a Uber passa a oferecer seus serviços de aluguel de patinetes elétricos na cidade de São Paulo.\r\nCom a novidade,… [+2763 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Tudocelular.com"
-			},
-			"author": "Tudocelular.com",
-			"title": "Filmes mais pirateados, jogos lançados e bilheterias da semana [02/03/2020]",
-			"description": "Confira os principais lançamentos de games, filmes sucesso de bilheteria e títulos pirateados desta segunda-feira (02).",
-			"url": "https://www.tudocelular.com/novos-produtos/noticias/n153140/filmes-mais-pirateados-jogos-lancados-e-bilheterias-da-semana-02032020.html",
-			"urlToImage": "https://t.tudocdn.net/516188?w=1200",
-			"publishedAt": "2020-03-02T10:23:00Z",
-			"content": "E chagamos ao mês de março, onde o ano realmente inicia e diversas novidades começam a surgir em diversos setores da tecnologia e entretenimento. E como já é padrão aqui no TudoCeluar, segunda-feira é o dia que separamos para falar da nossa coluna semanal a r… [+2287 chars]"
+			"author": "Ana Sofia",
+			"title": "Algoritmo de Inteligência Artificial pode prever risco da doença de Alzheimer",
+			"description": "A OMS estima que cerca de 48 milhões de pessoas no mundo sofram de demência, sendo a doença de Alzheimer a responsável por cerca de 65% desses casos. Uma doença, que rouba a lucidez...",
+			"url": "https://pplware.sapo.pt/ciencia/algoritmo-de-inteligencia-artificial-pode-prever-risco-da-doenca-de-alzheimer/",
+			"urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2020/05/algoritmo_alzheimer00.jpg",
+			"publishedAt": "2020-05-06T11:00:43Z",
+			"content": "A OMS estima que cerca de 48 milhões de pessoas no mundo sofram de demência, sendo a doença de Alzheimer a responsável por cerca de 65% desses casos. Uma doença, que rouba a lucidez e a vida, é alvo de vários estudos, tendo em vista soluções, tratamentos ou a… [+3346 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Canaltech.com.br"
 			},
-			"author": "Laísa Trojaike",
-			"title": "Crítica | Os Aeronautas é uma biografia muito pouco biográfica",
-			"description": "Não somos inocentes de pensar que um filme biográfico é completamente fiel à realidade. Sempre temos um mínimo de noção de que há momentos em que o roteirista fantasiou e criou um personagem baseado em uma figura real, o que fica completamente explícito quand…",
-			"url": "https://canaltech.com.br/cinema/critica-os-aeronautas-161163/",
-			"urlToImage": "https://timeline.canaltech.com.br/345783.700/critica-os-aeronautas-161163.jpg",
-			"publishedAt": "2020-03-02T13:48:00Z",
-			"content": "Não somos inocentes de pensar que um filme biográfico é completamente fiel à realidade. Sempre temos um mínimo de noção de que há momentos em que o roteirista fantasiou e criou um personagem baseado em uma figura real, o que fica completamente explícito quand… [+5348 chars]"
+			"author": "Rui Maciel",
+			"title": "Califórnia processa Uber e diz que motoristas são, sim, trabalhadores formais",
+			"description": "Nesta terça-feira, o estado da Califórnia abriu um novo processo contra a Uber e seu principal rival, a Lyft. A alegação é que os dois apps de mobilidade trataram ilegalmente seus motoristas, sob o regime de contratados independentes. Com isso, eles ficaram p…",
+			"url": "https://canaltech.com.br/apps/california-processa-uber-e-diz-que-motoristas-sao-sim-trabalhadores-formais-164381/",
+			"urlToImage": "https://timeline.canaltech.com.br/349101.700/california-processa-uber-e-diz-que-motoristas-sao-sim-trabalhadores-formais-164381.jpg",
+			"publishedAt": "2020-05-06T00:40:00Z",
+			"content": "Tudo sobreUber\r\nSaiba tudo sobre Uber\r\nNesta terça-feira, o estado da Califórnia abriu um novo processo contra a Uber e seu principal rival, a Lyft. A alegação é que os dois apps de mobilidade trataram ilegalmente seus motoristas, sob o regime de contratados … [+5324 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Blog.br"
+			},
+			"author": "Caio Costa",
+			"title": "A publicidade durante a pandemia – Podcitário #107",
+			"description": "A pandemia do novo Coronavírus definitivamente mudou os hábitos da sociedade. E as marcas e o mercado publicitário, logicamente, também. Por isso, eu convidei Ian Black, da New Vegas, para conversar sobre a situação atual das campanhas. Neste episódio, você v…",
+			"url": "https://www.blogcitario.blog.br/2020/05/06/a-publicidade-durante-a-pandemia/",
+			"urlToImage": "https://www.blogcitario.blog.br/wp-content/uploads/2020/05/Publicidade-na-pandemia.jpg",
+			"publishedAt": "2020-05-06T03:01:00Z",
+			"content": "A pandemia do novo Coronavírus definitivamente mudou os hábitos da sociedade. E as marcas e o mercado publicitário, logicamente, também. Por isso, eu convidei Ian Black, da New Vegas, para conversar sobre a situação atual das campanhas.\r\nNeste episódio, você … [+786 chars]"
 		},
 		{
 			"source": {
 				"id": null,
 				"name": "Terra.com.br"
 			},
-			"author": "DINO",
-			"title": "Como o machine learning e a tecnologia RPA podem garantir o futuro de grandes negócios",
-			"description": "A automação de processos já é o futuro para grandes empresas. Saiba como essa tecnologia de machine learning pode ajudar o seu negócio.",
-			"url": "https://www.terra.com.br/noticias/dino/como-o-machine-learning-e-a-tecnologia-rpa-podem-garantir-o-futuro-de-grandes-negocios,45852a4ba8c29f733c3a3b905436805cksryb7m6.html",
-			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/03/02/e381cfab-a122-47c4-bf55-caab21d70bd1.jpg",
-			"publishedAt": "2020-03-02T16:42:26Z",
-			"content": "De acordo com pesquisa realizada pelo Bank of America, mais de 800 milhões de empregos correm risco de se tornarem obsoletos até 2030. Esse dado é indispensável para compreender como a automação de processos vem se tornando cada vez mais presente dentro de to… [+3388 chars]"
+			"author": "Estadão Conteúdo",
+			"title": "'Little America' retrata histórias reais de imigrantes nos EUA",
+			"description": "'Parece haver apenas um tipo de história com imigrantes em filmes e séries', diz o ator Kumail Nanjiani",
+			"url": "https://www.terra.com.br/noticias/little-america-retrata-historias-reais-de-imigrantes-nos-eua,d89620da3fc2cc0e2975c6898350e73546lycu0y.html",
+			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg",
+			"publishedAt": "2020-05-06T08:12:01Z",
+			"content": "LOS ANGELES - Kumail Nanjiani estava um pouco cansado das histórias de imigrantes que via na televisão e no cinema. E ele fala com conhecimento de causa: antes de ser Dinesh em Silicon Valley, concorrer ao Oscar com sua mulher, Emily V. Gordon, pelo roteiro d… [+4403 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Terra.com.br"
+				"name": "Publico.pt"
 			},
-			"author": "Reuters",
-			"title": "Uber inicia serviço de aluguel de patinetes elétricos na cidade de São Paulo",
-			"description": "A Uber iniciou operação de serviço de aluguel de patinetes elétricos na cidade de São Paulo nesta segunda-feira, ampliando iniciativa de disponibilizar mais",
-			"url": "https://www.terra.com.br/noticias/tecnologia/uber-inicia-servico-de-aluguel-de-patinetes-eletricos-na-cidade-de-sao-paulo,5514b5faddf39073c81b0f354f157d78ib0mh6wu.html",
-			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/03/02/2020-03-02T144710Z_1_LYNXMPEG211NX_RTROPTP_4_TECH-UBER-PATINETES.JPG",
-			"publishedAt": "2020-03-02T14:49:33Z",
-			"content": "A Uber iniciou operação de serviço de aluguel de patinetes elétricos na cidade de São Paulo nesta segunda-feira, ampliando iniciativa de disponibilizar mais meios de transporte em seu aplicativo. \r\nA operação, que já havia começado na cidade de Santos (SP) em… [+670 chars]"
+			"author": "fragaoliveira@sapo.pt",
+			"title": "Autoridade para as Condições de Trabalho: que “trabalho”?",
+			"description": "As dificuldades da ACT não são de ordem meramente quantitativa, são também da ordem das opções legislativas no domínio do trabalho",
+			"url": "https://www.publico.pt/2020/05/06/economia/opiniao/autoridade-condicoes-trabalho-trabalho-1915196",
+			"urlToImage": "https://imagens.publico.pt/imagens.aspx/834919?tp=UH&db=IMAGENS&type=JPG&share=1&o=",
+			"publishedAt": "2020-05-06T05:29:00Z",
+			"content": "“Fiscalização laboral tem metade dos inspectores previstos”. É o título de um artigo no PÚBLICO de 14/4/2020 [1] relacionado com a acção da Autoridade para as Condições de Trabalho (ACT).\r\nO assunto a que é dado mais relevo (insuficiência de inspectores do tr… [+22484 chars]"
 		},
 		{
 			"source": {
 				"id": null,
-				"name": "Uol.com.br"
+				"name": "Publico.pt"
+			},
+			"author": "publico@publico.pt",
+			"title": "Desconfinamento – e agora, que rumo?",
+			"description": "Este é, agora, o grande desafio: retomar o normal, modificando aparências para que na essência tudo continue na mesma? Ou enfrentar os problemas com coragem e assumir o caminho para a mudança necessária?",
+			"url": "https://www.publico.pt/2020/05/06/opiniao/opiniao/desconfinamento-rumo-1915314",
+			"urlToImage": "https://imagens.publico.pt/imagens.aspx/824664?tp=UH&db=IMAGENS&type=JPG&share=1&o=",
+			"publishedAt": "2020-05-06T09:29:30Z",
+			"content": "A declaração do estado de emergência foi absolutamente decisiva para que pudéssemos conter a expansão da pandemia e ganhar tempo para preparar os serviços de Saúde, a Sociedade e o sistema produtivo para este novo desafio.\r\nRecorro a um trabalho conhecido por… [+12793 chars]"
+		},
+		{
+			"source": {
+				"id": null,
+				"name": "Olhardigital.com.br"
+			},
+			"author": "tecnologia@igcorp.com.br (Olhar Digital)",
+			"title": "Tecnologia brasileira consegue monitorar uso de máscaras",
+			"description": "Criada por uma startup, a tecnologia usa imagens de câmeras de segurança para identificar qual porcentagem de pessoas usa o equipamento; entenda",
+			"url": "https://olhardigital.com.br/coronavirus/noticia/startup-brasileira-cria-tecnologia-capaz-de-monitorar-uso-de-mascaras/100336",
+			"urlToImage": "https://i0.statig.com.br/bancodeimagens/18/en/u3/18enu3vpvsi1e8bp3ju7qcd6f.jpg",
+			"publishedAt": "2020-05-06T12:42:13Z",
+			"content": "A startup brasileira xGB apresentou, nesta semana, uma nova tecnologia\r\n para monitorar o risco de contágio do novo coronavírus \r\n(Sars-Cov-2). Batizada de Radar-19, a solução calcula níveis de risco de disseminação do vírus a partir da detecção do uso de más… [+4203 chars]"
+		},
+		{
+			"source": {
+				"id": "globo",
+				"name": "Globo"
 			},
 			"author": null,
-			"title": "Nabil Bonduki | É possível implantar a tarifa zero em SP?",
-			"description": "Discussão que acendeu protestos de 2013 não pode ficar parada na maior cidade do país",
-			"url": "https://www1.folha.uol.com.br/colunas/nabil-bonduki/2020/03/e-possivel-implantar-a-tarifa-zero-em-sao-paulo.shtml",
-			"urlToImage": "https://f.i.uol.com.br/fotografia/2020/02/18/15820625435e4c5bcfda1f0_1582062543_3x2_rt.jpg",
-			"publishedAt": "2020-03-02T13:14:23Z",
-			"content": "O Movimento Passe Livre (MPL), que defende a gratuidade do transporte coletivo, tornou-se conhecido nas chamadas Jornadas de Junho, quando se opôs ao aumento de R$ 0,20 na tarifa em São Paulo, dando origem às manifestações que impactaram fortemente a política… [+5936 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Abril.com.br"
-			},
-			"author": "anaharada97",
-			"title": "Arquiteto chinês cria traje à prova de coronavírus",
-			"description": "Sun Dayong batizou a roupa de Be a Bat Man, uma referência ao herói dos quadrinhos",
-			"url": "https://casa.abril.com.br/design/arquiteto-chines-cria-traje-a-prova-de-coronavirus/",
-			"urlToImage": "https://abrilcasa.files.wordpress.com/2020/02/be-a-bat-man-sun-dayong-coronavirus-01.jpg?quality=95&strip=info&crop=158px%2C0px%2C1410px%2C959px&resize=680%2C453",
-			"publishedAt": "2020-03-02T14:26:18Z",
-			"content": "– (Reprodução Dezeem/Casa.com.br)\r\nEssa roupa que mais parece vinda direto de um filme de ficção científica (ou de um desfile de moda) é a criação do arquiteto chinês Sun Dayong. Trata-se de um conceito para um escudo protetor contra o coronavírus. Chamada Be… [+1599 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Terra.com.br"
-			},
-			"author": "DINO",
-			"title": "Farmers Edge e Nufarm Brasil firmam parceria histórica para digitalizar três milhões de hectares de terras agrícolas no Brasil até 2023",
-			"description": "A Farmers Edge™, líder global em agricultura digital, e a Nufarm Brasil, empresa líder em proteção de culturas, anunciaram hoje uma parceria exclusiva de tr",
-			"url": "https://www.terra.com.br/noticias/dino/farmers-edge-e-nufarm-brasil-firmam-parceria-historica-para-digitalizar-tres-milhoes-de-hectares-de-terras-agricolas-no-brasil-ate-2023,2768f482d84c30c920e19c50a9158127ohhhkem3.html",
-			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/s1.trrsf.com/atm/3/core/_img/terra-logo-white-bg-v3.jpg",
-			"publishedAt": "2020-03-02T12:14:31Z",
-			"content": "A Farmers Edge™, líder global em agricultura digital, e a Nufarm Brasil, empresa líder em proteção de culturas, anunciaram hoje uma parceria exclusiva de três anos, com o intuito de digitalizar pelo menos três milhões de acres de terras agrícolas no Brasil at… [+5217 chars]"
-		},
-		{
-			"source": {
-				"id": null,
-				"name": "Terra.com.br"
-			},
-			"author": "BBC News Brasil",
-			"title": "Quem é Naomi Seibt, a jovem 'anti-Greta Thunberg' que advoga contra 'alarmismo ambiental'",
-			"description": "Como Greta Thunberg, Naomi Seibt é jovem, branca, eloquente e europeia, mas as semelhanças terminam aí. Esta alemã de 19 anos acredita que a mudança climática é algo natural, que não afeta o planeta: \"O clima está sempre mudando\".",
-			"url": "https://www.terra.com.br/noticias/mundo/quem-e-naomi-seibt-a-jovem-anti-greta-thunberg-que-advoga-contra-alarmismo-ambiental,4a449f79341386d47754efeecc54e9d32275r4mo.html",
-			"urlToImage": "http://p2.trrsf.com/image/fget/cf/800/450/middle/images.terra.com/2020/03/02/111044041img2224.jpg",
-			"publishedAt": "2020-03-02T17:27:40Z",
-			"content": "\"Durante muitos anos, fui uma alarmista ambiental. Acreditava em toda essa narrativa de que as mudanças climáticas estavam destruindo o planeta (...), mas, depois de pesquisar um pouco, decidi que já tinha minha própria e sólida visão sobre o assunto.\"\r\nÉ ass… [+8243 chars]"
+			"title": "Relógios digitais vão informar quantidade de pessoas circulando em alguns bairros do Rio",
+			"description": "RIO - A prefeitura do Rio começou nesta quarta-feira a usar os relógios digitais instalados em algumas ruas do município para informar a população sobre a quantidade de pessoas que estão circulando em alguns bairros. A iniciativa é uma parceria do...Leia mais",
+			"url": "https://oglobo.globo.com/rio/relogios-digitais-vao-informar-quantidade-de-pessoas-circulando-em-alguns-bairros-do-rio-24412569",
+			"urlToImage": "https://extra.globo.com/incoming/24412625-a96-924/w976h550-PROP/relogios-.jpg",
+			"publishedAt": "2020-05-06T14:11:25Z",
+			"content": "A prefeitura do Rio começou nesta quarta-feira a usar os relógios digitais instalados em algumas ruas do município para informar a população sobre a quantidade de pessoas que estão circulando em alguns bairros. A iniciativa é uma parceria do Centro de Operaçõ… [+1853 chars]"
 		}
 	]
 }

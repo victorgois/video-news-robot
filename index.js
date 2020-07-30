@@ -4,7 +4,13 @@ const dataForgeWrite = require('data-forge-fs');
 */
 var readlineSync = require('readline-sync');
 var json = require('json-update');
-var schedule = require('node-schedule');
+//var schedule = require('node-schedule');
+
+const cron = require("node-cron");
+
+//const spawn = require("child_process").spawn;
+//const pythonProcess = spawn('python',["./sourceParse.py", arg1, arg2, ...]);
+
 const fs = require('fs');  
   request = require('request');
 
@@ -208,4 +214,6 @@ async function start(){
     //console.log(content.sentences)
   }
 
-var j = schedule.scheduleJob('20 16 * * *', start())
+//var j = schedule.scheduleJob('20 16 * * *', start())
+//cron.schedule("* * * *", () => start());
+start()
