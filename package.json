@@ -4,7 +4,7 @@
   "description": "Trabalho de Conclusão de Curso",
   "main": "main.js",
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "balanced-match": "^1.0.0",
     "data-forge": "^1.7.2",
     "data-forge-fs": "0.0.7",
