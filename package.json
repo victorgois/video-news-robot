@@ -6,7 +6,7 @@
   "dependencies": {
     "ajv": "^6.12.3",
     "balanced-match": "^1.0.0",
-    "data-forge": "^1.7.2",
+    "data-forge": "^1.9.6",
     "data-forge-fs": "0.0.7",
     "dataframe-js": "^1.4.3",
     "express": "^4.17.1",
