@@ -9,7 +9,7 @@
     "data-forge": "^1.7.2",
     "data-forge-fs": "0.0.7",
     "dataframe-js": "^1.4.3",
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "ffmpeg": "0.0.4",
     "fs": "0.0.1-security",
     "gm": "^1.23.1",
